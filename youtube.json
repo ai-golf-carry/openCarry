@@ -1,0 +1,30 @@
+[
+  {
+    'lang':'kor',
+    'list':
+      [
+        {
+          'title':'당신을 위한 추천 레슨',
+          'playListId':'PL2KtS99uNp9V0MV2eJsDh_Yfmf5lscI-d'
+        },
+        {
+          'title':'비기너시리즈-에이미조',
+          'playListId':'PLd0dTSR832e_AYg54SGFQL5CBliHv9--P'
+        }
+      ]
+  },
+  {
+    'lang':'eng',
+    'list':
+      [
+        {
+          'title':'당신을 위한 추천 레슨',
+          'playListId':'PL2KtS99uNp9V0MV2eJsDh_Yfmf5lscI-d'
+        },
+        {
+          'title':'비기너시리즈-에이미조',
+          'playListId':'PLd0dTSR832e_AYg54SGFQL5CBliHv9--P'
+        }
+      ]
+  }
+]
