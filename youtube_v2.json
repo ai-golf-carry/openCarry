@@ -1,86 +1,1389 @@
 [
-  {
-    'lang':'ko',
-    'version':'2020.06.01.01',
-    'list':
-      [
-        {
-          'title':'당신을 위한 추천 레슨',
-          'playListUrl':'https://www.youtube.com/playlist?list=PL2KtS99uNp9V0MV2eJsDh_Yfmf5lscI-d',
-          'channel':''
-        },
-        {
-          'title':'박연습',
-          'playListUrl':'',
-          'channel':'https://www.youtube.com/channel/UC6sVX_-lnuq8LqsD7Lp4WMg/videos'
-        },
-        {
-          'title':'케프로TV - Kevin Chun',
-          'playListUrl':'',
-          'channel':'https://www.youtube.com/channel/UCa1IUcF2TaGCLnU8zyxw-Vw/videos'
-        },
-        {
-          'title':'송경서 100초 레슨',
-          'playListUrl':'https://www.youtube.com/playlist?list=PLBSgQ-NUNFfsqJlqKpM8WDFO8xohhoIvU',
-          'channel':''
-        },
-        {
-          'title':'비기너시리즈-에이미조',
-          'playListUrl':'https://www.youtube.com/playlist?list=PLd0dTSR832e_AYg54SGFQL5CBliHv9--P',
-          'channel':''
-        },
-        {
-          'title':'[골프맨] 힙턴/하체사용',
-          'playListUrl':'',
-          'channel':'https://www.youtube.com/channel/UCZSNhOLPx3q87ss_N-vsmSA/videos'
-        },
-        {
-          'title':'심짱의 나드짱',
-          'playListUrl':'',
-          'channel':'https://www.youtube.com/user/simyangsup/videos?view=0&sort=p&flow=grid'
-        }
-      ]
-  },
-  {
-    'lang':'en',
-    'version':'2020.06.01.01',
-    'list':
-      [
-        {
-          'title':'당신을 위한 추천 레슨',
-          'playListUrl':'https://www.youtube.com/playlist?list=PL2KtS99uNp9V0MV2eJsDh_Yfmf5lscI-d',
-          'channel':''
-        },
-        {
-          'title':'박연습',
-          'playListUrl':'',
-          'channel':'https://www.youtube.com/channel/UC6sVX_-lnuq8LqsD7Lp4WMg/videos'
-        },
-        {
-          'title':'케프로TV - Kevin Chun',
-          'playListUrl':'',
-          'channel':'https://www.youtube.com/channel/UCa1IUcF2TaGCLnU8zyxw-Vw/videos'
-        },
-        {
-          'title':'송경서 100초 레슨',
-          'playListUrl':'https://www.youtube.com/playlist?list=PLBSgQ-NUNFfsqJlqKpM8WDFO8xohhoIvU',
-          'channel':''
-        },
-        {
-          'title':'비기너시리즈-에이미조',
-          'playListUrl':'https://www.youtube.com/playlist?list=PLd0dTSR832e_AYg54SGFQL5CBliHv9--P',
-          'channel':''
-        },
-        {
-          'title':'[골프맨] 힙턴/하체사용',
-          'playListUrl':'',
-          'channel':'https://www.youtube.com/channel/UCZSNhOLPx3q87ss_N-vsmSA/videos'
-        },
-        {
-          'title':'심짱의 나드짱',
-          'playListUrl':'',
-          'channel':'https://www.youtube.com/user/simyangsup/videos?view=0&sort=p&flow=grid'
-        }
-      ]
-  }
+    {
+        "subTitle": "8\uac1c \uc601\uc0c1",
+        "videoList": [
+            {
+                "channelId": "UCXLrICnAmWtDoq55x7B9VTQ",
+                "channelTitle": "\ub9c8\uc2a8\uc0dd",
+                "publish": "2020-01-30T13:39:50Z",
+                "thumbnails": "https://i.ytimg.com/vi/-n9WEwnJjxo/mqdefault.jpg",
+                "title": "\ud83c\udfcc\ufe0f\u200d\u2642\ufe0f\uc774 \uc5f0\uc2b5\ud558\uba74 \uace8\ud504\uc2a4\uc719\uada4\ub3c4\ud83c\udfcc\ufe0f\u200d\u2642\ufe0f, \uc784\ud399\ud2b8 \ubb34\uc870\uac74 \uc88b\uc544 \uc9d1\ub2c8\ub2e4!",
+                "videoId": "-n9WEwnJjxo"
+            },
+            {
+                "channelId": "UCXLrICnAmWtDoq55x7B9VTQ",
+                "channelTitle": "\ub9c8\uc2a8\uc0dd",
+                "publish": "2020-01-30T22:14:44Z",
+                "thumbnails": "https://i.ytimg.com/vi/6wAk7ljOB6I/mqdefault.jpg",
+                "title": "\uace8\ud504\uc2a4\uc719\uc758 \uc554\uac19\uc740 \uc874\uc7ac! \uce58\ud0a8\uc719! \uace0\uce60\uc218\uc788\uc2b5\ub2c8\ub2e4. with\uac15\uae30\uc6c5\ud504\ub85c",
+                "videoId": "6wAk7ljOB6I"
+            },
+            {
+                "channelId": "UCXLrICnAmWtDoq55x7B9VTQ",
+                "channelTitle": "\ub9c8\uc2a8\uc0dd",
+                "publish": "2020-01-31T07:45:52Z",
+                "thumbnails": "https://i.ytimg.com/vi/pV_-Omfvyf0/mqdefault.jpg",
+                "title": "\ubaa9\uc801\uc788\uac8c \uc5f0\uc2b5\ud558\uc790!  \ud0c0\uc218 \uc904\uc774\ub294 \ubc29\ubc95!",
+                "videoId": "pV_-Omfvyf0"
+            },
+            {
+                "channelId": "UCXLrICnAmWtDoq55x7B9VTQ",
+                "channelTitle": "\ub9c8\uc2a8\uc0dd",
+                "publish": "2020-01-31T07:46:14Z",
+                "thumbnails": "https://i.ytimg.com/vi/Oyg11iO9-10/mqdefault.jpg",
+                "title": "\uc624\ube44 \uc5c6\ub294 \uace8\ud504\ub97c \uc704\ud55c \ud2b9\ubcc4\ud55c \uc0f7! with \ucf00\ube48\uc804\ud504\ub85c",
+                "videoId": "Oyg11iO9-10"
+            },
+            {
+                "channelId": "UCXLrICnAmWtDoq55x7B9VTQ",
+                "channelTitle": "\ub9c8\uc2a8\uc0dd",
+                "publish": "2020-02-12T14:38:30Z",
+                "thumbnails": "https://i.ytimg.com/vi/n0AtX0xd9VA/mqdefault.jpg",
+                "title": "\ud314\ub85c\uc6b0,\ud798\ube7c\uae30 \ub458\ub2e4 \ub3c4\uc6c0\ub418\ub294 \uacf5\ub358\uc9c0\uae30\ub4dc\ub9b4!",
+                "videoId": "n0AtX0xd9VA"
+            },
+            {
+                "channelId": "UCXLrICnAmWtDoq55x7B9VTQ",
+                "channelTitle": "\ub9c8\uc2a8\uc0dd",
+                "publish": "2020-02-17T01:35:48Z",
+                "thumbnails": "https://i.ytimg.com/vi/XkxYeveWul0/mqdefault.jpg",
+                "title": "\uacf5\uc744 \uce58\uae30\uc804 \uc900\ube44 \ub3d9\uc791! \uc774\uac83\uc774 \uace8\ud504\uc758 \uae30\ubcf8\uc785\ub2c8\ub2e4.1\ubd80 with \ucc44\uc6d0\uc11d\ud504\ub85c",
+                "videoId": "XkxYeveWul0"
+            },
+            {
+                "channelId": "UCXLrICnAmWtDoq55x7B9VTQ",
+                "channelTitle": "\ub9c8\uc2a8\uc0dd",
+                "publish": "2020-02-23T10:56:57Z",
+                "thumbnails": "https://i.ytimg.com/vi/K7-_PU-Jx5c/mqdefault.jpg",
+                "title": "\ud83c\udfcc\ufe0f\u200d\u2642\ufe0f\uace8\ud504\uc2a4\uc719\uc744 \uadf8\ub9ac\ub824\uace0 \ud558\uc9c0\ub9c8\uc138\uc694! \ud83c\udfcc\ufe0f\u200d\u2640\ufe0f\ud83e\udd292\ubd80  with \ucc44\uc6d0\uc11d\ud504\ub85c",
+                "videoId": "K7-_PU-Jx5c"
+            },
+            {
+                "channelId": "UCXLrICnAmWtDoq55x7B9VTQ",
+                "channelTitle": "\ub9c8\uc2a8\uc0dd",
+                "publish": "2020-03-05T14:44:41Z",
+                "thumbnails": "https://i.ytimg.com/vi/BZbnXXhTGOA/mqdefault.jpg",
+                "title": "\ud83e\udd14\ud83e\udd29\ud83c\udfcc\ufe0f\u200d\u2640\ufe0f\ub204\uad6c\ub098 \uc544\ub294 \uc2a4\ucf54\uc5b4 \uc904\uc774\ub294 \ubc29\ubc95!  \ud83d\ude1c\ud83c\udfcc\ufe0f\u200d\u2642\ufe0f \uc2dc\uccad\uc790\uc5ec\ub7ec\ubd84\uc740  \uc798\ud558\uace0 \uacc4\uc2e0\uac00\uc694???",
+                "videoId": "BZbnXXhTGOA"
+            }
+        ]
+    },
+    {
+        "subTitle": "50\uac1c \uc601\uc0c1",
+        "videoList": [
+            {
+                "channelId": "UC6sVX_-lnuq8LqsD7Lp4WMg",
+                "channelTitle": "\ubc15\uc5f0\uc2b5",
+                "publish": "2019-09-07T05:23:51Z",
+                "thumbnails": "https://i.ytimg.com/vi/AqDGMcj6d7w/mqdefault.jpg",
+                "title": "[\ubc15\uc5f0\uc2b5] \uc7a5\ud0c0\ub294 \uc0ac\ub791\uc785\ub2c8\ub2e4 / \uc7a5\ud0c0\ud610\uc624\uc790 \uc2dc\uccad\uae08\uc9c0",
+                "videoId": "AqDGMcj6d7w"
+            },
+            {
+                "channelId": "UC6sVX_-lnuq8LqsD7Lp4WMg",
+                "channelTitle": "\ubc15\uc5f0\uc2b5",
+                "publish": "2019-10-12T11:50:38Z",
+                "thumbnails": "https://i.ytimg.com/vi/2XVpwRupXnI/mqdefault.jpg",
+                "title": "[\ubc15\uc5f0\uc2b5] \uc0c1\uccb4\ud134 (\uc5b4\uae68 \uae30\uc6b8\uae30 \ub9cc\ub4e4\uae30)",
+                "videoId": "2XVpwRupXnI"
+            },
+            {
+                "channelId": "UC6sVX_-lnuq8LqsD7Lp4WMg",
+                "channelTitle": "\ubc15\uc5f0\uc2b5",
+                "publish": "2019-10-09T09:14:03Z",
+                "thumbnails": "https://i.ytimg.com/vi/SqZUqurZSBs/mqdefault.jpg",
+                "title": "[\ubc15\uc5f0\uc2b5] \uc0ec\ub85c\uc789 \ud575\uc2ec \uae30\uc220 / \uc2dc\uacc4\ub4dc\ub9b4",
+                "videoId": "SqZUqurZSBs"
+            },
+            {
+                "channelId": "UC6sVX_-lnuq8LqsD7Lp4WMg",
+                "channelTitle": "\ubc15\uc5f0\uc2b5",
+                "publish": "2019-07-23T02:27:42Z",
+                "thumbnails": "https://i.ytimg.com/vi/LQW3rnB8URY/mqdefault.jpg",
+                "title": "[\ubc15\uc5f0\uc2b5] \ubb34\ub98e \uc678\ud68c\uc804",
+                "videoId": "LQW3rnB8URY"
+            },
+            {
+                "channelId": "UC6sVX_-lnuq8LqsD7Lp4WMg",
+                "channelTitle": "\ubc15\uc5f0\uc2b5",
+                "publish": "2019-06-18T00:04:30Z",
+                "thumbnails": "https://i.ytimg.com/vi/7vwGYLL9AjA/mqdefault.jpg",
+                "title": "[ \ubc15\uc5f0\uc2b5 ] \ud2b8\ub79c\uc9c0\uc158 / \uc0c1\ud558\uccb4 \ubd84\ub9ac",
+                "videoId": "7vwGYLL9AjA"
+            },
+            {
+                "channelId": "UC6sVX_-lnuq8LqsD7Lp4WMg",
+                "channelTitle": "\ubc15\uc5f0\uc2b5",
+                "publish": "2019-08-01T23:02:26Z",
+                "thumbnails": "https://i.ytimg.com/vi/CRcMYI5PySU/mqdefault.jpg",
+                "title": "[\ubc15\uc5f0\uc2b5 ]\uac00\ub85c\uc2a4\uc719 1\ud3b8 (\uc0ac\uc774\ub4dc \ubc34\ub529)",
+                "videoId": "CRcMYI5PySU"
+            },
+            {
+                "channelId": "UC6sVX_-lnuq8LqsD7Lp4WMg",
+                "channelTitle": "\ubc15\uc5f0\uc2b5",
+                "publish": "2019-10-28T03:23:19Z",
+                "thumbnails": "https://i.ytimg.com/vi/DLosRE6_haQ/mqdefault.jpg",
+                "title": "[\ubc15\uc5f0\uc2b5] \ubc30\uce58\uae30 \ubc29\uc9c0",
+                "videoId": "DLosRE6_haQ"
+            },
+            {
+                "channelId": "UC6sVX_-lnuq8LqsD7Lp4WMg",
+                "channelTitle": "\ubc15\uc5f0\uc2b5",
+                "publish": "2019-09-14T13:25:53Z",
+                "thumbnails": "https://i.ytimg.com/vi/Fo6X-viK4Ik/mqdefault.jpg",
+                "title": "[\ubc15\uc5f0\uc2b5] \ub2e4\uc6b4\uc2a4\uc719 \uc2a4\ud0c0\ud2b8 \uc21c\uc11c",
+                "videoId": "Fo6X-viK4Ik"
+            },
+            {
+                "channelId": "UC6sVX_-lnuq8LqsD7Lp4WMg",
+                "channelTitle": "\ubc15\uc5f0\uc2b5",
+                "publish": "2019-08-29T01:06:12Z",
+                "thumbnails": "https://i.ytimg.com/vi/oBf6UXu-qhM/mqdefault.jpg",
+                "title": "[\ubc15\uc5f0\uc2b5] \uc77c\ubd80\ub7ec \ub808\uae45 \ud558\uc9c0 \ub9c8\uc138\uc694",
+                "videoId": "oBf6UXu-qhM"
+            },
+            {
+                "channelId": "UC6sVX_-lnuq8LqsD7Lp4WMg",
+                "channelTitle": "\ubc15\uc5f0\uc2b5",
+                "publish": "2019-09-07T12:31:11Z",
+                "thumbnails": "https://i.ytimg.com/vi/wbXuFi68USw/mqdefault.jpg",
+                "title": "[\ubc15\uc5f0\uc2b5 ] \ud14c\uc774\ud06c\uc5b4\uc6e8\uc774",
+                "videoId": "wbXuFi68USw"
+            },
+            {
+                "channelId": "UC6sVX_-lnuq8LqsD7Lp4WMg",
+                "channelTitle": "\ubc15\uc5f0\uc2b5",
+                "publish": "2019-08-24T01:45:42Z",
+                "thumbnails": "https://i.ytimg.com/vi/S1AuoI57LE4/mqdefault.jpg",
+                "title": "[\ubc15\uc5f0\uc2b5] \ud78c\uc9c0\ub85c \ubc31\uc2a4\uc719 \ub9cc\ub4e4\uae30",
+                "videoId": "S1AuoI57LE4"
+            },
+            {
+                "channelId": "UC6sVX_-lnuq8LqsD7Lp4WMg",
+                "channelTitle": "\ubc15\uc5f0\uc2b5",
+                "publish": "2019-09-16T02:27:21Z",
+                "thumbnails": "https://i.ytimg.com/vi/gELHoxDVYcQ/mqdefault.jpg",
+                "title": "[\ubc15\uc5f0\uc2b5] \uac00\ub85c\uc2a4\uc719 2\ud3b8 (\uc0ac\uc774\ub4dc\ubc34\ub529)",
+                "videoId": "gELHoxDVYcQ"
+            },
+            {
+                "channelId": "UC6sVX_-lnuq8LqsD7Lp4WMg",
+                "channelTitle": "\ubc15\uc5f0\uc2b5",
+                "publish": "2019-09-07T22:55:45Z",
+                "thumbnails": "https://i.ytimg.com/vi/G3nvnVVgrxU/mqdefault.jpg",
+                "title": "[\ubc15\uc5f0\uc2b5 ] \uc778 \ud22c \uc778 \uada4\ub3c4 \ub9cc\ub4e4\u3131\u3163",
+                "videoId": "G3nvnVVgrxU"
+            },
+            {
+                "channelId": "UC6sVX_-lnuq8LqsD7Lp4WMg",
+                "channelTitle": "\ubc15\uc5f0\uc2b5",
+                "publish": "2019-10-19T08:57:21Z",
+                "thumbnails": "https://i.ytimg.com/vi/tKP8XhO_fWc/mqdefault.jpg",
+                "title": "[\ubc15\uc5f0\uc2b5] \uc6d0\uc2ec\ub825 / \uce74\uc6b4\ud130 \ubc1c\ub780\uc2a4",
+                "videoId": "tKP8XhO_fWc"
+            },
+            {
+                "channelId": "UC6sVX_-lnuq8LqsD7Lp4WMg",
+                "channelTitle": "\ubc15\uc5f0\uc2b5",
+                "publish": "2019-12-09T05:37:55Z",
+                "thumbnails": "https://i.ytimg.com/vi/o_h3rzaJxLc/mqdefault.jpg",
+                "title": "[\ubc14\ub514\ud134 /\uc0ec\ub85c\uc789 \uc785\ubb38\uc790\ub97c \uc704\ud55c \uc601\uc0c1] \ubc14\ub514\ud134 \uc21c\uc11c \uc815\ud574 \ubcf4\uae30",
+                "videoId": "o_h3rzaJxLc"
+            },
+            {
+                "channelId": "UC6sVX_-lnuq8LqsD7Lp4WMg",
+                "channelTitle": "\ubc15\uc5f0\uc2b5",
+                "publish": "2019-08-12T01:02:40Z",
+                "thumbnails": "https://i.ytimg.com/vi/nu-t3JCm_s0/mqdefault.jpg",
+                "title": "[\ubc15\uc5f0\uc2b5 ]\uc9c0\uba74\ubc18\ub825\ud6c4 \ubc30\uce58\uae30",
+                "videoId": "nu-t3JCm_s0"
+            },
+            {
+                "channelId": "UC6sVX_-lnuq8LqsD7Lp4WMg",
+                "channelTitle": "\ubc15\uc5f0\uc2b5",
+                "publish": "2019-09-15T03:45:38Z",
+                "thumbnails": "https://i.ytimg.com/vi/Lo1_XxsEmTA/mqdefault.jpg",
+                "title": "[\ubc15\uc5f0\uc2b5 ] \uc67c\ucabd\uc5b4\uae68/\uc67c\ud314\ub85c \ucd95\uc7a1\uae30",
+                "videoId": "Lo1_XxsEmTA"
+            },
+            {
+                "channelId": "UC6sVX_-lnuq8LqsD7Lp4WMg",
+                "channelTitle": "\ubc15\uc5f0\uc2b5",
+                "publish": "2019-10-10T06:07:03Z",
+                "thumbnails": "https://i.ytimg.com/vi/LppIYw3HxIs/mqdefault.jpg",
+                "title": "[ \ubc15\uc5f0\uc2b5 ] \ubc31\uc2a4\uc719 \uc544\ud06c \ud0a4\uc6b0\uae30",
+                "videoId": "LppIYw3HxIs"
+            },
+            {
+                "channelId": "UC6sVX_-lnuq8LqsD7Lp4WMg",
+                "channelTitle": "\ubc15\uc5f0\uc2b5",
+                "publish": "2019-07-28T03:59:58Z",
+                "thumbnails": "https://i.ytimg.com/vi/ERTSGHpueuo/mqdefault.jpg",
+                "title": "[\ubc15\uc5f0\uc2b5] \ubc31\uc2a4\uc719 \uace8\ubc18\ud134 /\uace8\ubc18\uae30\uc6b8\uc774\uae30",
+                "videoId": "ERTSGHpueuo"
+            },
+            {
+                "channelId": "UC6sVX_-lnuq8LqsD7Lp4WMg",
+                "channelTitle": "\ubc15\uc5f0\uc2b5",
+                "publish": "2019-12-01T11:37:43Z",
+                "thumbnails": "https://i.ytimg.com/vi/C2MbDDLFp2g/mqdefault.jpg",
+                "title": "[\ubc15\uc5f0\uc2b5] \uc784\ud329\ud6c4 \uc67c\ud314\ud3b4\uae30 / \uc190\ubaa9 \uc0ac\uc6a9\uc808\uc81c",
+                "videoId": "C2MbDDLFp2g"
+            },
+            {
+                "channelId": "UC6sVX_-lnuq8LqsD7Lp4WMg",
+                "channelTitle": "\ubc15\uc5f0\uc2b5",
+                "publish": "2020-01-19T13:39:35Z",
+                "thumbnails": "https://i.ytimg.com/vi/4FYuIRjFbUk/mqdefault.jpg",
+                "title": "[\ubc15\uc5f0\uc2b5] \ubc14\ub514\ub85c \uce58\ub294 \ub290\ub08c\uc774 \ubb54\uc9c0 \uc54c\uac8c \ud574\uc8fc\ub294 \ub4dc\ub9b4",
+                "videoId": "4FYuIRjFbUk"
+            },
+            {
+                "channelId": "UC6sVX_-lnuq8LqsD7Lp4WMg",
+                "channelTitle": "\ubc15\uc5f0\uc2b5",
+                "publish": "2019-11-30T13:32:39Z",
+                "thumbnails": "https://i.ytimg.com/vi/_SNbSQoBaCo/mqdefault.jpg",
+                "title": "[\ubc15\uc5f0\uc2b5 ] \ud558\uccb4\ucee8\ud2b8\ub864 / \ucc99\ucd94\uac01 \uc9c0\ud0a4\uae30",
+                "videoId": "_SNbSQoBaCo"
+            },
+            {
+                "channelId": "UC6sVX_-lnuq8LqsD7Lp4WMg",
+                "channelTitle": "\ubc15\uc5f0\uc2b5",
+                "publish": "2019-12-16T03:45:43Z",
+                "thumbnails": "https://i.ytimg.com/vi/SNiU0rhBADs/mqdefault.jpg",
+                "title": "[\ubc15\uc5f0\uc2b5 ]\ubc14\ub514\ud134/ \uc785\ubb38\uc790\uc6a9 \ub611\ub531\uc774 1\ud3b8",
+                "videoId": "SNiU0rhBADs"
+            },
+            {
+                "channelId": "UC6sVX_-lnuq8LqsD7Lp4WMg",
+                "channelTitle": "\ubc15\uc5f0\uc2b5",
+                "publish": "2020-01-14T02:18:24Z",
+                "thumbnails": "https://i.ytimg.com/vi/hj1ThfrGoqQ/mqdefault.jpg",
+                "title": "[\ubc15\uc5f0\uc2b5]\ubb34\ub98e\uc0ac\uc774 \uc881\ud788\uae30",
+                "videoId": "hj1ThfrGoqQ"
+            },
+            {
+                "channelId": "UC6sVX_-lnuq8LqsD7Lp4WMg",
+                "channelTitle": "\ubc15\uc5f0\uc2b5",
+                "publish": "2020-01-12T10:21:33Z",
+                "thumbnails": "https://i.ytimg.com/vi/OY1M5QGVIaw/mqdefault.jpg",
+                "title": "[\ubc15\uc5f0\uc2b5] \ud65c\uc9dd\ud540 \ud53c\ub2c8\uc26c / \uba38\ub9ac\ub538\ub824\uac00\uc9c0 \uc54a\uae30!",
+                "videoId": "OY1M5QGVIaw"
+            },
+            {
+                "channelId": "UC6sVX_-lnuq8LqsD7Lp4WMg",
+                "channelTitle": "\ubc15\uc5f0\uc2b5",
+                "publish": "2020-04-07T01:56:15Z",
+                "thumbnails": "https://i.ytimg.com/vi/wo_92nE-AwA/mqdefault.jpg",
+                "title": "[\ubc15\uc5f0\uc2b5]\ubc14\ub514\ud134 / \ud480 \uc2a4\uc719 \uc5f0\uacb0 \uc21c\uc11c",
+                "videoId": "wo_92nE-AwA"
+            },
+            {
+                "channelId": "UC6sVX_-lnuq8LqsD7Lp4WMg",
+                "channelTitle": "\ubc15\uc5f0\uc2b5",
+                "publish": "2020-01-08T04:32:19Z",
+                "thumbnails": "https://i.ytimg.com/vi/XET1lMEfuiU/mqdefault.jpg",
+                "title": "[\ubc15\uc5f0\uc2b5] \uc7a5\ud0c0\uce58\uae30 /\ubc14\ub514\ud134 \uc190\uae30\uc218\u3139",
+                "videoId": "XET1lMEfuiU"
+            },
+            {
+                "channelId": "UC6sVX_-lnuq8LqsD7Lp4WMg",
+                "channelTitle": "\ubc15\uc5f0\uc2b5",
+                "publish": "2019-07-18T23:53:26Z",
+                "thumbnails": "https://i.ytimg.com/vi/KNhmvhvZGZc/mqdefault.jpg",
+                "title": "[\ubc15\uc5f0\uc2b5 ] \uc218\ud53c\ub124\uc774\uc158 (\uc190\ubaa9 \uc678\uc804)",
+                "videoId": "KNhmvhvZGZc"
+            },
+            {
+                "channelId": "UC6sVX_-lnuq8LqsD7Lp4WMg",
+                "channelTitle": "\ubc15\uc5f0\uc2b5",
+                "publish": "2019-08-14T23:17:03Z",
+                "thumbnails": "https://i.ytimg.com/vi/OgJM0VPDQ20/mqdefault.jpg",
+                "title": "[\ubc15\uc5f0\uc2b5] \ub2c8\ud0a5 \uad50\uc815 / \uc624\ub978\ubc1c \uc798\uc4f0\uae30",
+                "videoId": "OgJM0VPDQ20"
+            },
+            {
+                "channelId": "UC6sVX_-lnuq8LqsD7Lp4WMg",
+                "channelTitle": "\ubc15\uc5f0\uc2b5",
+                "publish": "2019-10-21T03:25:27Z",
+                "thumbnails": "https://i.ytimg.com/vi/1G2uvxK3gNU/mqdefault.jpg",
+                "title": "[\ubc15\uc5f0\uc2b5 ] \ubc1c\ubc14\ub2e5 \uc555\ub825\uc810 \ub290\ub07c\uae30 / \uce74\uc6b4\ud130 \ubc1c\ub780\uc2a4 \uc5f0\uc2b5\uc601\uc0c1\uc785\ub2c8\ub2e4",
+                "videoId": "1G2uvxK3gNU"
+            },
+            {
+                "channelId": "UC6sVX_-lnuq8LqsD7Lp4WMg",
+                "channelTitle": "\ubc15\uc5f0\uc2b5",
+                "publish": "2019-11-07T02:36:02Z",
+                "thumbnails": "https://i.ytimg.com/vi/qaFu_kDWw5o/mqdefault.jpg",
+                "title": "[\ubc15\uc5f0\uc2b5 ] \uc0ec\ub85c\uc789\ud55c\ucc99 vs \uc9c4\uc9dc\uc0ec\ub85c\uc789",
+                "videoId": "qaFu_kDWw5o"
+            },
+            {
+                "channelId": "UC6sVX_-lnuq8LqsD7Lp4WMg",
+                "channelTitle": "\ubc15\uc5f0\uc2b5",
+                "publish": "2019-08-16T01:56:51Z",
+                "thumbnails": "https://i.ytimg.com/vi/3B7Iisb5MQg/mqdefault.jpg",
+                "title": "[\ubc15\uc5f0\uc2b5] \ucf54\ud0b9 /\ud78c\uc9c0/ \ub85c\ud14c\uc774\uc158\uc758 \ucc28\uc774\ub97c \uc54c\uc544\ubcf4\uc790",
+                "videoId": "3B7Iisb5MQg"
+            },
+            {
+                "channelId": "UC6sVX_-lnuq8LqsD7Lp4WMg",
+                "channelTitle": "\ubc15\uc5f0\uc2b5",
+                "publish": "2019-07-07T06:20:17Z",
+                "thumbnails": "https://i.ytimg.com/vi/SL5uoct6wdY/mqdefault.jpg",
+                "title": "[ \ubc15\uc5f0\uc2b5 ] \ud314 \ub85c\ud14c\uc774\uc158",
+                "videoId": "SL5uoct6wdY"
+            },
+            {
+                "channelId": "UC6sVX_-lnuq8LqsD7Lp4WMg",
+                "channelTitle": "\ubc15\uc5f0\uc2b5",
+                "publish": "2019-09-08T04:41:07Z",
+                "thumbnails": "https://i.ytimg.com/vi/mWVdw4-CAGY/mqdefault.jpg",
+                "title": "[\ubc15\uc5f0\uc2b5 ] \uc544\uc6c3\uc778\ubd80\ud130 \uace0\uce58\uace0 \ubc14\ub514\ud134\uc785\ubb38\ud558\uc138\uc694~",
+                "videoId": "mWVdw4-CAGY"
+            },
+            {
+                "channelId": "UC6sVX_-lnuq8LqsD7Lp4WMg",
+                "channelTitle": "\ubc15\uc5f0\uc2b5",
+                "publish": "2019-11-17T09:18:55Z",
+                "thumbnails": "https://i.ytimg.com/vi/JzJ0jDUWc58/mqdefault.jpg",
+                "title": "[\ubc15\uc5f0\uc2b5 ] \uc0ec\ub85c\uc789 \ub4dc\ub9b4/ \uc950\ubd88\ub180\uc774",
+                "videoId": "JzJ0jDUWc58"
+            },
+            {
+                "channelId": "UC6sVX_-lnuq8LqsD7Lp4WMg",
+                "channelTitle": "\ubc15\uc5f0\uc2b5",
+                "publish": "2020-03-07T06:04:58Z",
+                "thumbnails": "https://i.ytimg.com/vi/l0iw5VRMHME/mqdefault.jpg",
+                "title": "[\ubc15\uc5f0\uc2b5]\uc544\ub9c8\ucd94\uc5b4\uac00 \ucc29\uac01\ud558\ub294 \ubc14\ub514\ud134",
+                "videoId": "l0iw5VRMHME"
+            },
+            {
+                "channelId": "UC6sVX_-lnuq8LqsD7Lp4WMg",
+                "channelTitle": "\ubc15\uc5f0\uc2b5",
+                "publish": "2019-11-12T03:41:30Z",
+                "thumbnails": "https://i.ytimg.com/vi/rEUrTpujUfA/mqdefault.jpg",
+                "title": "[\ubc15\uc5f0\uc2b5] \uac00\ud30c\ub978 \ubc31\uc2a4\uc719\uada4\ub3c4 \ub9cc\ub4e4\uae30",
+                "videoId": "rEUrTpujUfA"
+            },
+            {
+                "channelId": "UC6sVX_-lnuq8LqsD7Lp4WMg",
+                "channelTitle": "\ubc15\uc5f0\uc2b5",
+                "publish": "2019-07-21T02:57:17Z",
+                "thumbnails": "https://i.ytimg.com/vi/hPonVYad4Fk/mqdefault.jpg",
+                "title": "[\ubc15\uc5f0\uc2b5] \uc6d0\uc6b4\ub3d9 / \uc6d0\uadf8\ub9ac\uae30",
+                "videoId": "hPonVYad4Fk"
+            },
+            {
+                "channelId": "UC6sVX_-lnuq8LqsD7Lp4WMg",
+                "channelTitle": "\ubc15\uc5f0\uc2b5",
+                "publish": "2019-12-19T03:25:20Z",
+                "thumbnails": "https://i.ytimg.com/vi/dfdZ_PHWe-I/mqdefault.jpg",
+                "title": "[\ubc15\uc5f0\uc2b5] \ubc14\ub514\ud134 \uc785\ubb38\uc790\uc6a9 \ub611\ub531\uc774 2\ud3b8",
+                "videoId": "dfdZ_PHWe-I"
+            },
+            {
+                "channelId": "UC6sVX_-lnuq8LqsD7Lp4WMg",
+                "channelTitle": "\ubc15\uc5f0\uc2b5",
+                "publish": "2020-03-17T07:00:53Z",
+                "thumbnails": "https://i.ytimg.com/vi/y2Qa8Ua9bGU/mqdefault.jpg",
+                "title": "[\ubc15\uc5f0\uc2b5] \uc218\ud53c\ub124\uc774\uc158+ \u110b\u1165\u1102\u1165 \u1103\u1175\u1107\u1175\u110b\u1166\u110b\u1175\u1109\u1167\u11ab",
+                "videoId": "y2Qa8Ua9bGU"
+            },
+            {
+                "channelId": "UC6sVX_-lnuq8LqsD7Lp4WMg",
+                "channelTitle": "\ubc15\uc5f0\uc2b5",
+                "publish": "2019-10-29T06:00:27Z",
+                "thumbnails": "https://i.ytimg.com/vi/axluhXW_PNc/mqdefault.jpg",
+                "title": "[\ubc15\uc5f0\uc2b5] \uc2a4\ucffc\ud2b8 \uc5f0\uc2b5\uc601\uc0c1/ \uc624\ub298 \ub808\uc2a8 \uc5c6\uc5b4\uc694",
+                "videoId": "axluhXW_PNc"
+            },
+            {
+                "channelId": "UC6sVX_-lnuq8LqsD7Lp4WMg",
+                "channelTitle": "\ubc15\uc5f0\uc2b5",
+                "publish": "2019-07-11T03:42:10Z",
+                "thumbnails": "https://i.ytimg.com/vi/tGgbSO9_J-M/mqdefault.jpg",
+                "title": "[\ubc15\uc5f0\uc2b5] \uacfc\ud55c \uc778\uc544\uc6c3 \uad50\uc815/ \uc544\uc6c3\uc778 \uada4\ub3c4\ub294 \ub530\ub77c\ud558\uc9c0 \ub9c8\uc138\uc694",
+                "videoId": "tGgbSO9_J-M"
+            },
+            {
+                "channelId": "UC6sVX_-lnuq8LqsD7Lp4WMg",
+                "channelTitle": "\ubc15\uc5f0\uc2b5",
+                "publish": "2019-11-02T12:21:00Z",
+                "thumbnails": "https://i.ytimg.com/vi/hBD1IzlesxI/mqdefault.jpg",
+                "title": "[\ubc15\uc5f0\uc2b5 ] \ubc31\uc2a4\uc719 / \ud78c\uc9c0 +\ucf54\ud0b9 \ub9cc\ub4e4\uae30",
+                "videoId": "hBD1IzlesxI"
+            },
+            {
+                "channelId": "UC6sVX_-lnuq8LqsD7Lp4WMg",
+                "channelTitle": "\ubc15\uc5f0\uc2b5",
+                "publish": "2019-07-04T22:46:41Z",
+                "thumbnails": "https://i.ytimg.com/vi/aFG1agoZetI/mqdefault.jpg",
+                "title": "[ \ubc15\uc5f0\uc2b5 ]   \uc67c\uc190\uadf8\ub9bd\uc7a1\uae30",
+                "videoId": "aFG1agoZetI"
+            },
+            {
+                "channelId": "UC6sVX_-lnuq8LqsD7Lp4WMg",
+                "channelTitle": "\ubc15\uc5f0\uc2b5",
+                "publish": "2019-12-25T06:29:03Z",
+                "thumbnails": "https://i.ytimg.com/vi/PNKZls6zodk/mqdefault.jpg",
+                "title": "[\ubc15\uc5f0\uc2b5] \uc6b0\ub4dc.\uacf5\uc774 \uc548\ub72c\ub2e4??  / \uc5b4\uae68 + \uace8\ubc18 \uc815\uba74\ucc3e\uae30",
+                "videoId": "PNKZls6zodk"
+            },
+            {
+                "channelId": "UC6sVX_-lnuq8LqsD7Lp4WMg",
+                "channelTitle": "\ubc15\uc5f0\uc2b5",
+                "publish": "2019-12-30T02:12:13Z",
+                "thumbnails": "https://i.ytimg.com/vi/k-C6bi1UwYQ/mqdefault.jpg",
+                "title": "[\ubc15\uc5f0\uc2b5] \ubc14\ub514\ud134/\ud2b8\ub79c\uc9c0\uc158 \ud0c0\uc774\ubc0d \ucc3e\uae30",
+                "videoId": "k-C6bi1UwYQ"
+            },
+            {
+                "channelId": "UC6sVX_-lnuq8LqsD7Lp4WMg",
+                "channelTitle": "\ubc15\uc5f0\uc2b5",
+                "publish": "2020-03-10T08:42:51Z",
+                "thumbnails": "https://i.ytimg.com/vi/l5JHkiHbsb0/mqdefault.jpg",
+                "title": "[\ubc15\uc5f0\uc2b5]\ubc14\ub514\ud134\uc758 \ub9b4\ub9ac\uc988",
+                "videoId": "l5JHkiHbsb0"
+            },
+            {
+                "channelId": "UC6sVX_-lnuq8LqsD7Lp4WMg",
+                "channelTitle": "\ubc15\uc5f0\uc2b5",
+                "publish": "2020-05-24T13:05:30Z",
+                "thumbnails": "https://i.ytimg.com/vi/WG5sOhrwiWo/mqdefault.jpg",
+                "title": "[\ubc15\uc5f0\uc2b5]\ubc14\ub514\ud134 /\uc678\ud68c\uc804 \uc900\ube44",
+                "videoId": "WG5sOhrwiWo"
+            },
+            {
+                "channelId": "UC6sVX_-lnuq8LqsD7Lp4WMg",
+                "channelTitle": "\ubc15\uc5f0\uc2b5",
+                "publish": "2020-02-18T06:37:23Z",
+                "thumbnails": "https://i.ytimg.com/vi/r6DYVUUJlrI/mqdefault.jpg",
+                "title": "[\ubc15\uc5f0\uc2b5]GG\ub97c \ub9cc\ub098\uace0 \uc654\uc2b5\ub2c8\ub2e4",
+                "videoId": "r6DYVUUJlrI"
+            },
+            {
+                "channelId": "UC6sVX_-lnuq8LqsD7Lp4WMg",
+                "channelTitle": "\ubc15\uc5f0\uc2b5",
+                "publish": "2019-11-14T08:23:29Z",
+                "thumbnails": "https://i.ytimg.com/vi/cc_7YBesqho/mqdefault.jpg",
+                "title": "[\ubc15\uc5f0\uc2b5 ] \ud558\ud504\ub9cc\ub4e4\uae30",
+                "videoId": "cc_7YBesqho"
+            }
+        ]
+    },
+    {
+        "subTitle": "19\uac1c \uc601\uc0c1",
+        "videoList": [
+            {
+                "channelId": "UCa1IUcF2TaGCLnU8zyxw-Vw",
+                "channelTitle": "\ucf00\ud504\ub85cTV - Kevin Chun",
+                "publish": "2020-05-18T00:55:07Z",
+                "thumbnails": "https://i.ytimg.com/vi/GufmxudhXDQ/mqdefault.jpg",
+                "title": "Jordan Speith \uc120\uc218\ub3c4 \ud558\ub294 \uce69\ud551 \ubc29\ubc95\uc744 \ubc30\uc6b0\uace0 \uc654\uc2b5\ub2c8\ub2e4 - \ucf00\ud504\ub85cTV",
+                "videoId": "GufmxudhXDQ"
+            },
+            {
+                "channelId": "UCa1IUcF2TaGCLnU8zyxw-Vw",
+                "channelTitle": "\ucf00\ud504\ub85cTV - Kevin Chun",
+                "publish": "2020-05-11T08:15:37Z",
+                "thumbnails": "https://i.ytimg.com/vi/22sxAN6loow/mqdefault.jpg",
+                "title": "\uae40\ud64d\ud0dd\ud504\ub85c VS \ucea1\ud2f4\uc870\ubc31\uade0\u318d\ub3d9\ud0c4\ub9ac\ubca0\ub77c .1\ub300 2  \ub9e4\uce58 . \ud504\ub85c\ub97c \uc774\uaca8\ub77c!",
+                "videoId": "22sxAN6loow"
+            },
+            {
+                "channelId": "UCa1IUcF2TaGCLnU8zyxw-Vw",
+                "channelTitle": "\ucf00\ud504\ub85cTV - Kevin Chun",
+                "publish": "2020-05-09T09:08:16Z",
+                "thumbnails": "https://i.ytimg.com/vi/UwTsYrDAxrs/mqdefault.jpg",
+                "title": "\ub4dc\ub77c\uc774\ubc84 \uadf8\ub9bd\ub9cc \uc798 \uc7a1\uc544\ub3c4 \ube44\uac70\ub9ac 10m \uc774\uc0c1 \uc99d\uac00\ud569\ub2c8\ub2e4! \ube44\uac70\ub9ac \ud5a5\uc0c1\ub808\uc2a8 2\ud3b8 - \ucf00\ud504\ub85cTV",
+                "videoId": "UwTsYrDAxrs"
+            },
+            {
+                "channelId": "UCa1IUcF2TaGCLnU8zyxw-Vw",
+                "channelTitle": "\ucf00\ud504\ub85cTV - Kevin Chun",
+                "publish": "2020-05-07T13:38:50Z",
+                "thumbnails": "https://i.ytimg.com/vi/c1rrtSl0lTM/mqdefault.jpg",
+                "title": "\uc6b0\ub4dc\ub098 \uc720\ud2f8\ub9ac\ud2f0\ub97c \ubb34\uc870\uac74 \uc815\ud0c0 \uce60 \uc218 \uc788\ub294 \ubc29\ubc95 - \ucf00\ud504\ub85cTV",
+                "videoId": "c1rrtSl0lTM"
+            },
+            {
+                "channelId": "UCa1IUcF2TaGCLnU8zyxw-Vw",
+                "channelTitle": "\ucf00\ud504\ub85cTV - Kevin Chun",
+                "publish": "2020-04-20T14:58:14Z",
+                "thumbnails": "https://i.ytimg.com/vi/hLWiAoJVVuY/mqdefault.jpg",
+                "title": "\ud604 \ucf54\ub9ac\uc548\ud22c\uc5b4\ud504\ub85c\uac00 \uc54c\ub824\uc8fc\ub294 \ud398\uc774\ub4dc \uce58\ub294 \ubc29\ubc95\uc744 \uc54c\ub824\ub4dc\ub9bd\ub2c8\ub2e4! - \ucf00\ud504\ub85cTV",
+                "videoId": "hLWiAoJVVuY"
+            },
+            {
+                "channelId": "UCa1IUcF2TaGCLnU8zyxw-Vw",
+                "channelTitle": "\ucf00\ud504\ub85cTV - Kevin Chun",
+                "publish": "2020-04-05T13:05:19Z",
+                "thumbnails": "https://i.ytimg.com/vi/SaF9ELyLAKM/mqdefault.jpg",
+                "title": "\ud604 \ucf54\ub9ac\uc548\ud22c\uc5b4\ud504\ub85c\uac00 \ub4dc\ub85c\uc6b0 \uce58\ub294 \ubc29\ubc95 \uc54c\ub824\ub4dc\ub9bd\ub2c8\ub2e4! - \ucf00\ud504\ub85cTV",
+                "videoId": "SaF9ELyLAKM"
+            },
+            {
+                "channelId": "UCa1IUcF2TaGCLnU8zyxw-Vw",
+                "channelTitle": "\ucf00\ud504\ub85cTV - Kevin Chun",
+                "publish": "2020-03-25T05:17:52Z",
+                "thumbnails": "https://i.ytimg.com/vi/CjQ66pS3Tv8/mqdefault.jpg",
+                "title": "\ucf00\ud504\ub85cTV - \uc218\uc694\uc77c \uc544\uce68 \ub77c\ubc29 JMS \ud30c3 feat. \uc870\ud61c\ub9bc\ud504\ub85c",
+                "videoId": "CjQ66pS3Tv8"
+            },
+            {
+                "channelId": "UCa1IUcF2TaGCLnU8zyxw-Vw",
+                "channelTitle": "\ucf00\ud504\ub85cTV - Kevin Chun",
+                "publish": "2020-03-22T11:32:13Z",
+                "thumbnails": "https://i.ytimg.com/vi/dC9dp5r1FaU/mqdefault.jpg",
+                "title": "\ud0c0\uc774\ubc0d \uc774\ub807\uac8c \uc7a1\ub294\ub2e4! \uad6c\ub3c5\uc790 Q&A \ub2f5\ubcc0 \uc601\uc0c1 - \ucf00\ud504\ub85cTV",
+                "videoId": "dC9dp5r1FaU"
+            },
+            {
+                "channelId": "UCa1IUcF2TaGCLnU8zyxw-Vw",
+                "channelTitle": "\ucf00\ud504\ub85cTV - Kevin Chun",
+                "publish": "2020-03-16T00:04:37Z",
+                "thumbnails": "https://i.ytimg.com/vi/q7czd_OZw8E/mqdefault.jpg",
+                "title": "\ud604 \ud22c\uc5b4\ud504\ub85c\uac00 \uc54c\ub824\uc8fc\ub294 \uc2a4\uc719\uc5d0 \ub300\ud574 \uac00\uc7a5 \uc911\uc694\ud55c \ubd80\ubd84! - \ucf00\ud504\ub85cTV",
+                "videoId": "q7czd_OZw8E"
+            },
+            {
+                "channelId": "UCa1IUcF2TaGCLnU8zyxw-Vw",
+                "channelTitle": "\ucf00\ud504\ub85cTV - Kevin Chun",
+                "publish": "2020-03-02T14:34:44Z",
+                "thumbnails": "https://i.ytimg.com/vi/AWNDwgH7KaA/mqdefault.jpg",
+                "title": "Shank! \uc329\ud06c \ub098\uc2dc\ub294 \ubd84\ub4e4\uc740 \uc704\ud55c \uafc0\ud301! - \ucf00\ud504\ub85cTV",
+                "videoId": "AWNDwgH7KaA"
+            },
+            {
+                "channelId": "UCa1IUcF2TaGCLnU8zyxw-Vw",
+                "channelTitle": "\ucf00\ud504\ub85cTV - Kevin Chun",
+                "publish": "2020-02-19T01:53:20Z",
+                "thumbnails": "https://i.ytimg.com/vi/m8uAez_QPLc/mqdefault.jpg",
+                "title": "\ubc99\ucee4\uc5d0\uc11c \ubc15\ud78c \ubcfc \ube7c\ub294! \ubc15\uc740\ube44\ud504\ub85c\uc758 \uc57d\ube64 \uc544\ubb34\ub9d0\ub808\uc2a8 - \ucf00\ud504\ub85cTV",
+                "videoId": "m8uAez_QPLc"
+            },
+            {
+                "channelId": "UCa1IUcF2TaGCLnU8zyxw-Vw",
+                "channelTitle": "\ucf00\ud504\ub85cTV - Kevin Chun",
+                "publish": "2020-02-14T13:23:35Z",
+                "thumbnails": "https://i.ytimg.com/vi/F6dtgLa0hB8/mqdefault.jpg",
+                "title": "\ud22c\uc5b4\ud504\ub85c\uac00 \uc2dc\ud569 \uc804 \ud558\ub294 \ud37c\ud305 \uc900\ube44 \uacfc\uc815 - \ucf00\ud504\ub85cTV",
+                "videoId": "F6dtgLa0hB8"
+            },
+            {
+                "channelId": "UCa1IUcF2TaGCLnU8zyxw-Vw",
+                "channelTitle": "\ucf00\ud504\ub85cTV - Kevin Chun",
+                "publish": "2020-01-29T16:22:56Z",
+                "thumbnails": "https://i.ytimg.com/vi/sBJqth4X4t4/mqdefault.jpg",
+                "title": "\ub9b4\ub9ac\uc2a4\uac00 \uc548\ub41c\ub2e4\uba74 \uc774\ub807\uac8c \ud558\uc138\uc694! \ud604\uc5ed \ud22c\uc5b4\ud504\ub85c\ub4e4\ub3c4 \ud55c\ub2f5\ub2c8\ub2e4 - \ucf00\ud504\ub85cTV",
+                "videoId": "sBJqth4X4t4"
+            },
+            {
+                "channelId": "UCa1IUcF2TaGCLnU8zyxw-Vw",
+                "channelTitle": "\ucf00\ud504\ub85cTV - Kevin Chun",
+                "publish": "2020-01-25T11:33:07Z",
+                "thumbnails": "https://i.ytimg.com/vi/aSb3VTn_il4/mqdefault.jpg",
+                "title": "\ud37c\ud305\uc774 \ud754\ub4e4\ub9ac\uac70\ub098 \ubd88\uc548 \ud558\uc2e0 \ubd84\ub4e4\uc744 \uc704\ud55c \uafc0\ud301 - \ucf00\ud504\ub85cTV",
+                "videoId": "aSb3VTn_il4"
+            },
+            {
+                "channelId": "UCa1IUcF2TaGCLnU8zyxw-Vw",
+                "channelTitle": "\ucf00\ud504\ub85cTV - Kevin Chun",
+                "publish": "2020-01-24T15:49:06Z",
+                "thumbnails": "https://i.ytimg.com/vi/-gLOpsdg5UA/mqdefault.jpg",
+                "title": "\ud37c\ud130\ub294 \ub54c\ub824\uc57c\ud558\ub098 \ubc00\uc5b4\uc57c\ud558\ub098? \uadf8\uac83\uc774 \ubb38\uc81c\ub85c\ub2e4 - \ucf00\ud504\ub85cTV",
+                "videoId": "-gLOpsdg5UA"
+            },
+            {
+                "channelId": "UCa1IUcF2TaGCLnU8zyxw-Vw",
+                "channelTitle": "\ucf00\ud504\ub85cTV - Kevin Chun",
+                "publish": "2020-01-19T06:50:02Z",
+                "thumbnails": "https://i.ytimg.com/vi/vJtARoXNf5A/mqdefault.jpg",
+                "title": "\ud478\uc2dc & \ud480 \ubcfc \ud55c\ubc88\uc5d0 \ud0c0\ud30c! \uc774\ud574\ub97c \ud558\uba74 \uc774\ub807\uac8c \uc26c\uc6cc\uc694 - \ucf00\ud504\ub85cTV",
+                "videoId": "vJtARoXNf5A"
+            },
+            {
+                "channelId": "UCa1IUcF2TaGCLnU8zyxw-Vw",
+                "channelTitle": "\ucf00\ud504\ub85cTV - Kevin Chun",
+                "publish": "2020-01-11T12:09:05Z",
+                "thumbnails": "https://i.ytimg.com/vi/siG7RL2jyy8/mqdefault.jpg",
+                "title": "OB\ub294 \uc774\uc81c \uadf8\ub9cc! \uc54c\uba74 \uc26c\uc6b8\uac78\uc694? - \ucf00\ud504\ub85cTV",
+                "videoId": "siG7RL2jyy8"
+            },
+            {
+                "channelId": "UCa1IUcF2TaGCLnU8zyxw-Vw",
+                "channelTitle": "\ucf00\ud504\ub85cTV - Kevin Chun",
+                "publish": "2020-01-07T17:37:47Z",
+                "thumbnails": "https://i.ytimg.com/vi/VN-80YpWVhY/mqdefault.jpg",
+                "title": "\ubc14\ub85c \ub4dc\ub77c\uc774\ubc84 \ube44\uac70\ub9ac \ub298\ub9ac\ub294 \ubc29\ubc95! - \ud604\ud22c\uc5b4\ud504\ub85c\uac00 \uc54c\ub824\ub4dc\ub9bd\ub2c8\ub2e4 \ucf00\ud504\ub85cTV",
+                "videoId": "VN-80YpWVhY"
+            },
+            {
+                "channelId": "UCa1IUcF2TaGCLnU8zyxw-Vw",
+                "channelTitle": "\ucf00\ud504\ub85cTV - Kevin Chun",
+                "publish": "2019-12-20T07:11:54Z",
+                "thumbnails": "https://i.ytimg.com/vi/1IKxOuupoYw/mqdefault.jpg",
+                "title": "\uace8\ud504\ub808\uc2a8 \ubc1b\uae30 \uc804 \ubb34\uc870\uac74 \uc54c\uc544\uc57c\ud558\ub294 \uac83! (\uc790\ub9c9) - \ucf00\ud504\ub85cTV",
+                "videoId": "1IKxOuupoYw"
+            }
+        ]
+    },
+    {
+        "subTitle": "16\uac1c \uc601\uc0c1",
+        "videoList": [
+            {
+                "channelId": "UC0Rq2OFiujCzSbth0cbWZyw",
+                "channelTitle": "\uc1a1\uacbd\uc11c",
+                "publish": "2019-12-04T08:56:05Z",
+                "thumbnails": "https://i.ytimg.com/vi/4QNRVUJev20/mqdefault.jpg",
+                "title": "[100\ucd08\ub808\uc2a8-1] \uc5bc\ub9ac\uc775\uc2a4\ud150\uc158 \uad50\uc815 \ubc29\ubc95, \ubc30\uce58\uae30 \uad50\uc815  [\uc1a1\uacbd\uc11c 100\ucd08 \ub808\uc2a8 \ud504\ub85c\uc81d\ud2b8 -\uace8\ud504\ub808\uc2a8]",
+                "videoId": "4QNRVUJev20"
+            },
+            {
+                "channelId": "UC0Rq2OFiujCzSbth0cbWZyw",
+                "channelTitle": "\uc1a1\uacbd\uc11c",
+                "publish": "2019-12-13T04:14:36Z",
+                "thumbnails": "https://i.ytimg.com/vi/p_CxJSeooCE/mqdefault.jpg",
+                "title": "[100\ucd08\ub808\uc2a8-2] \ubc31\uc2a4\uc719 \uc2dc \uc5b4\uae68 \ud68c\uc804 \ud655\uc2e4\ud558\uac8c \ubc29\ubc95  [\uc1a1\uacbd\uc11c 100\ucd08 \ub808\uc2a8 \ud504\ub85c\uc81d\ud2b8 -\uace8\ud504\ub808\uc2a8]",
+                "videoId": "p_CxJSeooCE"
+            },
+            {
+                "channelId": "UC0Rq2OFiujCzSbth0cbWZyw",
+                "channelTitle": "\uc1a1\uacbd\uc11c",
+                "publish": "2019-12-26T05:57:33Z",
+                "thumbnails": "https://i.ytimg.com/vi/zVkPTOYroR0/mqdefault.jpg",
+                "title": "[100\ucd08\ub808\uc2a8-3] \uce90\uc2a4\ud305 100%\uace0\uce58\ub294 \ubc29\ubc95  [\uc1a1\uacbd\uc11c 100\ucd08 \ub808\uc2a8 \ud504\ub85c\uc81d\ud2b8 -\uace8\ud504\ub808\uc2a8]",
+                "videoId": "zVkPTOYroR0"
+            },
+            {
+                "channelId": "UC0Rq2OFiujCzSbth0cbWZyw",
+                "channelTitle": "\uc1a1\uacbd\uc11c",
+                "publish": "2020-01-06T07:57:19Z",
+                "thumbnails": "https://i.ytimg.com/vi/yKzoJ0SU4rs/mqdefault.jpg",
+                "title": "\ube44\uac70\ub9ac\ub97c \uc6d0\ud55c\ub2e4\uba74 \uc9c0\uad6c\ub97c \ubc1f\uc544\ub77c!! \ud798\uc4f0\ub294 \ubc29\ubc95 [100\ucd08\ub808\uc2a8-4]",
+                "videoId": "yKzoJ0SU4rs"
+            },
+            {
+                "channelId": "UC0Rq2OFiujCzSbth0cbWZyw",
+                "channelTitle": "\uc1a1\uacbd\uc11c",
+                "publish": "2020-01-13T08:40:42Z",
+                "thumbnails": "https://i.ytimg.com/vi/8kTHDB88Fbs/mqdefault.jpg",
+                "title": "\uc5ce\uc5b4\uce58\uc2dc\ub294 \ubd84\ub4e4\uc740 \ud55c\ubc88\uc740 \ubd10\uc57c\ud560 \uc601\uc0c1  \uc6d0\ud3ec\uc778\ud2b8 \ub808\uc2a8 [100\ucd08\ub808\uc2a8-5]",
+                "videoId": "8kTHDB88Fbs"
+            },
+            {
+                "channelId": "UC0Rq2OFiujCzSbth0cbWZyw",
+                "channelTitle": "\uc1a1\uacbd\uc11c",
+                "publish": "2020-01-20T06:29:01Z",
+                "thumbnails": "https://i.ytimg.com/vi/14YAbeCqXKc/mqdefault.jpg",
+                "title": "\ub4dc\ub77c\uc774\ubc84 \uc815\ud655\ud55c \uc784\ud329\ud2b8 \ub9cc\ub4dc\ub294 \ubc29\ubc95  [100\ucd08\ub808\uc2a8-6]",
+                "videoId": "14YAbeCqXKc"
+            },
+            {
+                "channelId": "UC0Rq2OFiujCzSbth0cbWZyw",
+                "channelTitle": "\uc1a1\uacbd\uc11c",
+                "publish": "2020-01-30T09:32:15Z",
+                "thumbnails": "https://i.ytimg.com/vi/xJGjTxrI3wE/mqdefault.jpg",
+                "title": "\uc624\ubc84\uc2a4\uc719 \ucd5c\uc545\uc758 \uacbd\uc6b0  [100\ucd08\ub808\uc2a8-7]",
+                "videoId": "xJGjTxrI3wE"
+            },
+            {
+                "channelId": "UC0Rq2OFiujCzSbth0cbWZyw",
+                "channelTitle": "\uc1a1\uacbd\uc11c",
+                "publish": "2020-02-20T08:28:12Z",
+                "thumbnails": "https://i.ytimg.com/vi/xPnPrDHyg6Q/mqdefault.jpg",
+                "title": "\uc2a4\uc719\uc911 \ud798\uc744 \ube7c\uc57c \ud560\ub54c\ub294 \uc5b8\uc81c\uc77c\uae4c?  [100\ucd08\ub808\uc2a8-8]",
+                "videoId": "xPnPrDHyg6Q"
+            },
+            {
+                "channelId": "UC0Rq2OFiujCzSbth0cbWZyw",
+                "channelTitle": "\uc1a1\uacbd\uc11c",
+                "publish": "2020-03-18T04:48:27Z",
+                "thumbnails": "https://i.ytimg.com/vi/7MD0JjTUaoM/mqdefault.jpg",
+                "title": "[\uc544\uc6c3\uc778 \uc2a4\uc719] \uace0\uce58\ub294 \ubc29\ubc95 \uc5c6\uc744\uae4c?  [100\ucd08\ub808\uc2a8-9]",
+                "videoId": "7MD0JjTUaoM"
+            },
+            {
+                "channelId": "UC0Rq2OFiujCzSbth0cbWZyw",
+                "channelTitle": "\uc1a1\uacbd\uc11c",
+                "publish": "2020-03-27T12:32:40Z",
+                "thumbnails": "https://i.ytimg.com/vi/cJAmLAXI-xc/mqdefault.jpg",
+                "title": "\uc784\ud329\ud2b8 \ub3d9\uc791 \ub9cc\ub4e4\uc5b4\ubcf4\uae30 [100\ucd08\ub808\uc2a8-10]",
+                "videoId": "cJAmLAXI-xc"
+            },
+            {
+                "channelId": "UC0Rq2OFiujCzSbth0cbWZyw",
+                "channelTitle": "\uc1a1\uacbd\uc11c",
+                "publish": "2020-03-27T12:32:49Z",
+                "thumbnails": "https://i.ytimg.com/vi/cJAmLAXI-xc/mqdefault.jpg",
+                "title": "\uc784\ud329\ud2b8 \ub3d9\uc791 \ub9cc\ub4e4\uc5b4\ubcf4\uae30 [100\ucd08\ub808\uc2a8-10]",
+                "videoId": "cJAmLAXI-xc"
+            },
+            {
+                "channelId": "UC0Rq2OFiujCzSbth0cbWZyw",
+                "channelTitle": "\uc1a1\uacbd\uc11c",
+                "publish": "2020-04-03T10:08:54Z",
+                "thumbnails": "https://i.ytimg.com/vi/BT6yzKh7XcI/mqdefault.jpg",
+                "title": "\ud14c\uc774\ud06c \ubc31 \uc5f0\uc2b5 \ubc29\ubc95 [100\ucd08\ub808\uc2a8-11]",
+                "videoId": "BT6yzKh7XcI"
+            },
+            {
+                "channelId": "UC0Rq2OFiujCzSbth0cbWZyw",
+                "channelTitle": "\uc1a1\uacbd\uc11c",
+                "publish": "2020-04-08T07:24:41Z",
+                "thumbnails": "https://i.ytimg.com/vi/-n7n-qR8Txg/mqdefault.jpg",
+                "title": "#\u1109\u1173\u110b\u1171\u11bc\u110b\u1167\u11ab\u1109\u1173\u11b8 \u110c\u1175\u11b8\u110b\u1166\u1109\u1165 \u1100\u1161\u11ab\u1103\u1161\u11ab\u1112\u1161\u1100\u1166 [100\ucd08\ub808\uc2a8-12]",
+                "videoId": "-n7n-qR8Txg"
+            },
+            {
+                "channelId": "UC0Rq2OFiujCzSbth0cbWZyw",
+                "channelTitle": "\uc1a1\uacbd\uc11c",
+                "publish": "2020-04-18T03:08:40Z",
+                "thumbnails": "https://i.ytimg.com/vi/KMibj6y97gQ/mqdefault.jpg",
+                "title": "#\uc2a4\uc719\uc5f0\uc2b5 \uc9d1\uc5d0\uc11c \uac04\ub2e8\ud558\uac8c2 [100\ucd08\ub808\uc2a8-13]",
+                "videoId": "KMibj6y97gQ"
+            },
+            {
+                "channelId": "UC0Rq2OFiujCzSbth0cbWZyw",
+                "channelTitle": "\uc1a1\uacbd\uc11c",
+                "publish": "2020-04-23T06:00:07Z",
+                "thumbnails": "https://i.ytimg.com/vi/f-Z3bI3D-bM/mqdefault.jpg",
+                "title": "#\uc2a4\uc719\uc5f0\uc2b5 \uc9d1\uc5d0\uc11c \uac04\ub2e8\ud558\uac8c3 [100\ucd08\ub808\uc2a8-14]",
+                "videoId": "f-Z3bI3D-bM"
+            },
+            {
+                "channelId": "UC0Rq2OFiujCzSbth0cbWZyw",
+                "channelTitle": "\uc1a1\uacbd\uc11c",
+                "publish": "2020-04-29T07:00:06Z",
+                "thumbnails": "https://i.ytimg.com/vi/k-9InSPGNbI/mqdefault.jpg",
+                "title": "#\ud5e4\ub4dc\uc5c5 \ubc29\uc9c0\ud558\uae30 [100\ucd08\ub808\uc2a8-15]",
+                "videoId": "k-9InSPGNbI"
+            }
+        ]
+    },
+    {
+        "subTitle": "50\uac1c \uc601\uc0c1",
+        "videoList": [
+            {
+                "channelId": "UC_MKtQ3csTuzkCNphc9uKCg",
+                "channelTitle": "yooan soung",
+                "publish": "2017-09-26T02:48:27Z",
+                "thumbnails": "https://i.ytimg.com/vi/YlbMHvIMcsw/mqdefault.jpg",
+                "title": "\uba85\ud488\uc2a4\uc719 \ube44\uae30\ub108 \uc2dc\ub9ac\uc988 001: \uc14b\uc5c5 | \uba85\ud488\uc2a4\uc719 \uc5d0\uc774\ubbf8 \uc870",
+                "videoId": "YlbMHvIMcsw"
+            },
+            {
+                "channelId": "UC_MKtQ3csTuzkCNphc9uKCg",
+                "channelTitle": "yooan soung",
+                "publish": "2017-09-26T02:51:18Z",
+                "thumbnails": "https://i.ytimg.com/vi/J6C3T_RECgM/mqdefault.jpg",
+                "title": "\uba85\ud488\uc2a4\uc719 \ube44\uae30\ub108 \uc2dc\ub9ac\uc988 002: \uae30\ubcf8 \ud130\ub2dd \ubaa8\uc158 | \uba85\ud488\uc2a4\uc719 \uc5d0\uc774\ubbf8 \uc870",
+                "videoId": "J6C3T_RECgM"
+            },
+            {
+                "channelId": "UC_MKtQ3csTuzkCNphc9uKCg",
+                "channelTitle": "yooan soung",
+                "publish": "2017-09-26T02:52:19Z",
+                "thumbnails": "https://i.ytimg.com/vi/EdnIR-U3Bjo/mqdefault.jpg",
+                "title": "\uba85\ud488\uc2a4\uc719 \ube44\uae30\ub108 \uc2dc\ub9ac\uc988 003: \uc815\ud655\ud558\uac8c \uadf8\ub9bd \uc7a1\ub294 \ubc29\ubc95 | \uba85\ud488\uc2a4\uc719 \uc5d0\uc774\ubbf8 \uc870",
+                "videoId": "EdnIR-U3Bjo"
+            },
+            {
+                "channelId": "UC_MKtQ3csTuzkCNphc9uKCg",
+                "channelTitle": "yooan soung",
+                "publish": "2017-09-26T02:52:41Z",
+                "thumbnails": "https://i.ytimg.com/vi/X7hxWpgkjRc/mqdefault.jpg",
+                "title": "\uba85\ud488\uc2a4\uc719 \ube44\uae30\ub108 \uc2dc\ub9ac\uc988 004: \ub611\ub531\uc774 | \uba85\ud488\uc2a4\uc719 \uc5d0\uc774\ubbf8 \uc870",
+                "videoId": "X7hxWpgkjRc"
+            },
+            {
+                "channelId": "UC_MKtQ3csTuzkCNphc9uKCg",
+                "channelTitle": "yooan soung",
+                "publish": "2017-09-26T02:52:49Z",
+                "thumbnails": "https://i.ytimg.com/vi/HJUn6uA-k3A/mqdefault.jpg",
+                "title": "\uba85\ud488\uc2a4\uc719 \ube44\uae30\ub108 \uc2dc\ub9ac\uc988 005: \ud558\ud504 \uc2a4\uc719 | \uba85\ud488\uc2a4\uc719 \uc5d0\uc774\ubbf8 \uc870",
+                "videoId": "HJUn6uA-k3A"
+            },
+            {
+                "channelId": "UC_MKtQ3csTuzkCNphc9uKCg",
+                "channelTitle": "yooan soung",
+                "publish": "2017-10-05T00:58:53Z",
+                "thumbnails": "https://i.ytimg.com/vi/Y0HTF_-qqCk/mqdefault.jpg",
+                "title": "3\ubc88 \uc6b0\ub4dc\ub85c \ud2f0\uc0f7\uc744 \ud560 \uacbd\uc6b0 | \uba85\ud488\uc2a4\uc719 \uc5d0\uc774\ubbf8 \uc870",
+                "videoId": "Y0HTF_-qqCk"
+            },
+            {
+                "channelId": "UC_MKtQ3csTuzkCNphc9uKCg",
+                "channelTitle": "yooan soung",
+                "publish": "2017-11-23T00:08:52Z",
+                "thumbnails": "https://i.ytimg.com/vi/I0VlfnPpAOc/mqdefault.jpg",
+                "title": "\uace8\ud504\uc2a4\uc719\uc2dc \uacf5\uc744 \uc8fc\uc2dc \ubabb\ud558\ub294 \uacbd\uc6b0 | \uba85\ud488\uc2a4\uc719 \uc5d0\uc774\ubbf8 \uc870",
+                "videoId": "I0VlfnPpAOc"
+            },
+            {
+                "channelId": "UC_MKtQ3csTuzkCNphc9uKCg",
+                "channelTitle": "yooan soung",
+                "publish": "2017-11-23T00:14:07Z",
+                "thumbnails": "https://i.ytimg.com/vi/UgQ58LiyMXw/mqdefault.jpg",
+                "title": "\uace8\ud504\uc2a4\uc719\uc2dc \uacf5\uc744 \uc8fc\uc2dc \ubabb\ud558\ub294 \uacbd\uc6b0 PART 2 | \uba85\ud488\uc2a4\uc719 \uc5d0\uc774\ubbf8 \uc870",
+                "videoId": "UgQ58LiyMXw"
+            },
+            {
+                "channelId": "UC_MKtQ3csTuzkCNphc9uKCg",
+                "channelTitle": "yooan soung",
+                "publish": "2017-11-23T00:21:18Z",
+                "thumbnails": "https://i.ytimg.com/vi/qaiDJCREUYg/mqdefault.jpg",
+                "title": "\uace8\ud504 \uadf8\ub9bd - \uc138\uc190\uac00\ub77d\uc758 \ube44\ubc00 | \uba85\ud488\uc2a4\uc719 \uc5d0\uc774\ubbf8 \uc870",
+                "videoId": "qaiDJCREUYg"
+            },
+            {
+                "channelId": "UC_MKtQ3csTuzkCNphc9uKCg",
+                "channelTitle": "yooan soung",
+                "publish": "2017-11-23T00:21:21Z",
+                "thumbnails": "https://i.ytimg.com/vi/MfUf9WAcu2I/mqdefault.jpg",
+                "title": "\uce58\ud551\uc758 \uae30\ubcf8 \ucee8\uc149\ud2b8 | \uba85\ud488\uc2a4\uc719 \uc5d0\uc774\ubbf8 \uc870",
+                "videoId": "MfUf9WAcu2I"
+            },
+            {
+                "channelId": "UC_MKtQ3csTuzkCNphc9uKCg",
+                "channelTitle": "yooan soung",
+                "publish": "2017-11-23T00:21:25Z",
+                "thumbnails": "https://i.ytimg.com/vi/T1N6kOkkU8M/mqdefault.jpg",
+                "title": "\uc2a4\uc719 \ud15c\ud3ec | \uba85\ud488\uc2a4\uc719 \uc5d0\uc774\ubbf8 \uc870",
+                "videoId": "T1N6kOkkU8M"
+            },
+            {
+                "channelId": "UC_MKtQ3csTuzkCNphc9uKCg",
+                "channelTitle": "yooan soung",
+                "publish": "2017-11-23T00:21:28Z",
+                "thumbnails": "https://i.ytimg.com/vi/F9EvRDpCC-g/mqdefault.jpg",
+                "title": "\uce58\ud551#2 | \uba85\ud488\uc2a4\uc719 \uc5d0\uc774\ubbf8 \uc870",
+                "videoId": "F9EvRDpCC-g"
+            },
+            {
+                "channelId": "UC_MKtQ3csTuzkCNphc9uKCg",
+                "channelTitle": "yooan soung",
+                "publish": "2017-11-23T00:21:35Z",
+                "thumbnails": "https://i.ytimg.com/vi/n51KVI2Z7u0/mqdefault.jpg",
+                "title": "\u1105\u1165\u11ab\u1102\u1175\u11bc & \u1107\u1162\u11a8\u1109\u1173\u1111\u1175\u11ab \u110e\u1175\u11b8\u1109\u1163\u11ba | \uba85\ud488\uc2a4\uc719 \uc5d0\uc774\ubbf8 \uc870",
+                "videoId": "n51KVI2Z7u0"
+            },
+            {
+                "channelId": "UC_MKtQ3csTuzkCNphc9uKCg",
+                "channelTitle": "yooan soung",
+                "publish": "2017-11-23T00:21:37Z",
+                "thumbnails": "https://i.ytimg.com/vi/bEi8GpmtWXI/mqdefault.jpg",
+                "title": "\uc67c\ub2e4\ub9ac\uc758 \uc911\uc694\uc131 | \uba85\ud488\uc2a4\uc719 \uc5d0\uc774\ubbf8 \uc870",
+                "videoId": "bEi8GpmtWXI"
+            },
+            {
+                "channelId": "UC_MKtQ3csTuzkCNphc9uKCg",
+                "channelTitle": "yooan soung",
+                "publish": "2017-11-23T00:21:42Z",
+                "thumbnails": "https://i.ytimg.com/vi/zuIq8OlOgcU/mqdefault.jpg",
+                "title": "\ucd95 | \uba85\ud488\uc2a4\uc719 \uc5d0\uc774\ubbf8 \uc870",
+                "videoId": "zuIq8OlOgcU"
+            },
+            {
+                "channelId": "UC_MKtQ3csTuzkCNphc9uKCg",
+                "channelTitle": "yooan soung",
+                "publish": "2017-11-23T00:21:44Z",
+                "thumbnails": "https://i.ytimg.com/vi/f7AFvdjFuHA/mqdefault.jpg",
+                "title": "3\ubc88 \uc6b0\ub4dc \uc2a4\uc719 \ucee8\uc149 | \uba85\ud488\uc2a4\uc719 \uc5d0\uc774\ubbf8 \uc870",
+                "videoId": "f7AFvdjFuHA"
+            },
+            {
+                "channelId": "UC_MKtQ3csTuzkCNphc9uKCg",
+                "channelTitle": "yooan soung",
+                "publish": "2017-11-23T00:21:49Z",
+                "thumbnails": "https://i.ytimg.com/vi/bdP0xeI4Mjo/mqdefault.jpg",
+                "title": "\uc14b\uc5c5\uc575\uae00 \uc720\uc9c0\ud558\uc138\uc694! | \uba85\ud488\uc2a4\uc719 \uc5d0\uc774\ubbf8 \uc870",
+                "videoId": "bdP0xeI4Mjo"
+            },
+            {
+                "channelId": "UC_MKtQ3csTuzkCNphc9uKCg",
+                "channelTitle": "yooan soung",
+                "publish": "2017-11-23T00:21:52Z",
+                "thumbnails": "https://i.ytimg.com/vi/MlatosYK7Wg/mqdefault.jpg",
+                "title": "\ubc99\ucee4\uc758 \uae30\ubcf8 | \uba85\ud488\uc2a4\uc719 \uc5d0\uc774\ubbf8 \uc870",
+                "videoId": "MlatosYK7Wg"
+            },
+            {
+                "channelId": "UC_MKtQ3csTuzkCNphc9uKCg",
+                "channelTitle": "yooan soung",
+                "publish": "2017-11-23T00:21:56Z",
+                "thumbnails": "https://i.ytimg.com/vi/gZXXNG3sTSI/mqdefault.jpg",
+                "title": "\uadf8\ub9b0\uc0ac\uc774\ub4dc \ubc99\ucee4 | \uba85\ud488\uc2a4\uc719 \uc5d0\uc774\ubbf8 \uc870",
+                "videoId": "gZXXNG3sTSI"
+            },
+            {
+                "channelId": "UC_MKtQ3csTuzkCNphc9uKCg",
+                "channelTitle": "yooan soung",
+                "publish": "2017-11-23T00:21:58Z",
+                "thumbnails": "https://i.ytimg.com/vi/KpnQRy3nnBU/mqdefault.jpg",
+                "title": "\ubc31\uc2a4\uc719 \ub808\uc2a8- \u110e\u1175\u110f\u1175\u11ab\u110b\u1171\u11bc\uc744 \uc7a1\uc544\ub77c | \uba85\ud488\uc2a4\uc719 \uc5d0\uc774\ubbf8 \uc870",
+                "videoId": "KpnQRy3nnBU"
+            },
+            {
+                "channelId": "UC_MKtQ3csTuzkCNphc9uKCg",
+                "channelTitle": "yooan soung",
+                "publish": "2017-11-23T00:22:03Z",
+                "thumbnails": "https://i.ytimg.com/vi/FOzlJoEzvKc/mqdefault.jpg",
+                "title": "[\uba85\ud488\uc2a4\uc719 \uc5d0\uc774\ubbf8 \uc870] \uace8\ud504 \ub808\uc2a8 016- \uc14b\uc5c5\uc575\uae00 \uc720\uc9c0\ud558\uae30 2\ubd80",
+                "videoId": "FOzlJoEzvKc"
+            },
+            {
+                "channelId": "UC_MKtQ3csTuzkCNphc9uKCg",
+                "channelTitle": "yooan soung",
+                "publish": "2017-11-23T00:22:06Z",
+                "thumbnails": "https://i.ytimg.com/vi/7lbvodnT9Bg/mqdefault.jpg",
+                "title": "[\uba85\ud488\uc2a4\uc719 \uc5d0\uc774\ubbf8 \uc870] \uace8\ud504 \ub808\uc2a8 017- \uc190 \ud798\ube7c\ub294 \ubc29\ubc95",
+                "videoId": "7lbvodnT9Bg"
+            },
+            {
+                "channelId": "UC_MKtQ3csTuzkCNphc9uKCg",
+                "channelTitle": "yooan soung",
+                "publish": "2017-11-23T00:22:10Z",
+                "thumbnails": "https://i.ytimg.com/vi/ZyG0eiV3Uxc/mqdefault.jpg",
+                "title": "[\uba85\ud488\uc2a4\uc719 \uc5d0\uc774\ubbf8 \uc870] \uace8\ud504 \ub808\uc2a8 018- \u1111\u1161\u110b\u116f \u1109\u1166\u11ba\u110b\u1165\u11b8",
+                "videoId": "ZyG0eiV3Uxc"
+            },
+            {
+                "channelId": "UC_MKtQ3csTuzkCNphc9uKCg",
+                "channelTitle": "yooan soung",
+                "publish": "2017-11-23T00:22:12Z",
+                "thumbnails": "https://i.ytimg.com/vi/67XEAP-qH-c/mqdefault.jpg",
+                "title": "[\uba85\ud488\uc2a4\uc719 \uc5d0\uc774\ubbf8 \uc870] \uace8\ud504 \ub808\uc2a8 019- \ud30c\uc6cc \u1107\u1162\u11a8\u1109\u1173\u110b\u1171\u11bc",
+                "videoId": "67XEAP-qH-c"
+            },
+            {
+                "channelId": "UC_MKtQ3csTuzkCNphc9uKCg",
+                "channelTitle": "yooan soung",
+                "publish": "2017-11-23T00:22:22Z",
+                "thumbnails": "https://i.ytimg.com/vi/UwHJe0AwY_8/mqdefault.jpg",
+                "title": "[\uba85\ud488\uc2a4\uc719 \uc5d0\uc774\ubbf8 \uc870] \uace8\ud504 \ub808\uc2a8 021- \ub2e4\uc6b4\uc2a4\uc719 \u1110\u1173\u1105\u1166\u11ab\uc9c0\u1109\u1167\u11ab",
+                "videoId": "UwHJe0AwY_8"
+            },
+            {
+                "channelId": "UC_MKtQ3csTuzkCNphc9uKCg",
+                "channelTitle": "yooan soung",
+                "publish": "2017-11-23T00:22:25Z",
+                "thumbnails": "https://i.ytimg.com/vi/Od2MESyz7kE/mqdefault.jpg",
+                "title": "[\uba85\ud488\uc2a4\uc719 \uc5d0\uc774\ubbf8 \uc870] \uace8\ud504 \ub808\uc2a8 022- \ub798\uadf8 & \uce90\uc2a4\ud305",
+                "videoId": "Od2MESyz7kE"
+            },
+            {
+                "channelId": "UC_MKtQ3csTuzkCNphc9uKCg",
+                "channelTitle": "yooan soung",
+                "publish": "2017-11-23T00:22:28Z",
+                "thumbnails": "https://i.ytimg.com/vi/Z0jcGusJrx0/mqdefault.jpg",
+                "title": "[\uba85\ud488\uc2a4\uc719 \uc5d0\uc774\ubbf8 \uc870] \uace8\ud504 \ub808\uc2a8 023- \uce58\ud0a8\uc719 PART 2",
+                "videoId": "Z0jcGusJrx0"
+            },
+            {
+                "channelId": "UC_MKtQ3csTuzkCNphc9uKCg",
+                "channelTitle": "yooan soung",
+                "publish": "2017-11-23T00:22:31Z",
+                "thumbnails": "https://i.ytimg.com/vi/n5SdccAL30s/mqdefault.jpg",
+                "title": "[\uba85\ud488\uc2a4\uc719 \uc5d0\uc774\ubbf8 \uc870] \uace8\ud504 \ub808\uc2a8 024- \ub798\uadf8 \uc798\ud558\uae30!",
+                "videoId": "n5SdccAL30s"
+            },
+            {
+                "channelId": "UC_MKtQ3csTuzkCNphc9uKCg",
+                "channelTitle": "yooan soung",
+                "publish": "2017-11-23T00:22:35Z",
+                "thumbnails": "https://i.ytimg.com/vi/eIFqPI6iEOQ/mqdefault.jpg",
+                "title": "[\uba85\ud488\uc2a4\uc719 \uc5d0\uc774\ubbf8 \uc870] \uace8\ud504 \ub808\uc2a8 025 - \uc62c\ubc14\ub978 \ud788\ud504\uc640 \uc5b4\uae68 \uc0ac\uc6a9\ubc95",
+                "videoId": "eIFqPI6iEOQ"
+            },
+            {
+                "channelId": "UC_MKtQ3csTuzkCNphc9uKCg",
+                "channelTitle": "yooan soung",
+                "publish": "2017-11-23T00:22:38Z",
+                "thumbnails": "https://i.ytimg.com/vi/30RSN9rPkDI/mqdefault.jpg",
+                "title": "[\uba85\ud488\uc2a4\uc719 \uc5d0\uc774\ubbf8 \uc870] \uace8\ud504 \ub808\uc2a8 026- Q&A \uc62c\ubc14\ub978 \ud558\uccb4 \ub3d9\uc791",
+                "videoId": "30RSN9rPkDI"
+            },
+            {
+                "channelId": "UC_MKtQ3csTuzkCNphc9uKCg",
+                "channelTitle": "yooan soung",
+                "publish": "2017-11-23T00:22:42Z",
+                "thumbnails": "https://i.ytimg.com/vi/6GTfm1ppA1Y/mqdefault.jpg",
+                "title": "\uc7a5\ud0c0\uc758 \ube44\uacb0: \uc784\ud329\ud2b8 | \uba85\ud488\uc2a4\uc719 \uc5d0\uc774\ubbf8 \uc870",
+                "videoId": "6GTfm1ppA1Y"
+            },
+            {
+                "channelId": "UC_MKtQ3csTuzkCNphc9uKCg",
+                "channelTitle": "yooan soung",
+                "publish": "2017-11-23T00:22:45Z",
+                "thumbnails": "https://i.ytimg.com/vi/iWaTkBHAR0U/mqdefault.jpg",
+                "title": "\ud30c\uc6cc \uc784\ud329\ud2b8\ub97c \uc704\ud55c: \u1111\u1169\u1109\u1173\u1110\u1173 \u110b\u1175\u11b7\u1111\u1162\u11a8\u1110\u1173 | \uba85\ud488\uc2a4\uc719 \uc5d0\uc774\ubbf8 \uc870",
+                "videoId": "iWaTkBHAR0U"
+            },
+            {
+                "channelId": "UC_MKtQ3csTuzkCNphc9uKCg",
+                "channelTitle": "yooan soung",
+                "publish": "2017-11-23T00:22:48Z",
+                "thumbnails": "https://i.ytimg.com/vi/DD9DiKZxwO8/mqdefault.jpg",
+                "title": "[\uba85\ud488\uc2a4\uc719 \uc5d0\uc774\ubbf8 \uc870] \uace8\ud504 \ub808\uc2a8 029- \ubd80\uc0c1 \ubc29\uc9c0 + \ube44\uac70\ub9ac \ub298\ub9ac\uae30",
+                "videoId": "DD9DiKZxwO8"
+            },
+            {
+                "channelId": "UC_MKtQ3csTuzkCNphc9uKCg",
+                "channelTitle": "yooan soung",
+                "publish": "2017-11-23T00:22:51Z",
+                "thumbnails": "https://i.ytimg.com/vi/L9YGbyFlnPs/mqdefault.jpg",
+                "title": "[\uba85\ud488\uc2a4\uc719 \uc5d0\uc774\ubbf8 \uc870] \uace8\ud504 \ub808\uc2a8 030- \u1111\u1175\u110e\u1175\u11bc\uc758 \uae30\ubcf8",
+                "videoId": "L9YGbyFlnPs"
+            },
+            {
+                "channelId": "UC_MKtQ3csTuzkCNphc9uKCg",
+                "channelTitle": "yooan soung",
+                "publish": "2017-11-23T00:22:53Z",
+                "thumbnails": "https://i.ytimg.com/vi/frIb_8H5Ip0/mqdefault.jpg",
+                "title": "[\uba85\ud488\uc2a4\uc719 \uc5d0\uc774\ubbf8 \uc870] \uace8\ud504 \ub808\uc2a8 031- \ud53c\uce58\uc0f7 \uac70\ub9ac \ucee8\ud2b8\ub864",
+                "videoId": "frIb_8H5Ip0"
+            },
+            {
+                "channelId": "UC_MKtQ3csTuzkCNphc9uKCg",
+                "channelTitle": "yooan soung",
+                "publish": "2017-11-23T00:23:00Z",
+                "thumbnails": "https://i.ytimg.com/vi/KV-N0VSmJSo/mqdefault.jpg",
+                "title": "\uc7a5\ud0c0\uc758 \ube44\uacb0: \ubcf5\uadfc\ud798\uc73c\ub85c \ub4dc\ub77c\uc774\ubc84 \ube44\uac70\ub9ac \ub298\ub9ac\uae30 | \uba85\ud488\uc2a4\uc719 \uc5d0\uc774\ubbf8 \uc870",
+                "videoId": "KV-N0VSmJSo"
+            },
+            {
+                "channelId": "UC_MKtQ3csTuzkCNphc9uKCg",
+                "channelTitle": "yooan soung",
+                "publish": "2017-11-23T00:23:03Z",
+                "thumbnails": "https://i.ytimg.com/vi/WYf27Esvqzw/mqdefault.jpg",
+                "title": "\ub77c\uc6b4\ub529 \uc804 1\u1107\u116e\u11ab \u1109\u1173\u1110\u1173\u1105\u1166\u110e\u1175\u11bc | \uba85\ud488\uc2a4\uc719 \uc5d0\uc774\ubbf8 \uc870",
+                "videoId": "WYf27Esvqzw"
+            },
+            {
+                "channelId": "UC_MKtQ3csTuzkCNphc9uKCg",
+                "channelTitle": "yooan soung",
+                "publish": "2017-11-23T00:23:07Z",
+                "thumbnails": "https://i.ytimg.com/vi/YlbMHvIMcsw/mqdefault.jpg",
+                "title": "\uba85\ud488\uc2a4\uc719 \ube44\uae30\ub108 \uc2dc\ub9ac\uc988 001: \uc14b\uc5c5 | \uba85\ud488\uc2a4\uc719 \uc5d0\uc774\ubbf8 \uc870",
+                "videoId": "YlbMHvIMcsw"
+            },
+            {
+                "channelId": "UC_MKtQ3csTuzkCNphc9uKCg",
+                "channelTitle": "yooan soung",
+                "publish": "2017-11-23T00:23:11Z",
+                "thumbnails": "https://i.ytimg.com/vi/6er8QBhKdNI/mqdefault.jpg",
+                "title": "[\uba85\ud488\uc2a4\uc719 \uc5d0\uc774\ubbf8 \uc870] \uace8\ud504 \ub808\uc2a8035: \ud504\ub9ac\uc0f7 \ub8e8\ud2f4 PART 1",
+                "videoId": "6er8QBhKdNI"
+            },
+            {
+                "channelId": "UC_MKtQ3csTuzkCNphc9uKCg",
+                "channelTitle": "yooan soung",
+                "publish": "2017-11-23T00:23:17Z",
+                "thumbnails": "https://i.ytimg.com/vi/J6C3T_RECgM/mqdefault.jpg",
+                "title": "\uba85\ud488\uc2a4\uc719 \ube44\uae30\ub108 \uc2dc\ub9ac\uc988 002: \uae30\ubcf8 \ud130\ub2dd \ubaa8\uc158 | \uba85\ud488\uc2a4\uc719 \uc5d0\uc774\ubbf8 \uc870",
+                "videoId": "J6C3T_RECgM"
+            },
+            {
+                "channelId": "UC_MKtQ3csTuzkCNphc9uKCg",
+                "channelTitle": "yooan soung",
+                "publish": "2017-12-07T07:26:36Z",
+                "thumbnails": "https://i.ytimg.com/vi/rSL3Efbj44Q/mqdefault.jpg",
+                "title": "\ub514\ubcf4\ud2b8 \ub9cc\ub4e4\uae30  | \uba85\ud488\uc2a4\uc719 \uc5d0\uc774\ubbf8 \uc870",
+                "videoId": "rSL3Efbj44Q"
+            },
+            {
+                "channelId": "UC_MKtQ3csTuzkCNphc9uKCg",
+                "channelTitle": "yooan soung",
+                "publish": "2017-12-14T03:44:54Z",
+                "thumbnails": "https://i.ytimg.com/vi/KV-N0VSmJSo/mqdefault.jpg",
+                "title": "\uc7a5\ud0c0\uc758 \ube44\uacb0: \ubcf5\uadfc\ud798\uc73c\ub85c \ub4dc\ub77c\uc774\ubc84 \ube44\uac70\ub9ac \ub298\ub9ac\uae30 | \uba85\ud488\uc2a4\uc719 \uc5d0\uc774\ubbf8 \uc870",
+                "videoId": "KV-N0VSmJSo"
+            },
+            {
+                "channelId": "UC_MKtQ3csTuzkCNphc9uKCg",
+                "channelTitle": "yooan soung",
+                "publish": "2017-12-15T23:53:00Z",
+                "thumbnails": "https://i.ytimg.com/vi/D2fhjMvMy-8/mqdefault.jpg",
+                "title": "\ub4dc\ub77c\uc774\ubc84, \uc6b0\ub4dc, \uc544\uc774\uc5b8\uc758 \ucc28\uc774 \uc810 | \uba85\ud488\uc2a4\uc719 \uc5d0\uc774\ubbf8 \uc870",
+                "videoId": "D2fhjMvMy-8"
+            },
+            {
+                "channelId": "UC_MKtQ3csTuzkCNphc9uKCg",
+                "channelTitle": "yooan soung",
+                "publish": "2017-12-21T03:03:06Z",
+                "thumbnails": "https://i.ytimg.com/vi/6Kt0d2bY99M/mqdefault.jpg",
+                "title": "Downhill Bunker Shot | Golf with Aimee",
+                "videoId": "6Kt0d2bY99M"
+            },
+            {
+                "channelId": "UC_MKtQ3csTuzkCNphc9uKCg",
+                "channelTitle": "yooan soung",
+                "publish": "2017-12-27T22:52:45Z",
+                "thumbnails": "https://i.ytimg.com/vi/F2X0kWcJ6jI/mqdefault.jpg",
+                "title": "\uc624\ubc84\uc2a4\uc719 \uace0\uce58\uae30 | \uba85\ud488\uc2a4\uc719 \uc5d0\uc774\ubbf8 \uc870",
+                "videoId": "F2X0kWcJ6jI"
+            },
+            {
+                "channelId": "UC_MKtQ3csTuzkCNphc9uKCg",
+                "channelTitle": "yooan soung",
+                "publish": "2018-01-03T22:50:24Z",
+                "thumbnails": "https://i.ytimg.com/vi/VXQHo4GLiz8/mqdefault.jpg",
+                "title": "Swing analysis | Golf with Aimee",
+                "videoId": "VXQHo4GLiz8"
+            },
+            {
+                "channelId": "UC_MKtQ3csTuzkCNphc9uKCg",
+                "channelTitle": "yooan soung",
+                "publish": "2018-01-10T22:51:47Z",
+                "thumbnails": "https://i.ytimg.com/vi/jftnR5VR0zk/mqdefault.jpg",
+                "title": "\uc0dd\ud06c \uc644\ubcbd \uce58\uc720 | \uba85\ud488\uc2a4\uc719 \uc5d0\uc774\ubbf8 \uc870",
+                "videoId": "jftnR5VR0zk"
+            },
+            {
+                "channelId": "UC_MKtQ3csTuzkCNphc9uKCg",
+                "channelTitle": "yooan soung",
+                "publish": "2018-01-17T23:58:28Z",
+                "thumbnails": "https://i.ytimg.com/vi/YsruqLCwm4w/mqdefault.jpg",
+                "title": "\uc0dd\ud06c \uc644\ubcbd \uce58\uc720 2 | \uba85\ud488\uc2a4\uc719 \uc5d0\uc774\ubbf8 \uc870",
+                "videoId": "YsruqLCwm4w"
+            },
+            {
+                "channelId": "UC_MKtQ3csTuzkCNphc9uKCg",
+                "channelTitle": "yooan soung",
+                "publish": "2018-02-15T00:30:38Z",
+                "thumbnails": "https://i.ytimg.com/vi/5HVZAAPVC10/mqdefault.jpg",
+                "title": "\uce58\ud551 & \ud53c\uce6d\uc758 \ub2e4\ub978\uc810 | \uba85\ud488\uc2a4\uc719 \uc5d0\uc774\ubbf8 \uc870",
+                "videoId": "5HVZAAPVC10"
+            },
+            {
+                "channelId": "UC_MKtQ3csTuzkCNphc9uKCg",
+                "channelTitle": "yooan soung",
+                "publish": "2018-02-22T01:46:59Z",
+                "thumbnails": "https://i.ytimg.com/vi/8YMonRe1LTA/mqdefault.jpg",
+                "title": "\ud0c0\uc774\uac70 \uc6b0\uc988 \uc2a4\uc719 - \ud2b8\ub9ac\ud50c \ud30c\uc6cc | \uba85\ud488\uc2a4\uc719 \uc5d0\uc774\ubbf8 \uc870",
+                "videoId": "8YMonRe1LTA"
+            }
+        ]
+    },
+    {
+        "subTitle": "14\uac1c \uc601\uc0c1",
+        "videoList": [
+            {
+                "channelId": "UCZSNhOLPx3q87ss_N-vsmSA",
+                "channelTitle": "[\uace8\ud504\ub9e8]\uc870\uc724\uc131\ud504\ub85c",
+                "publish": "2020-01-04T11:48:34Z",
+                "thumbnails": "https://i.ytimg.com/vi/KLJVRSpV6jQ/mqdefault.jpg",
+                "title": "[\uace8\ud504\ub9e8] \ubab8\ud1b5\uc2a4\uc719 3\ub2e8\uacc4 (3\ud3b8) / \uc62c\ubc14\ub978 \ud558\uccb4\ub3d9\uc791 \ubc0f \ub9b4\ub9ac\uc2a4 \ub3d9\uc791 \uc774\ud574\ud558\uae30",
+                "videoId": "KLJVRSpV6jQ"
+            },
+            {
+                "channelId": "UCZSNhOLPx3q87ss_N-vsmSA",
+                "channelTitle": "[\uace8\ud504\ub9e8]\uc870\uc724\uc131\ud504\ub85c",
+                "publish": "2020-01-04T11:49:00Z",
+                "thumbnails": "https://i.ytimg.com/vi/8TDs9zj90Ew/mqdefault.jpg",
+                "title": "[\uace8\ud504\ub9e8] \ubab8\ud1b5\uc2a4\uc719 3\ub2e8\uacc4 (2\ud3b8) / \ud575\uc2ec \ud558\uccb4\ub3d9\uc791 \uc774\ud574\ud558\uae30",
+                "videoId": "8TDs9zj90Ew"
+            },
+            {
+                "channelId": "UCZSNhOLPx3q87ss_N-vsmSA",
+                "channelTitle": "[\uace8\ud504\ub9e8]\uc870\uc724\uc131\ud504\ub85c",
+                "publish": "2019-09-06T11:37:48Z",
+                "thumbnails": "https://i.ytimg.com/vi/7gslD0K4fzA/mqdefault.jpg",
+                "title": "[\uace8\ud504\ub9e8] \uac04\ub2e8\ud55c \ubb34\ub98e\ub3d9\uc791\uc73c\ub85c \ub098\uc758 \ube44\uac70\ub9ac\uac00 \ub2ec\ub77c\uc9c4\ub2e4",
+                "videoId": "7gslD0K4fzA"
+            },
+            {
+                "channelId": "UCZSNhOLPx3q87ss_N-vsmSA",
+                "channelTitle": "[\uace8\ud504\ub9e8]\uc870\uc724\uc131\ud504\ub85c",
+                "publish": "2019-08-21T03:18:38Z",
+                "thumbnails": "https://i.ytimg.com/vi/TPXcmpVsEn8/mqdefault.jpg",
+                "title": "[\uace8\ud504\ub9e8] \uc0c1\ub300\uc18d\ub3c4\ub97c \uc774\ud574\ud574\uc57c \ud799\ud134\uc774 \ud480\ub9bd\ub2c8\ub2e4",
+                "videoId": "TPXcmpVsEn8"
+            },
+            {
+                "channelId": "UCZSNhOLPx3q87ss_N-vsmSA",
+                "channelTitle": "[\uace8\ud504\ub9e8]\uc870\uc724\uc131\ud504\ub85c",
+                "publish": "2019-08-21T03:18:38Z",
+                "thumbnails": "https://i.ytimg.com/vi/Defuibd5nys/mqdefault.jpg",
+                "title": "[\uace8\ud504\ub9e8] \ud5c8\ub9ac\ud134 \uc815\ubcf5\ud574\uc11c \ub098\ub3c4 \uc7a5\ud0c0\uc790 \ub418\uc790~",
+                "videoId": "Defuibd5nys"
+            },
+            {
+                "channelId": "UCZSNhOLPx3q87ss_N-vsmSA",
+                "channelTitle": "[\uace8\ud504\ub9e8]\uc870\uc724\uc131\ud504\ub85c",
+                "publish": "2019-08-21T03:18:38Z",
+                "thumbnails": "https://i.ytimg.com/vi/7pyBrqm09Hk/mqdefault.jpg",
+                "title": "[\uace8\ud504\ub9e8] \ud799\ud134\uc774 \uc548\ub418\ub294 \uc774\uc720 / \ud5c8\ub9ac \ud68c\uc804\uc774 \uc548\ub418\ub294 \uc774\uc720",
+                "videoId": "7pyBrqm09Hk"
+            },
+            {
+                "channelId": "UCZSNhOLPx3q87ss_N-vsmSA",
+                "channelTitle": "[\uace8\ud504\ub9e8]\uc870\uc724\uc131\ud504\ub85c",
+                "publish": "2019-08-21T03:18:38Z",
+                "thumbnails": "https://i.ytimg.com/vi/zIC44rczZ3M/mqdefault.jpg",
+                "title": "[\uace8\ud504\ub9e8] \uc774\uac70 \ub418\uc2dc\uba74 \uc7a5\ud0c0\uc790, \uc774\uac70 \uc548\ub418\uc2dc\uba74 \ube44\uac70\ub9ac\ub294 \uc880 \ud798\ub4e4\uc5b4\uc694~",
+                "videoId": "zIC44rczZ3M"
+            },
+            {
+                "channelId": "UCZSNhOLPx3q87ss_N-vsmSA",
+                "channelTitle": "[\uace8\ud504\ub9e8]\uc870\uc724\uc131\ud504\ub85c",
+                "publish": "2019-08-21T03:18:38Z",
+                "thumbnails": "https://i.ytimg.com/vi/_-xn9_pcp7U/mqdefault.jpg",
+                "title": "[\uace8\ud504\ub9e8] \ud478\uc26c, \uc265\ud06c\uc758 \uc8fc\ubc94 / \"\ubc30\uce58\uae30\"\ub97c \uc7a1\uc790~",
+                "videoId": "_-xn9_pcp7U"
+            },
+            {
+                "channelId": "UCZSNhOLPx3q87ss_N-vsmSA",
+                "channelTitle": "[\uace8\ud504\ub9e8]\uc870\uc724\uc131\ud504\ub85c",
+                "publish": "2019-08-21T03:18:38Z",
+                "thumbnails": "https://i.ytimg.com/vi/BBSEuAuRqTk/mqdefault.jpg",
+                "title": "[\uace8\ud504\ub9e8] \uc7a5\ud0c0\uc790\ub4e4\uc5d0\uac90 \uaf2d \uc788\ub294 \uc774 \uac83 / \ud799\ud134+\ud578\ub4dc\ud3ec\uc6cc\ub4dc \uc784\ud329\ud2b8 \ucf64\ube44\ub124\uc774\uc158",
+                "videoId": "BBSEuAuRqTk"
+            },
+            {
+                "channelId": "UCZSNhOLPx3q87ss_N-vsmSA",
+                "channelTitle": "[\uace8\ud504\ub9e8]\uc870\uc724\uc131\ud504\ub85c",
+                "publish": "2019-08-21T03:18:38Z",
+                "thumbnails": "https://i.ytimg.com/vi/tgNczjDA_OU/mqdefault.jpg",
+                "title": "[\uace8\ud504\ub9e8] \ud799\uc758 \uc704\uce58\ub294 \uc784\ud329\ud2b8\uc758 \uc704\uce58\ub97c \uacb0\uc815\ud569\ub2c8\ub2e4",
+                "videoId": "tgNczjDA_OU"
+            },
+            {
+                "channelId": "UCZSNhOLPx3q87ss_N-vsmSA",
+                "channelTitle": "[\uace8\ud504\ub9e8]\uc870\uc724\uc131\ud504\ub85c",
+                "publish": "2019-08-21T03:18:38Z",
+                "thumbnails": "https://i.ytimg.com/vi/mtSbBU6HbmQ/mqdefault.jpg",
+                "title": "[\uace8\ud504\ub9e8] \uc804\ud658 / \uc2a4\ucffc\ud305 \uc5c6\ub294 \uc7a5\ud0c0\ub294 \uc5c6\ub2e4 / \uc2a4\ucffc\ud305 + \uc0ec\ub85c\uc789",
+                "videoId": "mtSbBU6HbmQ"
+            },
+            {
+                "channelId": "UCZSNhOLPx3q87ss_N-vsmSA",
+                "channelTitle": "[\uace8\ud504\ub9e8]\uc870\uc724\uc131\ud504\ub85c",
+                "publish": "2020-01-26T11:47:35Z",
+                "thumbnails": "https://i.ytimg.com/vi/wo_vTN37hnE/mqdefault.jpg",
+                "title": "[\uace8\ud504\ub9e8] \ubab8\ud1b5\uc2a4\uc719 3\ub2e8\uacc4 (4\ud3b8) / \uc624\ub978\ucabd \ub2e4\ub9ac \uc4f0\ub294 \ubc95\uc744 \uc54c\uba74 \uace8\ud504\uac00 \ub2ec\ub77c \uc9d1\ub2c8\ub2e4",
+                "videoId": "wo_vTN37hnE"
+            },
+            {
+                "channelId": "UCZSNhOLPx3q87ss_N-vsmSA",
+                "channelTitle": "[\uace8\ud504\ub9e8]\uc870\uc724\uc131\ud504\ub85c",
+                "publish": "2020-02-15T14:48:00Z",
+                "thumbnails": "https://i.ytimg.com/vi/dkFb8aQqeAo/mqdefault.jpg",
+                "title": "[\uace8\ud504\ub9e8] \ud5e4\ub4dc\uc5c5, \ubc30\uce58\uae30, \uc5bc\ub9ac\uc775\uc2a4\ud150\uc158 / \uc6d0\uc778\uacfc \ud574\uacb0 \ubc29\ubc95",
+                "videoId": "dkFb8aQqeAo"
+            },
+            {
+                "channelId": "UCZSNhOLPx3q87ss_N-vsmSA",
+                "channelTitle": "[\uace8\ud504\ub9e8]\uc870\uc724\uc131\ud504\ub85c",
+                "publish": "2020-04-18T15:29:15Z",
+                "thumbnails": "https://i.ytimg.com/vi/s23H_SrmKLM/mqdefault.jpg",
+                "title": "[\uace8\ud504\ub9e8] \ud558\uccb4\ub9ac\ub4dc\ub85c \ub4dc\ub77c\uc774\ubc84 \uc798 \uce58\ub294 \ubc29\ubc95 / \ubab8\ud1b5\uc2a4\uc719 3\ub2e8\uacc4 Ver.2",
+                "videoId": "s23H_SrmKLM"
+            }
+        ]
+    },
+    {
+        "subTitle": "12\uac1c \uc601\uc0c1",
+        "videoList": [
+            {
+                "channelId": "UCWJBrDmcddN9KCrXBHpWmCA",
+                "channelTitle": "SIMZZANG [\uc2ec\uc9f1\uace8\ud504]",
+                "publish": "2020-04-08T17:41:53Z",
+                "thumbnails": "https://i.ytimg.com/vi/d7Fs3B2De2k/mqdefault.jpg",
+                "title": "KLPGA \uc7a5\ud558\ub098 \ud504\ub85c\uc758 \ub4dc\ub77c\uc774\ubc84 \uc7a5\ud0c0\ube44\ubc95! \ud558\ub2e4\uac00 \uc6b8\uc74c [\uc2ec\uc9f1\uc758 \ub098\ub4dc\uc9f1]",
+                "videoId": "d7Fs3B2De2k"
+            },
+            {
+                "channelId": "UCWJBrDmcddN9KCrXBHpWmCA",
+                "channelTitle": "SIMZZANG [\uc2ec\uc9f1\uace8\ud504]",
+                "publish": "2020-04-15T21:20:18Z",
+                "thumbnails": "https://i.ytimg.com/vi/fPcO1FAxXYc/mqdefault.jpg",
+                "title": "\uae40\ud0dc\ud6c8\ud504\ub85c 300M \ub4dc\ub77c\uc774\ubc84\uc2a4\uc719  \ube44\ubc95/ \uafc0\uc7bc 250M \ubabb\uce58\ub294\ub0a8\uc790 \ub458 [\uc2ec\uc9f1\uc758 #\ub098\ub4dc\uc9f1]",
+                "videoId": "fPcO1FAxXYc"
+            },
+            {
+                "channelId": "UCWJBrDmcddN9KCrXBHpWmCA",
+                "channelTitle": "SIMZZANG [\uc2ec\uc9f1\uace8\ud504]",
+                "publish": "2020-04-22T15:34:39Z",
+                "thumbnails": "https://i.ytimg.com/vi/s7HmA8TtqlM/mqdefault.jpg",
+                "title": "\uc7a5\ud0c0\uc655 \ud5c8\uc778\ud68c \ud504\ub85c\uc758 \uc7a5\ud0c0\ube44\ubc95 / \uce58\ud0a8\uc719 \uc2ac\ub77c\uc774\uc2a4 \ubc29\uc9c0\ubc95 [\uc2ec\uc9f1\uc758 \ub098\ub4dc\uc9f1]",
+                "videoId": "s7HmA8TtqlM"
+            },
+            {
+                "channelId": "UCWJBrDmcddN9KCrXBHpWmCA",
+                "channelTitle": "SIMZZANG [\uc2ec\uc9f1\uace8\ud504]",
+                "publish": "2020-04-27T05:43:45Z",
+                "thumbnails": "https://i.ytimg.com/vi/YfvteaGHQ7Y/mqdefault.jpg",
+                "title": "\ud22c\uc5b4 \ub4dc\ub77c\uc774\ubc84 \uc7a5\ud0c0 1\uc704 \uc11c\uc694\uc12d \ud504\ub85c! \ucc98\uc74c \ub4e4\uc5b4\ubcf4\ub294 \uace0\uae09 \ub808\uc2a8 \ub9c9 \ud480\uc5c8\uc2b5\ub2c8\ub2e4 [\uc2ec\uc9f1\uc758 \ub098\ub4dc\uc9f1]",
+                "videoId": "YfvteaGHQ7Y"
+            },
+            {
+                "channelId": "UCWJBrDmcddN9KCrXBHpWmCA",
+                "channelTitle": "SIMZZANG [\uc2ec\uc9f1\uace8\ud504]",
+                "publish": "2020-05-21T13:58:40Z",
+                "thumbnails": "https://i.ytimg.com/vi/q7-QUBNj6-o/mqdefault.jpg",
+                "title": "KPGA \uc18c\ubb38\ub09c \uc7a5\ud0c0\uc790 \uc7a5\uc2b9\ubcf4! \uc2dc\uc791\ud558\uc790  309m! \uadf8\uc758 \uc7a5\ud0c0\ube44\ubc95\uacfc \uae40\uc169 \ube44\uac70\ub9ac \ub298\ub9ac\uae30! [\uc2ec\uc9f1\uc758 \ub098\ub4dc\uc9f1]",
+                "videoId": "q7-QUBNj6-o"
+            },
+            {
+                "channelId": "UCWJBrDmcddN9KCrXBHpWmCA",
+                "channelTitle": "SIMZZANG [\uc2ec\uc9f1\uace8\ud504]",
+                "publish": "2020-05-21T13:59:25Z",
+                "thumbnails": "https://i.ytimg.com/vi/q7-QUBNj6-o/mqdefault.jpg",
+                "title": "KPGA \uc18c\ubb38\ub09c \uc7a5\ud0c0\uc790 \uc7a5\uc2b9\ubcf4! \uc2dc\uc791\ud558\uc790  309m! \uadf8\uc758 \uc7a5\ud0c0\ube44\ubc95\uacfc \uae40\uc169 \ube44\uac70\ub9ac \ub298\ub9ac\uae30! [\uc2ec\uc9f1\uc758 \ub098\ub4dc\uc9f1]",
+                "videoId": "q7-QUBNj6-o"
+            },
+            {
+                "channelId": "UCWJBrDmcddN9KCrXBHpWmCA",
+                "channelTitle": "SIMZZANG [\uc2ec\uc9f1\uace8\ud504]",
+                "publish": "2020-05-21T13:59:33Z",
+                "thumbnails": "https://i.ytimg.com/vi/q7-QUBNj6-o/mqdefault.jpg",
+                "title": "KPGA \uc18c\ubb38\ub09c \uc7a5\ud0c0\uc790 \uc7a5\uc2b9\ubcf4! \uc2dc\uc791\ud558\uc790  309m! \uadf8\uc758 \uc7a5\ud0c0\ube44\ubc95\uacfc \uae40\uc169 \ube44\uac70\ub9ac \ub298\ub9ac\uae30! [\uc2ec\uc9f1\uc758 \ub098\ub4dc\uc9f1]",
+                "videoId": "q7-QUBNj6-o"
+            },
+            {
+                "channelId": "UCWJBrDmcddN9KCrXBHpWmCA",
+                "channelTitle": "SIMZZANG [\uc2ec\uc9f1\uace8\ud504]",
+                "publish": "2020-05-21T14:00:03Z",
+                "thumbnails": "https://i.ytimg.com/vi/q7-QUBNj6-o/mqdefault.jpg",
+                "title": "KPGA \uc18c\ubb38\ub09c \uc7a5\ud0c0\uc790 \uc7a5\uc2b9\ubcf4! \uc2dc\uc791\ud558\uc790  309m! \uadf8\uc758 \uc7a5\ud0c0\ube44\ubc95\uacfc \uae40\uc169 \ube44\uac70\ub9ac \ub298\ub9ac\uae30! [\uc2ec\uc9f1\uc758 \ub098\ub4dc\uc9f1]",
+                "videoId": "q7-QUBNj6-o"
+            },
+            {
+                "channelId": "UCWJBrDmcddN9KCrXBHpWmCA",
+                "channelTitle": "SIMZZANG [\uc2ec\uc9f1\uace8\ud504]",
+                "publish": "2020-05-21T14:00:12Z",
+                "thumbnails": "https://i.ytimg.com/vi/q7-QUBNj6-o/mqdefault.jpg",
+                "title": "KPGA \uc18c\ubb38\ub09c \uc7a5\ud0c0\uc790 \uc7a5\uc2b9\ubcf4! \uc2dc\uc791\ud558\uc790  309m! \uadf8\uc758 \uc7a5\ud0c0\ube44\ubc95\uacfc \uae40\uc169 \ube44\uac70\ub9ac \ub298\ub9ac\uae30! [\uc2ec\uc9f1\uc758 \ub098\ub4dc\uc9f1]",
+                "videoId": "q7-QUBNj6-o"
+            },
+            {
+                "channelId": "UCWJBrDmcddN9KCrXBHpWmCA",
+                "channelTitle": "SIMZZANG [\uc2ec\uc9f1\uace8\ud504]",
+                "publish": "2020-05-21T14:00:30Z",
+                "thumbnails": "https://i.ytimg.com/vi/q7-QUBNj6-o/mqdefault.jpg",
+                "title": "KPGA \uc18c\ubb38\ub09c \uc7a5\ud0c0\uc790 \uc7a5\uc2b9\ubcf4! \uc2dc\uc791\ud558\uc790  309m! \uadf8\uc758 \uc7a5\ud0c0\ube44\ubc95\uacfc \uae40\uc169 \ube44\uac70\ub9ac \ub298\ub9ac\uae30! [\uc2ec\uc9f1\uc758 \ub098\ub4dc\uc9f1]",
+                "videoId": "q7-QUBNj6-o"
+            },
+            {
+                "channelId": "UCWJBrDmcddN9KCrXBHpWmCA",
+                "channelTitle": "SIMZZANG [\uc2ec\uc9f1\uace8\ud504]",
+                "publish": "2020-05-26T11:39:39Z",
+                "thumbnails": "https://i.ytimg.com/vi/wbnpM34jh4Q/mqdefault.jpg",
+                "title": "\ucd5c\ub098\uc5f0 \ud504\ub85c\uc758 \ub4dc\ub77c\uc774\ubc84 \ube44\ubc95! \uc624\ub298 \ubaa8\ub4e0 \uac78 \uc54c\ub824\uc8fc\uc5c8\ub2e4! [\uc2ec\uc9f1\uc758 \ub098\ub4dc\uc9f1]",
+                "videoId": "wbnpM34jh4Q"
+            },
+            {
+                "channelId": "UCWJBrDmcddN9KCrXBHpWmCA",
+                "channelTitle": "SIMZZANG [\uc2ec\uc9f1\uace8\ud504]",
+                "publish": "2020-05-26T11:40:06Z",
+                "thumbnails": "https://i.ytimg.com/vi/wbnpM34jh4Q/mqdefault.jpg",
+                "title": "\ucd5c\ub098\uc5f0 \ud504\ub85c\uc758 \ub4dc\ub77c\uc774\ubc84 \ube44\ubc95! \uc624\ub298 \ubaa8\ub4e0 \uac78 \uc54c\ub824\uc8fc\uc5c8\ub2e4! [\uc2ec\uc9f1\uc758 \ub098\ub4dc\uc9f1]",
+                "videoId": "wbnpM34jh4Q"
+            }
+        ]
+    }
 ]
