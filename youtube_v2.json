@@ -1,0 +1,86 @@
+[
+  {
+    'lang':'ko',
+    'version':'2020.06.01.01',
+    'list':
+      [
+        {
+          'title':'당신을 위한 추천 레슨',
+          'playListUrl':'https://www.youtube.com/playlist?list=PL2KtS99uNp9V0MV2eJsDh_Yfmf5lscI-d',
+          'channel':''
+        },
+        {
+          'title':'박연습',
+          'playListUrl':'',
+          'channel':'https://www.youtube.com/channel/UC6sVX_-lnuq8LqsD7Lp4WMg/videos'
+        },
+        {
+          'title':'케프로TV - Kevin Chun',
+          'playListUrl':'',
+          'channel':'https://www.youtube.com/channel/UCa1IUcF2TaGCLnU8zyxw-Vw/videos'
+        },
+        {
+          'title':'송경서 100초 레슨',
+          'playListUrl':'https://www.youtube.com/playlist?list=PLBSgQ-NUNFfsqJlqKpM8WDFO8xohhoIvU',
+          'channel':''
+        },
+        {
+          'title':'비기너시리즈-에이미조',
+          'playListUrl':'https://www.youtube.com/playlist?list=PLd0dTSR832e_AYg54SGFQL5CBliHv9--P',
+          'channel':''
+        },
+        {
+          'title':'[골프맨] 힙턴/하체사용',
+          'playListUrl':'',
+          'channel':'https://www.youtube.com/channel/UCZSNhOLPx3q87ss_N-vsmSA/videos'
+        },
+        {
+          'title':'심짱의 나드짱',
+          'playListUrl':'',
+          'channel':'https://www.youtube.com/user/simyangsup/videos?view=0&sort=p&flow=grid'
+        }
+      ]
+  },
+  {
+    'lang':'en',
+    'version':'2020.06.01.01',
+    'list':
+      [
+        {
+          'title':'당신을 위한 추천 레슨',
+          'playListUrl':'https://www.youtube.com/playlist?list=PL2KtS99uNp9V0MV2eJsDh_Yfmf5lscI-d',
+          'channel':''
+        },
+        {
+          'title':'박연습',
+          'playListUrl':'',
+          'channel':'https://www.youtube.com/channel/UC6sVX_-lnuq8LqsD7Lp4WMg/videos'
+        },
+        {
+          'title':'케프로TV - Kevin Chun',
+          'playListUrl':'',
+          'channel':'https://www.youtube.com/channel/UCa1IUcF2TaGCLnU8zyxw-Vw/videos'
+        },
+        {
+          'title':'송경서 100초 레슨',
+          'playListUrl':'https://www.youtube.com/playlist?list=PLBSgQ-NUNFfsqJlqKpM8WDFO8xohhoIvU',
+          'channel':''
+        },
+        {
+          'title':'비기너시리즈-에이미조',
+          'playListUrl':'https://www.youtube.com/playlist?list=PLd0dTSR832e_AYg54SGFQL5CBliHv9--P',
+          'channel':''
+        },
+        {
+          'title':'[골프맨] 힙턴/하체사용',
+          'playListUrl':'',
+          'channel':'https://www.youtube.com/channel/UCZSNhOLPx3q87ss_N-vsmSA/videos'
+        },
+        {
+          'title':'심짱의 나드짱',
+          'playListUrl':'',
+          'channel':'https://www.youtube.com/user/simyangsup/videos?view=0&sort=p&flow=grid'
+        }
+      ]
+  }
+]
