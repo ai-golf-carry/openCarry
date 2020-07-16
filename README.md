@@ -1,5 +1,18 @@
 # openCarry
 
+
+
+## youtube_v2.json 설명
+CarryShotYoutubeJson python project 에서 make_json.py 를 실행하면    
+json string 이 clipboard 에 copy 됨.   
+이걸 youtube_v2.json 의 내용으로 붙혀넣기 하면 됨.   
+
+
+- app 에서는 youtube_v2.json 을 보고
+- python project 에서는 youtube.json 을 봄.
+- **두 파일 모두 삭제하면 안됨**
+
+
 ## youtube.json 설명
 **신중하게 수정할 것! 잘못 수정하면 앱에서 오류발생!**
 ```java
