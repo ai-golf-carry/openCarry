@@ -16,11 +16,16 @@
   },
   {
     'order': 3,
+    'name': '#드라이버샷',
+    'tag': '드라이버샷'
+  },
+  {
+    'order': 4,
     'name': '#프로골퍼',
     'tag': 'progolf'
   },
   {
-    'order': 4,
+    'order': 5,
     'name': '#골프레슨',
     'tag': 'golflesson'
   }
