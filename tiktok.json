@@ -1,27 +1,27 @@
 [
   {
     'order': 0,
-    'name': '#carryshot',
-    'tag': 'carryshot'
+    'name': '#캐리샷',
+    'tag': '캐리샷'
   },
   {
     'order': 1,
-    'name': '인기',
+    'name': '#핫샷',
     'tag': 'golfbabe'
   },
   {
     'order': 2,
-    'name': '프로',
-    'tag': 'progolf'
+    'name': '#펀샷',
+    'tag': 'funnygolf'
   },
   {
     'order': 3,
-    'name': '레슨',
-    'tag': 'golflesson'
+    'name': '#프로골퍼',
+    'tag': 'progolf'
   },
   {
     'order': 4,
-    'name': 'FUN',
-    'tag': 'fungolf'
+    'name': '#골프레슨',
+    'tag': 'golflesson'
   }
 ]
