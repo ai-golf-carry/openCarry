@@ -10,7 +10,7 @@
     'tag': '캐리샷'
   },
   {
-    'order': 6,
+    'order': 8,
     'name': '#핫샷',
     'tag': 'golfbabe'
   },
@@ -30,12 +30,17 @@
     'tag': '아이언샷'
   },
   {
-    'order': 4,
+    'order': 5,
+    'name': '#홀인원',
+    'tag': '홀인원'
+  },
+  {
+    'order': 6,
     'name': '#프로골퍼',
     'tag': 'progolf'
   },
   {
-    'order': 5,
+    'order': 7,
     'name': '#골프레슨',
     'tag': 'golflesson'
   }
