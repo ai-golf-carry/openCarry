@@ -1,5 +1,5 @@
 ## 공지사항 
-- update-version : [1.5.01] [notice]
+- update-version : [1.5.02] [notice]
 - 분석 기능을 일부 추가하였습니다.
 - 계속 업데이트 예정입니다~
 
