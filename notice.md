@@ -4,10 +4,9 @@
 - 영상 분석에 뼈대(Skeleton) 그리기 기능 추가
 - 녹화 후 자동재생 모드 추가(가로/세로)
 
-|일시정지 후 설정|재생|
-|---|---|
-|<img src="https://user-images.githubusercontent.com/61589832/117577145-8fd4ed00-b123-11eb-8d00-db61ad51b0b0.gif" width="200" />|<img src="https://user-images.githubusercontent.com/61589832/117577147-93687400-b123-11eb-8fe7-6a0abf27d8a3.gif" width="200" />|
-|<img src="https://user-images.githubusercontent.com/61589832/117577152-97949180-b123-11eb-90ca-58e1368ec807.gif" width="200" />|<img src="https://user-images.githubusercontent.com/61589832/117577156-99f6eb80-b123-11eb-9510-024f31437dfb.gif" width="200" />|
+|측면 분석|
+|---|
+|<img src="https://user-images.githubusercontent.com/61589832/128883798-6eb6ff02-672b-45c5-bc1f-24a79cf8629c.gif" width="200" />|
 
 ## 이전 업데이트 내역
 - 전면 카메라로 찍은 영상의 분석 데이터 반전 수정
