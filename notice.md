@@ -8,6 +8,10 @@
 |---|---|
 |<img src="https://user-images.githubusercontent.com/61589832/128883798-6eb6ff02-672b-45c5-bc1f-24a79cf8629c.gif" width="200" /> |<img src="https://user-images.githubusercontent.com/61589832/128890707-525d9291-71c9-47a1-92c8-4c37c29c07b3.gif" width="200" /> |
 
+| 자동재생 (미러링 모드) |
+| --- |
+| <img src="https://user-images.githubusercontent.com/61589832/128982667-8d4abd08-5815-499e-b4d6-a68bf0e8a4c6.gif" width="200" /> |
+
 ## 이전 업데이트 내역
 - 전면 카메라로 찍은 영상의 분석 데이터 반전 수정
 - 앱 삭제 후 재설치 했을 경우, 영상 재생 화면에서 분석되도록 기능 추가
