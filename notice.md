@@ -1,5 +1,5 @@
 ## 공지사항 
-- update-version : [1.6.01] [notice]
+- update-version : [1.6.02] [notice]
 ## 업데이트 내역
 - 영상 분석에 뼈대(Skeleton) 그리기 기능 추가
 - 녹화 후 자동재생 모드 추가(가로/세로)
