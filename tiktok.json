@@ -47,6 +47,11 @@
           'order': 8,
           'name': '#핫샷',
           'tag': 'golfbabe'
+        },
+        {
+          'order': 9,
+          'name': '#골프',
+          'tag': '골프'
         }
       ]
   },
@@ -93,6 +98,11 @@
           'order': 7,
           'name': '#HOT',
           'tag': 'golfbabe'
+        },
+        {
+          'order': 8,
+          'name': '#GOLF',
+          'tag': 'golf'
         }
       ]
   }
