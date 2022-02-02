@@ -4,6 +4,20 @@
     'list':
       [
         {
+          'title':'골프영상(최신순)',
+          'playListId':'',
+          'channel':'',
+          'q':'골프',
+          'order': 'date'
+        },
+        {
+          'title':'골프영상(최신순)',
+          'playListId':'',
+          'channel':'',
+          'q':'골프',
+          'order': 'rating'
+        },
+        {
           'title':'마슨생',
           'playListId':'PL2KtS99uNp9V0MV2eJsDh_Yfmf5lscI-d',
           'channel':'UCXLrICnAmWtDoq55x7B9VTQ'
@@ -37,7 +51,14 @@
           'title':'심짱의 나드짱',
           'playListId':'PLCW1r5BxeqUWU9g4tkQRdZtL_UXe0-Ru7',
           'channel':''
-        }
+        },
+        {
+          'title':'골프여신',
+          'playListId':'',
+          'channel':'',
+          'q':'골프여신',
+          'order': 'viewCount'
+        },
       ]
   },
   {
