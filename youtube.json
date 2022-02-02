@@ -11,7 +11,7 @@
           'order':'date'
         },
         {
-          'title':'골프영상(최신순)',
+          'title':'골프영상(랭킹순)',
           'playListId':'',
           'channel':'',
           'q':'골프',
