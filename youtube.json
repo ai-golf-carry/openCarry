@@ -18,6 +18,41 @@
           'order':'rating'
         },
         {
+          'title':'골프스윙(최신순)',
+          'playListId':'',
+          'channel':'',
+          'q':'골프스윙',
+          'order':'date'
+        },
+        {
+          'title':'세리머니(랭킹순)',
+          'playListId':'',
+          'channel':'',
+          'q':'세리머니',
+          'order':'rating'
+        },
+        {
+          'title':'골프레전드(조회순)',
+          'playListId':'',
+          'channel':'',
+          'q':'골프레전드',
+          'order':'viewCount'
+        },
+        {
+          'title':'장동민골프(최신순)',
+          'playListId':'',
+          'channel':'',
+          'q':'장동민골프',
+          'order':'date'
+        },
+        {
+          'title':'편먹고 공치리(최신순)',
+          'playListId':'',
+          'channel':'',
+          'q':'편먹고공치리',
+          'order':'date'
+        }, 
+        {
           'title':'마슨생',
           'playListId':'PL2KtS99uNp9V0MV2eJsDh_Yfmf5lscI-d',
           'channel':'UCXLrICnAmWtDoq55x7B9VTQ'
@@ -33,19 +68,9 @@
           'channel':'UCa1IUcF2TaGCLnU8zyxw-Vw'
         },
         {
-          'title':'송경서',
-          'playListId':'PLBSgQ-NUNFfsqJlqKpM8WDFO8xohhoIvU',
-          'channel':'UC0Rq2OFiujCzSbth0cbWZyw'
-        },
-        {
           'title':'비기너시리즈-에이미조',
           'playListId':'PLd0dTSR832e_AYg54SGFQL5CBliHv9--P',
           'channel':''
-        },
-        {
-          'title':'[골프맨] 조윤성 프로',
-          'playListId':'PLxmHCJu48oak42E6jiAkifLMo0suFmET5',
-          'channel':'UCZSNhOLPx3q87ss_N-vsmSA'
         },
         {
           'title':'심짱의 나드짱',
