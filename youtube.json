@@ -8,14 +8,14 @@
           'playListId':'',
           'channel':'',
           'q':'골프',
-          'order': 'date'
+          'order':'date'
         },
         {
           'title':'골프영상(최신순)',
           'playListId':'',
           'channel':'',
           'q':'골프',
-          'order': 'rating'
+          'order':'rating'
         },
         {
           'title':'마슨생',
@@ -57,7 +57,7 @@
           'playListId':'',
           'channel':'',
           'q':'골프여신',
-          'order': 'viewCount'
+          'order':'viewCount'
         }
       ]
   },
