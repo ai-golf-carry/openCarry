@@ -2,6 +2,7 @@
 - update-version : [1.7.05]
 ## 업데이트 내역
 - Z플립 영상깨짐 보정 옵션  
+
 ![image](https://user-images.githubusercontent.com/61589832/152135605-bee40d02-f8b5-4ec1-b1bc-9f7150b144de.png)
 
 
