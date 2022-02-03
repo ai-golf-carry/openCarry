@@ -25,10 +25,10 @@
           'order':'date'
         },
         {
-          'title':'세리머니(랭킹순)',
+          'title':'세리머니클럽(랭킹순)',
           'playListId':'',
           'channel':'',
-          'q':'세리머니',
+          'q':'세리머니클럽',
           'order':'rating'
         },
         {
