@@ -46,10 +46,10 @@
           'order':'date'
         },
         {
-          'title':'편먹고 공치리(최신순)',
+          'title':'연예인골프(최신순)',
           'playListId':'',
           'channel':'',
-          'q':'편먹고공치리',
+          'q':'연예인골프',
           'order':'date'
         }, 
         {
@@ -73,9 +73,11 @@
           'channel':''
         },
         {
-          'title':'심짱의 나드짱',
-          'playListId':'PLCW1r5BxeqUWU9g4tkQRdZtL_UXe0-Ru7',
-          'channel':''
+          'title':'심짱골프',
+          'playListId':'',
+          'channel':'',
+          'q':'심짱골프',
+          'order':'date'
         },
         {
           'title':'골프여신',
