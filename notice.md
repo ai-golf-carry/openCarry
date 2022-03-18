@@ -1,7 +1,13 @@
 ## 공지사항 
 - update-version : [1.7.06]
 ## 업데이트 내역
-- Z플립 영상깨짐 보정 옵션  
+아래와 같이, 녹화된 영상이 흑백이거나 초록색 잔상이 남는다면,
+<table>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/61589832/158958740-caf406d3-a0b6-4a47-8a78-2a7f0d569d2d.jpg" width="200" /></td>
+    <td><img src="https://user-images.githubusercontent.com/61589832/158958745-46495090-47b7-4717-bbff-765fb2f6b57e.jpg" width="200" /></td>
+  </tr>
+</table>  
 
 ![image](https://user-images.githubusercontent.com/61589832/152135605-bee40d02-f8b5-4ec1-b1bc-9f7150b144de.png)
 - 메인화면 변경
