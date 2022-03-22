@@ -1,5 +1,5 @@
 ## 공지사항 
-- update-version : [1.7.07]
+- update-version : [1.7.07][notice]
 ## 업데이트 내역
 ![image](https://user-images.githubusercontent.com/61589832/158964913-2ba5b963-b493-4565-818b-68039713d348.png)
 - z플립, S20+, S22 등의 기종에 옵션 적용 하도록 수정
