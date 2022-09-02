@@ -1,11 +1,14 @@
 ## 공지사항 
-- update-version : [1.7.10]
+- update-version : [1.7.13]
 ## 업데이트 내역
+- 앨범에서 "영상합치기"로 최소5개 이상의 동영상을 선택하여 임팩트 부분만 연속적으로 재생하는 영상을 만들 수 있습니다.
+  ![image](https://user-images.githubusercontent.com/61589832/188182964-65d2c39f-c65d-4063-beee-f114ffc7a5eb.png)
+
+## 신규 폰 인코딩 보정기능
 ![image](https://user-images.githubusercontent.com/61589832/158964913-2ba5b963-b493-4565-818b-68039713d348.png)
 - z플립, S20+, S22 등의 기종에 옵션 적용 하도록 수정
   - 영상이 깨진다면, 옵션으로 이동해 주세요.
   - 위의 옵션이 `Off 면 On 하시고`, `On 이면 Off 해주세요`.
-- 연습 영상 합치기(beta)
 
 ## 분석 기능
 |측면 분석|정면 분석|
