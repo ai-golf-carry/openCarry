@@ -1,187 +1,169 @@
 [
     {
         "title": "\uace8\ud504\uc601\uc0c1(\ucd5c\uc2e0\uc21c)",
-        "subTitle": "(20)",
+        "subTitle": "(18)",
         "videoList": [
-            {
-                "channelId": "UC12XQWcIlaavjjbhh6EeMJw",
-                "channelTitle": "SBS Golf",
-                "title": "&#39;\uc544\uc2dc\uc544 100\ub300 \ucf54\uc2a4&#39;\uc5d0\uc11c \ud3bc\uccd0\uc9c4 \ub300\ud68c! \ucc54\ud53c\uc5b8 \uc790\ub9ac\ub97c \ucc28\uc9c0\ud558\uae30 \uc704\ud55c \uc720\ucf8c\ud55c \uc2b9\ubd80\uc758 \uacb0\uacfc\ub294?\uff5c2025 PLK CUP \uc30d\uc30d\uace8\ud504",
-                "thumbnails": "https://i.ytimg.com/vi/-JMPzdiYyM8/mqdefault.jpg",
-                "profileUrl": "https://yt3.ggpht.com/N77t1-8rOvuPVltyDC1JoT4jZcnWy9Y2FdF4B7UMQyqAZSbANtPzRuMur2MgKPSMmNb9dvoQ=s88-c-k-c0x00ffffff-no-rj",
-                "videoId": "-JMPzdiYyM8",
-                "publish": "2026-09-29T02:21:21Z"
-            },
-            {
-                "channelId": "UCp8GOn65L1Lm2UIgTMVIboQ",
-                "channelTitle": "\ucd5c\uc2b9\uc2dd\ud504\ub85c \uace8\ud504\uc77c\uae30",
-                "title": "\uace8\ud504\ub294 \ud14c\ud06c\ub2c9 \uc6b4\ub3d9\uc785\ub2c8\ub2e4 #\uace8\ud504\ub808\uc2a8",
-                "thumbnails": "https://i.ytimg.com/vi/dPY4CJcGSFI/mqdefault.jpg",
-                "profileUrl": "https://yt3.ggpht.com/76xVm_eVjadRRUr5U_yMOOVVc8DBYVtX1QZNXo8ObIaWKqi529NOVw6-geKxyoIZ9xdhrZga=s88-c-k-c0x00ffffff-no-rj",
-                "videoId": "dPY4CJcGSFI",
-                "publish": "2026-09-29T02:19:17Z"
-            },
-            {
-                "channelId": "UC4Z25I55-dRvURdRIhFpL_Q",
-                "channelTitle": "\ud5ec\ub85ctv\ub274\uc2a4",
-                "title": "\ucd94\uc11d \uc131\ubb18\uae38 \ubb18\uc9c0\uc8fc\ubcc0 \uace8\ud504\ucc44 #\ubb18\uc9c0#\uace8\ud504#\ucd94\uc11d",
-                "thumbnails": "https://i.ytimg.com/vi/9R4f2ecTVtU/mqdefault.jpg",
-                "profileUrl": "https://yt3.ggpht.com/eoni1p_31bcsPFORNJKYadniPV6Wx_y5UePZ4tb6b1yNm-z6UYzh0fZ2EUFLiLqfES3DLpan=s88-c-k-c0x00ffffff-no-rj",
-                "videoId": "9R4f2ecTVtU",
-                "publish": "2026-09-29T02:09:49Z"
-            },
             {
                 "channelId": "UCSAqiyUulTP1VeFJUesrxOg",
                 "channelTitle": "\ud2b8\ud2b8\ud2b8\ub7ed",
-                "title": "\uc774\uac74 \ubabb\ucc38\uc9c0  #\uace8\ud504 #golf",
-                "thumbnails": "https://i.ytimg.com/vi/h36gt9RVZWs/mqdefault.jpg",
+                "title": "\uadf8\ub9b0\uc5d0\uc120 \uc870\uc2ec\ud558\uc790  #\uace8\ud504 #golf",
+                "thumbnails": "https://i.ytimg.com/vi/uuKQvCES1Ao/mqdefault.jpg",
                 "profileUrl": "https://yt3.ggpht.com/H9rjW1M81x_EfuDwdhNli8H4nFYZ52P1pLNoe8LCyVRd1UsVgzI7H9SJUT3ozzamqSFsqvh6nQ=s88-c-k-c0x00ffffff-no-rj",
-                "videoId": "h36gt9RVZWs",
-                "publish": "2026-09-29T02:00:09Z"
+                "videoId": "uuKQvCES1Ao",
+                "publish": "2026-09-30T02:00:00Z"
+            },
+            {
+                "channelId": "UCbHcNN5XtBm16xJ5EnQOrfA",
+                "channelTitle": "\uc2a4\uc719\ud06c\ub8e8, \ubcf4\ud1b5 \uc0ac\ub78c\uc744 \uc704\ud55c \uace8\ud504 \ucc44\ub110",
+                "title": "\ud5c8\ub9ac \ub192\uc774 \ub4dc\ub9b4 \ud558\ub098\ub85c \ubcfc\uc2a4\ud53c\ub4dc 65, \ucd08\ubcf4\uc790\ub3c4 \uc624\ub298 \ubc14\ub85c \ub530\ub77c \ud558\uc138\uc694",
+                "thumbnails": "https://i.ytimg.com/vi/0Dv9w0zN6u4/mqdefault.jpg",
+                "profileUrl": "https://yt3.ggpht.com/IqhpYdKCqv857YF4uIPTsE5uFFcRDYPRK-J4sDCywt-FDZGyGe15q1gWqM7A1AU6qy0imkt76g=s88-c-k-c0x00ffffff-no-rj",
+                "videoId": "0Dv9w0zN6u4",
+                "publish": "2026-09-30T02:00:08Z"
             },
             {
                 "channelId": "UCiiemwvkWCwFYGo4fQXvqxA",
                 "channelTitle": "\uace8\ud504\uc9c1\uad00",
-                "title": "\uc2a4\uc719\uae4c\uc9c0 \uc544\ub984\ub2e4\uc6b4~~\u2661 #\uc804\uc608\uc131 \ud504\ub85c \ub4dc\ub77c\uc774\ubc84 \ud2f0 \uc0f7! #\uace8\ud504 #golf (\uad6c\ub3c5\uc740 \uc88b\uc544\uc694)",
-                "thumbnails": "https://i.ytimg.com/vi/NTEsjtiQDuI/mqdefault.jpg",
+                "title": "\uc774\ub807\uac8c \ub0b4\ub9ac\ub2c8, \uc21c\uac04 \uac00\uc18d\uc774! #\uc720\ud604\uc870 \ud504\ub85c \ub4dc\ub77c\uc774\ubc84 \ud2f0 \uc0f7! #\uace8\ud504 #golf (\uad6c\ub3c5\uc740 \uc88b\uc544\uc694)",
+                "thumbnails": "https://i.ytimg.com/vi/GSgNZ18gZgE/mqdefault.jpg",
                 "profileUrl": "https://yt3.ggpht.com/VKqzxBnnMWjoXFnV7XzJSORmNuFK-hBZz72Skg4o40EKzNM_V0BMmejUs1o6ZL3fofXDZnHyJRQ=s88-c-k-c0x00ffffff-no-rj",
-                "videoId": "NTEsjtiQDuI",
-                "publish": "2026-09-29T02:00:13Z"
+                "videoId": "GSgNZ18gZgE",
+                "publish": "2026-09-30T02:00:15Z"
             },
             {
-                "channelId": "UCIfBjBF50uDrdnlCrxVLWxg",
-                "channelTitle": "\ub85c\ub9ac\uc544",
-                "title": "\uc5b4\uca5c\uc774\ub9ac\uc798\ub9de\uc544~~~\ud83e\udd23\ud83e\udd23#\uace8\ud504#\ub780\ub529\uc911#\ub9b4\uc2a4#\ucff5\ud6c4\ud30c\uc774\ud305#\uc5ec\uc131\uace8\ud504#\uc18c\uc911\ud55c\ucd94\uc5b5#\ub354\uc2dc\uc5d0\ub098\ubca8\ub8e8\ud1a0cc",
-                "thumbnails": "https://i.ytimg.com/vi/9BrNBNPbbKY/mqdefault.jpg",
-                "profileUrl": "https://yt3.ggpht.com/n8h-SOAA9B1vwdVxew7UONdh6chBjkquD-kTr1Dyq9u_-tnT5-eew5jRF1vHIMKbSIysiha-IpM=s88-c-k-c0x00ffffff-no-rj",
-                "videoId": "9BrNBNPbbKY",
-                "publish": "2026-09-29T01:50:51Z"
+                "channelId": "UCUfEAD-ugf1Gizk37yTyIug",
+                "channelTitle": "\uc1fc\uce20\ud544\ub4dc",
+                "title": "\uc5c4\ub9c8\uac00 \ub538\uc5d0\uac8c \uc54c\ub824\uc900 \uac00\uc7a5 \ud2b9\ubcc4\ud55c \uace8\ud504 \ub808\uc2a8 #\uace8\ud504",
+                "thumbnails": "https://i.ytimg.com/vi/Km8d-rBXtQY/mqdefault.jpg",
+                "profileUrl": "https://yt3.ggpht.com/iSp6hPSiRSt-CJi7QNInUXXe_b6FZBvWsPCYCe3CDklqRaCLt3t1Je0fgHbHJ4F2yYMPQ4jmRg=s88-c-k-c0x00ffffff-no-rj",
+                "videoId": "Km8d-rBXtQY",
+                "publish": "2026-09-30T01:45:37Z"
             },
             {
-                "channelId": "UCGr34k1yIqrElrOs6KjjR2g",
-                "channelTitle": "Give me golf",
-                "title": "\uae40\ubbfc\uc194\ud504\ub85c #golf #\uae40\ubbfc\uc194 #klpga #\uc544\ub984\ub2e4\uc6b4\uace8\ud504\uc7a5 #\uace8\ud504\uc2a4\ud0c0 #\uace8\ud504 #\uc560\uacac #\uc11c\uad50\ub9bc #\ubbfc\uc194\ub300\uc804",
-                "thumbnails": "https://i.ytimg.com/vi/WvYxhokEGaQ/mqdefault.jpg",
-                "profileUrl": "https://yt3.ggpht.com/RyARLtM2eCcvFFxsVJTgCFmnxz5iOCvQmRc4vpH6D-vIlqECC626kHJBZEY1FDhZi8iAYPvTURI=s88-c-k-c0x00ffffff-no-rj",
-                "videoId": "WvYxhokEGaQ",
-                "publish": "2026-09-29T01:44:18Z"
+                "channelId": "UC0sofK0o9srBYeRmCNZa4BQ",
+                "channelTitle": "\uae40\uc740\uc6b0\uc758 \uc544\uc774\ub7ec\ube0c\uace8\ud504 & \ud30c\ud06c\uace8\ud504TV",
+                "title": "\ub9c8\uc2e4\ub370\uc774 \ud654\ucc9c\uc0b0\ucc9c\uc5b4 \ud30c\ud06c\uace8\ud504\uc7a5 \ub77c\uc774\ube0c",
+                "thumbnails": "https://i.ytimg.com/vi/Si6jiphHX3Q/mqdefault_live.jpg",
+                "profileUrl": "https://yt3.ggpht.com/PS4AmrqmHuoR9VDOpvL4xZL23ylb9cxcooU2WJvTAsV72z-VUOkD7zDexJPXnhwE8r1Xi_F5=s88-c-k-c0x00ffffff-no-rj",
+                "videoId": "Si6jiphHX3Q",
+                "publish": "2026-09-30T01:30:34Z"
             },
             {
-                "channelId": "UC9R49Yjk9hRQ9PX9qXvQXwA",
-                "channelTitle": "JK \ubaa8\uc9c0\ub9ac GOLF",
-                "title": "\uc694\uc0c8 \uac00\ucd9c\ud55c \ub4dc\ub77c\uc774\ubc84 \uc2a4\ud06c\ub9b0 \uc804\ubc18 \uc6b4\ube68   #\ub4dc\ub77c\uc774\ubc84 #\uace8\ud504 #golf #\uace8\ub9b0\uc774 #\uace8\ud504\uc2a4\uc719 #\uc624\ube44 #\ud574\uc800\ub4dc",
-                "thumbnails": "https://i.ytimg.com/vi/CDAYHUauCwM/mqdefault.jpg",
-                "profileUrl": "https://yt3.ggpht.com/vBwDF20tjez6ok8SsyYY-6AuxU2dfeK7ztipZ2aiuUy5PbDy5W3EgPGUvS4emv7966PRrvJY9Uk=s88-c-k-c0x00ffffff-no-rj",
-                "videoId": "CDAYHUauCwM",
-                "publish": "2026-09-29T01:30:19Z"
+                "channelId": "UC_zzka3JjnQsskWDFuBquYQ",
+                "channelTitle": "\ud669\ud61c\uc601\uc774\ub2e4",
+                "title": "\u110b\u1169\u1109\u1167\u11ab\u1107\u1172 \u1101\u1173\u11c0\u1111\u1161\u11ab\u110b\u116a\u11bc \ubbf8\uad6d \uace8\ud504\uc7a5",
+                "thumbnails": "https://i.ytimg.com/vi/ZYT5R_KcJI4/mqdefault.jpg",
+                "profileUrl": "https://yt3.ggpht.com/SwQM2OkeFI0qHQV_0Fom3ekzba8irGAGDnJbvTQS6DkxJrn4OS6X1GO8aUEs86VC0SjHKmXQotM=s88-c-k-c0x00ffffff-no-rj",
+                "videoId": "ZYT5R_KcJI4",
+                "publish": "2026-09-30T01:30:35Z"
             },
             {
-                "channelId": "UCi6cBbFe_OK9NL4lAv1nD5Q",
-                "channelTitle": "\ub77c\uc774\ube0c\ucee4\uba38\uc1fc \ubbf8\uc2a4\ud130\uc815",
-                "title": "\uc778\uae30\ub9cc\uc810 \uace8\ud504 \ud328\ub529\uc2a4\ucee4\ud2b8 \uc774 \uac00\uaca9\uc785\ub2c8\ub2e4",
-                "thumbnails": "https://i.ytimg.com/vi/GEPBKoq9zAM/mqdefault.jpg",
-                "profileUrl": "https://yt3.ggpht.com/czDH3hvIrM7eyF0PP8ZIiXWBfZj99tIHhqSHBzzwdrDmr0fAsLO7l1jxvGKbSw9C8ipvD11J6oM=s88-c-k-c0x00ffffff-no-rj",
-                "videoId": "GEPBKoq9zAM",
-                "publish": "2026-09-29T01:00:10Z"
+                "channelId": "UChJ1aZwVkgWAUZqYGYDOWgg",
+                "channelTitle": "JTBC GOLF",
+                "title": "JTBC GOLF [\ub808\uc2a8 \uc2a4\ud29c\ub514\uc624 with AI]  LIVE  &#39;\ud314\ub85c? \ubab8\uc73c\ub85c?&#39; \ub0b4\uac00 \ubc31\ub3cc\uc774\uc778 \uc774\uc720, \uc6b0\ub4dc\uac00 \uc26c\uc6cc\uc9c0\ub294 \uc5f0\uc2b5\ubc95_\uc559\ub9c8\uc6d0\uc7a5, \uc190\uc0c8\uc740, MC \uc774\ub098\uc5f0",
+                "thumbnails": "https://i.ytimg.com/vi/ZyhEQd0mIZI/mqdefault.jpg",
+                "profileUrl": "https://yt3.ggpht.com/eGFqh1jpPSdR8OBASRS7Tb4-7tMBwA36TougyENPS1Z0B2z8EP6u8Bz7GTE3JCRiAPw9a__i=s88-c-k-c0x00ffffff-no-rj",
+                "videoId": "ZyhEQd0mIZI",
+                "publish": "2026-09-30T01:00:32Z"
             },
             {
-                "channelId": "UC3XmnPPS04v97u-ZLnlIwYA",
-                "channelTitle": "\ub8e8\ud0a4\ub8e8\ud0a4 \uace8\ud504 (ROOKIE ROOKIE GOLF)",
-                "title": "\uace8\ud504, \uc190\ubaa9\uc73c\ub85c \uc5b5\uc9c0\ub85c \ub54c\ub9ac\uace0 \uc788\ub098\uc694?",
-                "thumbnails": "https://i.ytimg.com/vi/-X99nDgotNY/mqdefault.jpg",
-                "profileUrl": "https://yt3.ggpht.com/J_1bzt5qdqLES4p5iW3h85yaP03ag8F3szho0CQP898xgwMMnzpNoaCUfUDvjj5Y_-u6qg4789g=s88-c-k-c0x00ffffff-no-rj",
-                "videoId": "-X99nDgotNY",
-                "publish": "2026-09-29T00:52:36Z"
+                "channelId": "UCZ7wKeemtoT-7A461JRM6nw",
+                "channelTitle": "\uc6d0\uc0f7\uc628\ub9ac",
+                "title": "\ub07c\uc57c\uc624 3m \uc774\ub0b4 #\uace8\ud504 #\ud37c\ud305 #\ubc84\ub514 #golf",
+                "thumbnails": "https://i.ytimg.com/vi/LVLMaw2Vbfs/mqdefault.jpg",
+                "profileUrl": "https://yt3.ggpht.com/j5OxxZCU3EYwURGhiM63RLaFLWPQ9DccTXwXPlc2dLZpwkaEqhqimZoFMQcfGIrriwUQ5q2imA=s88-c-k-c0x00ffffff-no-rj",
+                "videoId": "LVLMaw2Vbfs",
+                "publish": "2026-09-30T00:35:17Z"
             },
             {
-                "channelId": "UCJjBE5wcrS7AbcH9haM1O9w",
-                "channelTitle": "\uace8\ud504\ud574\uc720\uc2dc\uc544\ubc84\ubbf8",
-                "title": "\uc9c1\uc7a5\uc778 3\ubd80 \ub77c\uc6b4\ub4dc \ub4dc\ub77c\uc774\ubc84\ud2f0\uc0f7 #golf #\uace8\ud504 #\ud37c\ud130 #golfswing #\uace8\ud504\ub808\uc2a8 #\uace8\ud504\uc2a4\ud0c0 #\uc7a5\ud0c0\uc758\uc870\uac74 #\uace8\ub9b0\uc774 #\ub4dc\ub77c\uc774\ubc84 #\ub4dc\ub77c\uc774\ubc84\uc2a4\uc719 #\ub4dc\ub77c\uc774\ubc84\uc0f7",
-                "thumbnails": "https://i.ytimg.com/vi/aUD5wGbbu2c/mqdefault.jpg",
-                "profileUrl": "https://yt3.ggpht.com/wbr15gqIg2se7_BcUlWjGweDCymttKHRRxWe5rmJiuZZ6JbFXBXMuSqGVhC4oosO1hxPCVOZPw=s88-c-k-c0x00ffffff-no-rj",
-                "videoId": "aUD5wGbbu2c",
-                "publish": "2026-09-29T00:37:55Z"
+                "channelId": "UC0wt1iJOcifs3NqBpbkNMYw",
+                "channelTitle": "\ubbfc\ud559\uc218\uc758 \uc62c\ub313\uace8\ud504",
+                "title": "\uc2e0\ub2e4\uc778 2\ubc8c\ud0c0 \ub17c\ub780, 9\ub144 \uc804 \ub809\uc2dc \ud1b0\ud504\uc2a8 \uc0ac\uac74\uc744 \ub2e4\uc2dc \ubd10\uc57c \ud558\ub294 \uc774\uc720\uff5c \ubbfc\ud559\uc218\uc758 All That Golf",
+                "thumbnails": "https://i.ytimg.com/vi/hX-9ASXYTtg/mqdefault.jpg",
+                "profileUrl": "https://yt3.ggpht.com/ytc/AIdro_nIVy23TXFSkKtzIeQnzk7iE6-PsDlqD2sjee49xthxFQ=s88-c-k-c0x00ffffff-no-rj",
+                "videoId": "hX-9ASXYTtg",
+                "publish": "2026-09-30T00:30:15Z"
             },
             {
-                "channelId": "UCj7CowTnvxTQq1pSO9utIJA",
-                "channelTitle": "\ud55c\ub7c9\uace8\ud504",
-                "title": "\uc990\uae30\ub294 \uace8\ud37c #golf #\uace8\ud504 #\ube44\uac70\ub9ac #golfswing #\ubcfc\uc2a4\ud53c\ub4dc #\uace8\ud504\uc2a4\uc719 #\uc6b0\ub514\uc544\uc774\uc5b8 #\ub370\uc774\ube44\ub4dc\uace8\ud504",
-                "thumbnails": "https://i.ytimg.com/vi/DFcV6erOnZM/mqdefault.jpg",
-                "profileUrl": "https://yt3.ggpht.com/jch_vnw-C41ak57y1_9Vm-YYWmZksmVBuekY_cVchtRHs1QubHcapY7nMuxVx-UqkulA9YTP=s88-c-k-c0x00ffffff-no-rj",
-                "videoId": "DFcV6erOnZM",
-                "publish": "2026-09-29T00:19:02Z"
+                "channelId": "UCu4dhG9ns5kQbDfdLAwDpVg",
+                "channelTitle": "\uafc0\ubc84\uc12f",
+                "title": "\ud55c\uad6d \uc5ec\uc790\uace8\ud504 50\uc704 \uc548 13\uba85, \uc815\uc791 1\uc704\ub294 \ubabb \ud558\ub294 \uc9c4\uc9dc \uc774\uc720",
+                "thumbnails": "https://i.ytimg.com/vi/6EUsOXB4K2Q/mqdefault.jpg",
+                "profileUrl": "https://yt3.ggpht.com/jQmWjzySP1EEvM7J_g1eXqWYSNudsc78DfBXKsT7vne6IbHruuHOSPwO_y8d6AL-V4b78RmOYts=s88-c-k-c0x00ffffff-no-rj",
+                "videoId": "6EUsOXB4K2Q",
+                "publish": "2026-09-30T00:20:57Z"
             },
             {
-                "channelId": "UCIfBjBF50uDrdnlCrxVLWxg",
-                "channelTitle": "\ub85c\ub9ac\uc544",
-                "title": "\uc694\uc998\uc720\ud589\ud558\ub294\uac74 \ub2e4\ud574\ubd10\uc57c\uc9c0~\u314b#\uace8\ud504#\uc5ec\uc131\uace8\ud504#\uc653\uc378#\ub354\uc2dc\uc5d0\ub098\ubca8\ub8e8\ud1a0cc#\uc815\ub77c#\uac00\uc744\uace8\ud504#\ub9b4\uc2a4",
-                "thumbnails": "https://i.ytimg.com/vi/EEzYyNlsGuI/mqdefault.jpg",
-                "profileUrl": "https://yt3.ggpht.com/n8h-SOAA9B1vwdVxew7UONdh6chBjkquD-kTr1Dyq9u_-tnT5-eew5jRF1vHIMKbSIysiha-IpM=s88-c-k-c0x00ffffff-no-rj",
-                "videoId": "EEzYyNlsGuI",
-                "publish": "2026-09-28T23:30:27Z"
+                "channelId": "UCiiemwvkWCwFYGo4fQXvqxA",
+                "channelTitle": "\uace8\ud504\uc9c1\uad00",
+                "title": "\uc2a4\ud2b8\ub808\uc2a4 \ub0a0\ub824\uc8fc\ub294 #\ucd5c\uc815\uc6d0 \ud504\ub85c \ub4dc\ub77c\uc774\ubc84 \uc2a4\uc719! #\uace8\ud504 #golf (\uad6c\ub3c5\uc740 \uc88b\uc544\uc694)",
+                "thumbnails": "https://i.ytimg.com/vi/PzqmL3wKlDE/mqdefault.jpg",
+                "profileUrl": "https://yt3.ggpht.com/VKqzxBnnMWjoXFnV7XzJSORmNuFK-hBZz72Skg4o40EKzNM_V0BMmejUs1o6ZL3fofXDZnHyJRQ=s88-c-k-c0x00ffffff-no-rj",
+                "videoId": "PzqmL3wKlDE",
+                "publish": "2026-09-30T00:00:34Z"
             },
             {
-                "channelId": "UCJzQDhdYt416Eu_UPpxqs4A",
-                "channelTitle": "\ud22d\uc2a4\uc7a5\uc778 \uc815\uc6a9\ud6c8",
-                "title": "\ud22d\ud22d \ub358\uc9c0\ub294\ub370 \uc2a4\ud53c\ub4dc\uac00 \ub290\uaef4\uc9d1\ub2c8\ub2e4!",
-                "thumbnails": "https://i.ytimg.com/vi/h7FZYVVAL6Y/mqdefault.jpg",
-                "profileUrl": "https://yt3.ggpht.com/9Ju_2UnslyvmeSU-POjYhV23S7f9G6Fi_JWH15y00VL1-Bqq8QRPvpWpKoymr9tDq6Yj-joovgw=s88-c-k-c0x00ffffff-no-rj",
-                "videoId": "h7FZYVVAL6Y",
-                "publish": "2026-09-28T23:26:51Z"
+                "channelId": "UCX3Iqf6Rz34Q1Bs3-pmsKTw",
+                "channelTitle": "\ub85d\ud0b9\uac00\uc790 - KPGA\uc774\uc0c1\ub85d\ud504\ub85c",
+                "title": "\u300c\uc5b4\ud504\ub85c\uce58\uac00 \uc790\uafb8 \uae38\ub2e4\uba74? \uacf5 \uc704\uce58\ubd80\ud130 \ud655\uc778\ud558\uc138\uc694\u300d#\uace8\ud504 #\uc5b4\ud504\ub85c\uce58 #\uace8\ud504\ub808\uc2a8 #\uc20f\uac8c\uc784 #\ubb34\ub300\ubf40\ub808\uc2a8",
+                "thumbnails": "https://i.ytimg.com/vi/BV2oMRyc-J8/mqdefault.jpg",
+                "profileUrl": "https://yt3.ggpht.com/oMhlXQdCYEfFNGmUqdrulrvEGXxJm-b4960lGcydoFsx-8UxrsCi5YaLLDmIjx_thlkElAy7cGE=s88-c-k-c0x00ffffff-no-rj",
+                "videoId": "BV2oMRyc-J8",
+                "publish": "2026-09-29T23:56:13Z"
             },
             {
-                "channelId": "UCefuqDY8-zhyYYiwrZMO5aw",
-                "channelTitle": "\uc800\uc2a4\ud2b8\uace8\ud504",
-                "title": "\ud558\uccb4\ud68c\uc804? \ubb34\ub98e\ub07c\ub9ac \ubf40\ubf40\ud558\uc138\uc694 #golf #\uace8\ud504 #golftips",
-                "thumbnails": "https://i.ytimg.com/vi/gKH1jcq1i8Q/mqdefault.jpg",
-                "profileUrl": "https://yt3.ggpht.com/0jy3MT20Gz1k_WZ8Lm5S5KSM5TDW3Csy4nHw09764zjCATac9xd-Y6E_OC9CNxZa_I0VrDthqw=s88-c-k-c0x00ffffff-no-rj",
-                "videoId": "gKH1jcq1i8Q",
-                "publish": "2026-09-28T23:00:09Z"
-            },
-            {
-                "channelId": "UCob5azG5KsQusJfjBuH3UzQ",
-                "channelTitle": "\uace8\ud504\uc2a4\ud1a0\ub9ac",
-                "title": "\ud0a4\uac00 \uac19\uc73c\uba74 \uac19\uc740 \uc544\uc774\uc5b8\uc774 \ub9de\uc744\uae4c? #\uace8\ud504 #\uc1fc\uce20",
-                "thumbnails": "https://i.ytimg.com/vi/TiTIAmodNEg/mqdefault.jpg",
-                "profileUrl": "https://yt3.ggpht.com/lNKj0PgLUf6OdbF-B3WypeWnuA0dQaWqPYNMW0zX35VIPfxavQBE8p4OM8OR1pM8zt0Wlj9_=s88-c-k-c0x00ffffff-no-rj",
-                "videoId": "TiTIAmodNEg",
-                "publish": "2026-09-28T23:00:10Z"
-            },
-            {
-                "channelId": "UCFS5dW-2I1iLod7nc0fPV4Q",
-                "channelTitle": "\uacf5\ub9de\ub294\uc21c\uac04",
-                "title": "\ud314 \ub530\ub85c \ubab8 \ub530\ub85c? \uc774 \uc0bc\uac01\ud615\uc744 \uc720\uc9c0\ud558\uc138\uc694 #golf #\uace8\ud504 #golftips",
-                "thumbnails": "https://i.ytimg.com/vi/VKFWsU12tnI/mqdefault.jpg",
-                "profileUrl": "https://yt3.ggpht.com/1ZWqwRUsE6M3SQTKBInZkhPMOLSbtRxH1cQAI6JZZojM0JrHdfZjZYR9E9H_LhqUodQXE_z9pg=s88-c-k-c0x00ffffff-no-rj",
-                "videoId": "VKFWsU12tnI",
-                "publish": "2026-09-28T23:00:32Z"
+                "channelId": "UCxqZjhtVwl6C3eTwOdJjbkg",
+                "channelTitle": "\uace8\ud504\ud558\uc790",
+                "title": "\u25a0\ubc15\ucc28\ubbfc\uace8\ud504\uc544\uce74\ub370\ubbf8 #\uace8\ud504 #\uace8\ud504\uc2a4\uc719 #\uace8\ud504\ub808\uc2a8 #\ubc15\ucc28\ubbfc\uace8\ud504\uc544\uce74\ub370\ubbf8 #\ubc00\ub9ac\ud1a0\ud53c\uc544\uace8\ud504\uc5f0\uc2b5\uc7a5 #\uc704\ub840\uace8\ud504\ub808\uc2a8 #\uac15\ub0a8\uace8\ud504\ub808\uc2a8 #\ub354\ub808\uc778\uc9c0\uace8\ud504\uc5f0\uc2b5\uc7a5 #\uc8fc\ub2c8\uc5b4\uace8\ud504\ub808\uc2a8",
+                "thumbnails": "https://i.ytimg.com/vi/u95MeXuZkuc/mqdefault.jpg",
+                "profileUrl": "https://yt3.ggpht.com/n-8epZr6v_cEFSH26teRJxZQ9zGHhpriwvJ7Wwq1zt39728lZtfs38R--SMhe5Wrgawa-lWLew=s88-c-k-c0x00ffffff-no-rj",
+                "videoId": "u95MeXuZkuc",
+                "publish": "2026-09-29T23:42:25Z"
             },
             {
                 "channelId": "UC7J5keuoBUaMdQjQSlMjtbw",
                 "channelTitle": "\uace8\ud504 \uc57c\ud638",
-                "title": "\ubc14\ub78c \ubd80\ub294 \ud0dc\ud3c9\uc591 \ubc14\ub2e4 \uc55e, \uac70\uce5c \uc0cc\ub4dc \ubc99\ucee4... \uadf8 \uc2dc\uc808 \uace8\ud504 #\uace8\ud504",
-                "thumbnails": "https://i.ytimg.com/vi/p-Hf7hq9J3U/mqdefault.jpg",
+                "title": "\ub4dc\ub77c\uc774\ubc84 \uc2ac\ub77c\uc774\uc2a4 \uad50\uc815\ud558\uace0 \ube44\uac70\ub9ac \ub298\ub9ac\uae30 \uafc0\ud301!! #\uace8\ud504",
+                "thumbnails": "https://i.ytimg.com/vi/zMy9i5DQev4/mqdefault.jpg",
                 "profileUrl": "https://yt3.ggpht.com/R4N8ppOOnLqEuZVCYU8i3yIlXN-M4kywfRoUKW8wt1aVDjqTYEsL_AGAc5viEx2oV-nNcKrawQ=s88-c-k-c0x00ffffff-no-rj",
-                "videoId": "p-Hf7hq9J3U",
-                "publish": "2026-09-28T23:00:03Z"
+                "videoId": "zMy9i5DQev4",
+                "publish": "2026-09-29T23:00:14Z"
             },
             {
-                "channelId": "UCJxvEXQzfdyVAftUY58fP4g",
-                "channelTitle": "lalala_golf",
-                "title": "7\ucd08\uc644\uc131\uace8\ud504 Bunker Setup \ubc99\ucee4\uc14b\uc5c5 \uc77c\ubc18 \uc544\uc774\uc5b8\ucc98\ub7fc \uacf5\uc744 \uc9c1\uc811 \uac15\ud558\uac8c \ub9de\ud788\ub294 \uac83\uc774 \uc544\ub2c8\ub77c, \ubaa8\ub798\ub97c \uba3c\uc800 \ub54c\ub824 \uacf5\uc744 \ud0c8\ucd9c\uc2dc\ud0a4\ub294 \uac83",
-                "thumbnails": "https://i.ytimg.com/vi/4NiNXkK6uV4/mqdefault.jpg",
-                "profileUrl": "https://yt3.ggpht.com/s7xi50PEvzOr17z2IDjyYmexIDgS1QlWcbkxXHeQNTyZmlWeREPbpN0aIsEct9q2R2HtPmDs=s88-c-k-c0x00ffffff-no-rj",
-                "videoId": "4NiNXkK6uV4",
-                "publish": "2026-09-28T22:45:10Z"
+                "channelId": "UCpGlUyP6UTifmPO-57Rx33g",
+                "channelTitle": "Sangsoo KIM",
+                "title": "The best teacher is the practice swing. #\uace8\ud504 \uc2a4\uc719",
+                "thumbnails": "https://i.ytimg.com/vi/X_bPmMe4IvY/mqdefault.jpg",
+                "profileUrl": "https://yt3.ggpht.com/mtc_JO5v1VcwdJs9X1WtKmhTg2K7FmhbuGcDoy80rWlM-Ki68V4yfG-FKxRV9dKEo2L3jctJ=s88-c-k-c0x00ffffff-no-rj",
+                "videoId": "X_bPmMe4IvY",
+                "publish": "2026-09-29T23:00:30Z"
             },
             {
-                "channelId": "UCPK-Jq_3FmkUjFn_Y-WHxrg",
-                "channelTitle": "\uc324\uace8\uc1fc",
-                "title": "\ub4dc\ub77c\uc774\ubc84\ub294 \uc77c\ub2e8 \ub54c\ub9ac\uace0 \ubcf4\ub294\uac70\uc9c0 #\uc194\ubaa8\ub85ccc #\uc324\uace8\uc1fc #\uace8\ud504",
-                "thumbnails": "https://i.ytimg.com/vi/nBMsSvzrJ68/mqdefault.jpg",
-                "profileUrl": "https://yt3.ggpht.com/ytc/AIdro_k1c5fQDlcfWQ__dvYNtDXWIvz264eGuHezPjp1OeKMAg=s88-c-k-c0x00ffffff-no-rj",
-                "videoId": "nBMsSvzrJ68",
-                "publish": "2026-09-28T22:30:10Z"
+                "channelId": "UCbJePDmHWwQMcCIWP8lVhhg",
+                "channelTitle": "\uc624\ub298\ub3c4 \uad7f\uc0f7",
+                "title": "\ub4a4\ub545 \ud0d1\ubcfc \ub098\ub294 \ubd84 \ud0c0\uc774\uac70\uc6b0\uc988 \ucc99\ucd94\uac01 #\uace8\ud504\uc2a4\uc719 #\uace8\ud504\ub808\uc2a8",
+                "thumbnails": "https://i.ytimg.com/vi/kor4dad4NtQ/mqdefault.jpg",
+                "profileUrl": "https://yt3.ggpht.com/9UD0AR61FjlZ7J-FtSTmoLqDfIIElg-FNi7YMpJTASH8CiP-bbNlkC-u_iwhA18rtvpH_g1A=s88-c-k-c0x00ffffff-no-rj",
+                "videoId": "kor4dad4NtQ",
+                "publish": "2026-09-29T23:00:03Z"
+            },
+            {
+                "channelId": "UCZ7l1d-l0bpK7kst3hEarMA",
+                "channelTitle": "\u7f8e\uce5c\uace8\ud504",
+                "title": "\ubcfc\uc77c(?)\ubcf4\ub294 \uce5c\uad6c\ub97c \uc0b4\uc9dd\ubc00\uba74 \uc0dd\uae30\ub294 \uc77c #\uace8\ud504#\ub77c\uc6b4\ub529#\uace8\ud504\uc720\uba38#\u30b4\u30eb\u30d5",
+                "thumbnails": "https://i.ytimg.com/vi/rJOAIBpQnpU/mqdefault.jpg",
+                "profileUrl": "https://yt3.ggpht.com/pgRbaN5USoj_0AeyruuhguS0firMVW-MrRPjTFgo0MwOFL0zH7DytHsKJrtFWFJHD696r9SW=s88-c-k-c0x00ffffff-no-rj",
+                "videoId": "rJOAIBpQnpU",
+                "publish": "2026-09-29T23:00:38Z"
+            },
+            {
+                "channelId": "UCFS5dW-2I1iLod7nc0fPV4Q",
+                "channelTitle": "\uacf5\ub9de\ub294\uc21c\uac04",
+                "title": "\ub358\uc9c0\uae30 \uc804\uc5d0 \ud55c \ubc15\uc790\ub9cc \uae30\ub2e4\ub9ac\uc138\uc694 #golf #\uace8\ud504 #golftips",
+                "thumbnails": "https://i.ytimg.com/vi/jg52OubK_L0/mqdefault.jpg",
+                "profileUrl": "https://yt3.ggpht.com/1ZWqwRUsE6M3SQTKBInZkhPMOLSbtRxH1cQAI6JZZojM0JrHdfZjZYR9E9H_LhqUodQXE_z9pg=s88-c-k-c0x00ffffff-no-rj",
+                "videoId": "jg52OubK_L0",
+                "publish": "2026-09-29T23:00:22Z"
             }
         ]
     },
@@ -197,15 +179,6 @@
                 "profileUrl": "https://yt3.ggpht.com/jxNbdRGATY6FIYholFC6PbUBtDqLTixRPF6AO-6-LJYofUyuFGe3RH8a-4PnM4Ab0pDkZeDXrQU=s88-c-k-c0x00ffffff-no-rj",
                 "videoId": "WKgxC76JBJA",
                 "publish": "2026-09-27T03:00:24Z"
-            },
-            {
-                "channelId": "UC7qucVHYijOFfOrR2GLoPWA",
-                "channelTitle": "\uac15\uc77c - Topic",
-                "title": "\uace8\ud504\uac00 \ubb50\uae38\ub798",
-                "thumbnails": "https://i.ytimg.com/vi/-aaPC1KlSgA/mqdefault.jpg",
-                "profileUrl": "https://yt3.ggpht.com/n__NnX_d0E7xEwD3uU4Zj3-SR8fjV6iSXSPZBRFnM8BQPmv3COzrjfYfQZLAnwZrzeX_XyH3=s88-c-k-c0x00ffffff-no-rj",
-                "videoId": "-aaPC1KlSgA",
-                "publish": "2023-09-11T03:01:30Z"
             },
             {
                 "channelId": "UCSAqiyUulTP1VeFJUesrxOg",
@@ -224,15 +197,6 @@
                 "profileUrl": "https://yt3.ggpht.com/QuNuQT2ykcdLKuuFMqgYqwsexMuEHPpfy6-GTJMj3pN_uH2c_SU9yK007Usx18NW1SsSnDi27Fo=s88-c-k-c0x00ffffff-no-rj",
                 "videoId": "S7CZ_hriPAA",
                 "publish": "2026-07-26T09:15:15Z"
-            },
-            {
-                "channelId": "UCCUoQKtJI9csoi1b8fb6OIQ",
-                "channelTitle": "\uac15\uc18c\uc728\ud504\ub85c[\uace8\ud5041\ud0c0\uc5f0\uad6c\uc18c]",
-                "title": "\ub4dc\ub85c\uc6b0 \uc2a4\uc719\ub9cc \ud574\uc11c\ub294 \uc548\ub3fc\uc694 #\uac15\uc18c\uc728\ud504\ub85c #\uc720\ub2e4\uc778\ud504\ub85c #\uace8\ud504",
-                "thumbnails": "https://i.ytimg.com/vi/cdGppBFLG6U/mqdefault.jpg",
-                "profileUrl": "https://yt3.ggpht.com/jxNbdRGATY6FIYholFC6PbUBtDqLTixRPF6AO-6-LJYofUyuFGe3RH8a-4PnM4Ab0pDkZeDXrQU=s88-c-k-c0x00ffffff-no-rj",
-                "videoId": "cdGppBFLG6U",
-                "publish": "2026-09-28T03:00:32Z"
             },
             {
                 "channelId": "UCDNjlghlbriuegwOVeWwa6w",
@@ -271,15 +235,6 @@
                 "publish": "2026-08-27T03:00:10Z"
             },
             {
-                "channelId": "UCfkHMkxmluCfreij7uv1ycA",
-                "channelTitle": "\ubc09\uc9c0\uc54a\uc740 \uace8\ud504\ub9cc\ub7a9 \uace0\uc21c\uc774",
-                "title": "\ud574\uc678\uc5d0\uc11c \uc5ec\uc804\ud788 \ub09c\ub9ac\ub77c\ub294 \ud654\uc81c\uc758 \uc2a4\uc719 #\ub9b0\uadf8\ub780\ud2b8 #lpga #\uace8\ud504 #golf #\u30b4\u30eb\u30d5",
-                "thumbnails": "https://i.ytimg.com/vi/1H8QTvhczHQ/mqdefault.jpg",
-                "profileUrl": "https://yt3.ggpht.com/crmmFHBmyQ-Nbil3aP6fchYbGXitEdeMEzSsHM63VtpO3oEz0TrmfIfSKDkSlM5OFqNxiBBb3D0=s88-c-k-c0x00ffffff-no-rj",
-                "videoId": "1H8QTvhczHQ",
-                "publish": "2026-09-28T08:30:29Z"
-            },
-            {
                 "channelId": "UCRBgd9dshFpz9yNTNFjbPaA",
                 "channelTitle": "\ubabd\ub545\uace8\ud504",
                 "title": "\ubc15\uc138\ub9ac\uc640 \uad6c\ub3c5\uc790\uc758 \ub2f9\ud669\uc2a4\ub7ec\uc6b4 \uace8\ud504 \ub808\uc2a8 #\uace8\ud504 #golf #\u30b4\u30eb\u30d5",
@@ -289,6 +244,15 @@
                 "publish": "2026-08-17T02:45:08Z"
             },
             {
+                "channelId": "UC7J5keuoBUaMdQjQSlMjtbw",
+                "channelTitle": "\uace8\ud504 \uc57c\ud638",
+                "title": "\ub4dc\ub77c\uc774\ubc84 \uc2ac\ub77c\uc774\uc2a4 \uad50\uc815\ud558\uace0 \ube44\uac70\ub9ac \ub298\ub9ac\uae30 \uafc0\ud301!! #\uace8\ud504",
+                "thumbnails": "https://i.ytimg.com/vi/zMy9i5DQev4/mqdefault.jpg",
+                "profileUrl": "https://yt3.ggpht.com/R4N8ppOOnLqEuZVCYU8i3yIlXN-M4kywfRoUKW8wt1aVDjqTYEsL_AGAc5viEx2oV-nNcKrawQ=s88-c-k-c0x00ffffff-no-rj",
+                "videoId": "zMy9i5DQev4",
+                "publish": "2026-09-29T23:00:14Z"
+            },
+            {
                 "channelId": "UCDweBOTLgjxOIf6wrBWRTDA",
                 "channelTitle": "\uc9e7\uc740\ub370",
                 "title": "\uc138\uc0c1\uc5d0\uc11c \uc81c\uc77c \ube44\uc2fc \uace8\ud504\uacf5\uc758 \uc704\ub825",
@@ -296,6 +260,15 @@
                 "profileUrl": "https://yt3.ggpht.com/xLoOkQqoD6-hUu2sy5C8PHGxzCTpLCdbYUkygxNZO9v7WOIkFN-Jx7DqGx_zYoeEDpbAPrlT1A=s88-c-k-c0x00ffffff-no-rj",
                 "videoId": "9YW5ytnzw_I",
                 "publish": "2026-07-11T00:03:07Z"
+            },
+            {
+                "channelId": "UCu5ATM-K3DvXSMy9b99WKSA",
+                "channelTitle": "\uac15\uc720\uc815\ud504\ub85c[\uace8\ud504\ubbf8\ub2db]",
+                "title": "\ub4dc\ub77c\uc774\ubc84 \uc2ac\ub77c\uc774\uc2a4 \ub09c\ub2e4\uba74 \ubb34\uc870\uac74 \ubcf4\uc138\uc694! #\uace8\ud504\ub808\uc2a8 #\uace8\ud504\uc2a4\uc719 #\uace8\ud504 #golf",
+                "thumbnails": "https://i.ytimg.com/vi/jtrSNEEqkF8/mqdefault.jpg",
+                "profileUrl": "https://yt3.ggpht.com/xBj8ogv1GQYa4SDBvGLMLVlfC-kOJbfB7PSXibrausforM-QcjcKLXW4zg2yj75zmG-7jcko0cc=s88-c-k-c0x00ffffff-no-rj",
+                "videoId": "jtrSNEEqkF8",
+                "publish": "2026-08-31T03:00:23Z"
             },
             {
                 "channelId": "UCUfEAD-ugf1Gizk37yTyIug",
@@ -361,13 +334,22 @@
                 "publish": "2026-09-06T09:15:22Z"
             },
             {
-                "channelId": "UCiiemwvkWCwFYGo4fQXvqxA",
-                "channelTitle": "\uace8\ud504\uc9c1\uad00",
-                "title": "\uc911\uc2ec\uc774 \ub531! \uc7a1\ud600\uc788\ub294 #\ucd5c\uc815\uc6d0 \ud504\ub85c \ub4dc\ub77c\uc774\ubc84 \uc2a4\uc719! #\uace8\ud504 #golf (\uad6c\ub3c5\uc740 \uc88b\uc544\uc694)",
-                "thumbnails": "https://i.ytimg.com/vi/RaVRuwm1tUA/mqdefault.jpg",
-                "profileUrl": "https://yt3.ggpht.com/VKqzxBnnMWjoXFnV7XzJSORmNuFK-hBZz72Skg4o40EKzNM_V0BMmejUs1o6ZL3fofXDZnHyJRQ=s88-c-k-c0x00ffffff-no-rj",
-                "videoId": "RaVRuwm1tUA",
-                "publish": "2026-09-28T12:00:04Z"
+                "channelId": "UCRBgd9dshFpz9yNTNFjbPaA",
+                "channelTitle": "\ubabd\ub545\uace8\ud504",
+                "title": "\ub4dc\ub77c\uc774\ubc84 \uc2ac\ub77c\uc774\uc2a4 \ubc29\uc9c0\ud558\ub294 \ubc29\ubc95 #\uace8\ud504 #golf #\u30b4\u30eb\u30d5",
+                "thumbnails": "https://i.ytimg.com/vi/TWQT4kxO4p0/mqdefault.jpg",
+                "profileUrl": "https://yt3.ggpht.com/QuNuQT2ykcdLKuuFMqgYqwsexMuEHPpfy6-GTJMj3pN_uH2c_SU9yK007Usx18NW1SsSnDi27Fo=s88-c-k-c0x00ffffff-no-rj",
+                "videoId": "TWQT4kxO4p0",
+                "publish": "2026-09-29T09:15:03Z"
+            },
+            {
+                "channelId": "UCu5ATM-K3DvXSMy9b99WKSA",
+                "channelTitle": "\uac15\uc720\uc815\ud504\ub85c[\uace8\ud504\ubbf8\ub2db]",
+                "title": "\uc624\ub978\uc190 \uc5c4\uc9c0 \ubc29\ud5a5\ub9cc \ubc14\uafd4\ub3c4 \ud5e4\ub4dc\uc2a4\ud53c\ub4dc \ubb34\uc870\uac74 \uc62c\ub77c\uac00\uc694! #\uace8\ud504\ub808\uc2a8 #\uace8\ud504\uc2a4\uc719 #\uace8\ud504 #golf",
+                "thumbnails": "https://i.ytimg.com/vi/msF_9brHzaA/mqdefault.jpg",
+                "profileUrl": "https://yt3.ggpht.com/xBj8ogv1GQYa4SDBvGLMLVlfC-kOJbfB7PSXibrausforM-QcjcKLXW4zg2yj75zmG-7jcko0cc=s88-c-k-c0x00ffffff-no-rj",
+                "videoId": "msF_9brHzaA",
+                "publish": "2026-09-21T03:00:25Z"
             }
         ]
     },
@@ -376,184 +358,184 @@
         "subTitle": "(20)",
         "videoList": [
             {
-                "channelId": "UCp8GOn65L1Lm2UIgTMVIboQ",
-                "channelTitle": "\ucd5c\uc2b9\uc2dd\ud504\ub85c \uace8\ud504\uc77c\uae30",
-                "title": "\uace8\ud504\ub294 \ud14c\ud06c\ub2c9 \uc6b4\ub3d9\uc785\ub2c8\ub2e4 #\uace8\ud504\ub808\uc2a8",
-                "thumbnails": "https://i.ytimg.com/vi/dPY4CJcGSFI/mqdefault.jpg",
-                "profileUrl": "https://yt3.ggpht.com/76xVm_eVjadRRUr5U_yMOOVVc8DBYVtX1QZNXo8ObIaWKqi529NOVw6-geKxyoIZ9xdhrZga=s88-c-k-c0x00ffffff-no-rj",
-                "videoId": "dPY4CJcGSFI",
-                "publish": "2026-09-29T02:19:17Z"
+                "channelId": "UCXpn4XF8qcbFx-bbnrmqM_w",
+                "channelTitle": "\ub3c5\ud559\uace8\ud504 \uc5f0\uad6c\uc18c",
+                "title": "\uace8\ud504 \ub611\ubc14\ub85c \uba40\ub9ac \uce58\ub824\uba74 3\ucd08\ub97c \uae30\ub2e4\ub9ac\ub77c\uace0?\uff5c\ubc31\uc2a4\uc719 \uc804\ud658\ub3d9\uc791 \uc2e4\ud5d8",
+                "thumbnails": "https://i.ytimg.com/vi/wuz6VJAlSoc/mqdefault.jpg",
+                "profileUrl": "https://yt3.ggpht.com/Dn30ofnjNTLJhOKjgnHX4FGCdlj8NyfCh9I4tP98BQvNSqIZ8exJ2-x3N94P5R2BZeE0cZ4RiIk=s88-c-k-c0x00ffffff-no-rj",
+                "videoId": "wuz6VJAlSoc",
+                "publish": "2026-09-30T02:15:35Z"
             },
             {
-                "channelId": "UCveWXFleXe-tc8s99L9oJOQ",
-                "channelTitle": "\ud55c\uad6d\uace8\ud504TV",
-                "title": "\ud30c\uc6cc \ub118\uce58\ub294 \uc2a4\uc719\uc774 \ub3cb\ubcf4\uc774\ub124\uc694 #golfswing #golf #\uace8\ud504\uc2a4\ud0c0",
-                "thumbnails": "https://i.ytimg.com/vi/Z_ISRsdlDI4/mqdefault.jpg",
-                "profileUrl": "https://yt3.ggpht.com/Gs-rNSDAJxKlrsrDlwntq1umby1VLAufW5iOqp9twVLgToQ3SMtjPVUWZJ82TLEjUtiE95MCiw=s88-c-k-c0x00ffffff-no-rj",
-                "videoId": "Z_ISRsdlDI4",
-                "publish": "2026-09-29T02:11:34Z"
+                "channelId": "UCbHcNN5XtBm16xJ5EnQOrfA",
+                "channelTitle": "\uc2a4\uc719\ud06c\ub8e8, \ubcf4\ud1b5 \uc0ac\ub78c\uc744 \uc704\ud55c \uace8\ud504 \ucc44\ub110",
+                "title": "\ud5c8\ub9ac \ub192\uc774 \ub4dc\ub9b4 \ud558\ub098\ub85c \ubcfc\uc2a4\ud53c\ub4dc 65, \ucd08\ubcf4\uc790\ub3c4 \uc624\ub298 \ubc14\ub85c \ub530\ub77c \ud558\uc138\uc694",
+                "thumbnails": "https://i.ytimg.com/vi/0Dv9w0zN6u4/mqdefault.jpg",
+                "profileUrl": "https://yt3.ggpht.com/IqhpYdKCqv857YF4uIPTsE5uFFcRDYPRK-J4sDCywt-FDZGyGe15q1gWqM7A1AU6qy0imkt76g=s88-c-k-c0x00ffffff-no-rj",
+                "videoId": "0Dv9w0zN6u4",
+                "publish": "2026-09-30T02:00:08Z"
             },
             {
-                "channelId": "UCZC9COXxBFBTK0hnBRCb9QQ",
-                "channelTitle": "\uace8\ud504",
-                "title": "\uc0c8 \uace8\ud504 \uc2a4\uc719\uc744 \uc775\ud790 \ub54c \uba3c\uc800 \uae30\ub85d\ud560 \uc2e0\ud638 3\uac00\uc9c0 #\uace8\ud504 #\uace8\ud504\ub808\uc2a8 #\uc544\uc774\uc5b8\uc2a4\uc719",
-                "thumbnails": "https://i.ytimg.com/vi/VzZ56ZQr82k/mqdefault.jpg",
-                "profileUrl": "https://yt3.ggpht.com/NiOni5zql497P9vm4NDZUq5JIYWeMMJpalzszwQ4btWuHr8TssyVeYkFTTlrPI-OXlHWrbKN=s88-c-k-c0x00ffffff-no-rj",
-                "videoId": "VzZ56ZQr82k",
-                "publish": "2026-09-29T02:10:50Z"
+                "channelId": "UChJ1aZwVkgWAUZqYGYDOWgg",
+                "channelTitle": "JTBC GOLF",
+                "title": "JTBC GOLF [\ub808\uc2a8 \uc2a4\ud29c\ub514\uc624 with AI]  LIVE  &#39;\ud314\ub85c? \ubab8\uc73c\ub85c?&#39; \ub0b4\uac00 \ubc31\ub3cc\uc774\uc778 \uc774\uc720, \uc6b0\ub4dc\uac00 \uc26c\uc6cc\uc9c0\ub294 \uc5f0\uc2b5\ubc95_\uc559\ub9c8\uc6d0\uc7a5, \uc190\uc0c8\uc740, MC \uc774\ub098\uc5f0",
+                "thumbnails": "https://i.ytimg.com/vi/ZyhEQd0mIZI/mqdefault.jpg",
+                "profileUrl": "https://yt3.ggpht.com/eGFqh1jpPSdR8OBASRS7Tb4-7tMBwA36TougyENPS1Z0B2z8EP6u8Bz7GTE3JCRiAPw9a__i=s88-c-k-c0x00ffffff-no-rj",
+                "videoId": "ZyhEQd0mIZI",
+                "publish": "2026-09-30T01:00:32Z"
             },
             {
-                "channelId": "UC-OW3VaGy1IyImeTv_iz5Hw",
-                "channelTitle": "\ubc94\uc2a4\uace8\ud504",
-                "title": "[\ubc94\uc2a4\uace8\ud504] \ud314\ub85c\uc6b0 \uc2a4\ub8e8\ub294 \uc67c\ucabd \uc548\ucabd\uc73c\ub85c \ubcf4\ub0b4\uc138\uc694 #\ubc94\uc2a4\uc719",
-                "thumbnails": "https://i.ytimg.com/vi/UWRH-LCT1jA/mqdefault.jpg",
-                "profileUrl": "https://yt3.ggpht.com/tkS3SQj9117PlJ8H_KP0--4CcimDQlAJKIUWN4RjwpFTOoX1gtGf0Pztxd0mXkideOG7WJbe7Q=s88-c-k-c0x00ffffff-no-rj",
-                "videoId": "UWRH-LCT1jA",
-                "publish": "2026-09-29T01:50:07Z"
+                "channelId": "UCdPKPadUJVtZMCjhdS5kxkg",
+                "channelTitle": "Golf master KIM",
+                "title": "\uace8\ud504\uc2a4\uc719, \ud37c\ud305  \ud798\uc774 \uc544\ub2c8\ub77c \ub9ac\ub4ec \uc785\ub2c8\ub2e4.",
+                "thumbnails": "https://i.ytimg.com/vi/BoMv84FXCRw/mqdefault.jpg",
+                "profileUrl": "https://yt3.ggpht.com/PUV4cyzCieikOT-FEaXVFqhgrYlhv8wAI8KDLp7mjK9889AQGGdR1MrbkLsq3i49wiaRYWKDVg=s88-c-k-c0x00ffffff-no-rj",
+                "videoId": "BoMv84FXCRw",
+                "publish": "2026-09-30T01:00:37Z"
             },
             {
-                "channelId": "UCj7CowTnvxTQq1pSO9utIJA",
-                "channelTitle": "\ud55c\ub7c9\uace8\ud504",
-                "title": "\ubc14\ubcf4\uace8\ud37c #golf #\ube44\uac70\ub9ac #\uace8\ud504 #golfswing #\ubcfc\uc2a4\ud53c\ub4dc #\uace8\ud504\uc2a4\uc719 #\uace8\ud504\uc874 #\uc7a5\ud0c0\uc790 #\uc7a5\ud0c0\uc2a4\uc719 #\uc2a4\ud06c\ub9b0\uace8\ud504",
-                "thumbnails": "https://i.ytimg.com/vi/g2xQwRR7BuI/mqdefault.jpg",
-                "profileUrl": "https://yt3.ggpht.com/jch_vnw-C41ak57y1_9Vm-YYWmZksmVBuekY_cVchtRHs1QubHcapY7nMuxVx-UqkulA9YTP=s88-c-k-c0x00ffffff-no-rj",
-                "videoId": "g2xQwRR7BuI",
-                "publish": "2026-09-29T01:23:18Z"
+                "channelId": "UCZUD5B6DPHf0IA9dCUC0bjg",
+                "channelTitle": "\uac15\ubcd1\uc8fc\uace8\ud504",
+                "title": "\uace8\ud504 \uc2a4\uc719, \ud798\uc774 \uc544\ub2c8\ub77c \ub9ac\ub4ec\uc785\ub2c8\ub2e4",
+                "thumbnails": "https://i.ytimg.com/vi/RB4NXi-X-tE/mqdefault.jpg",
+                "profileUrl": "https://yt3.ggpht.com/HZY4DevQwyh_G2Z7e1HSWT0j1WxXLdAAX1y_nO3hdpTHsHj8v6EhSZtYP5lGqVjT7RSCaBT95A=s88-c-k-c0x00ffffff-no-rj",
+                "videoId": "RB4NXi-X-tE",
+                "publish": "2026-09-30T00:00:51Z"
             },
             {
-                "channelId": "UCleFzRjPSmOPZ-GtqEE2sdw",
-                "channelTitle": "\uc5f4\uc815\ud2f0\uc5c5'S KLPGA \uc2a4\ud3ec\ud2b8\ub77c\uc774\ud2b8",
-                "title": "\uce69\uc0f7\uc740 \ud558\uccb4\ub97c \uc7a0\uadfc\ub2e4! KLPGA \ud669\ubbfc\uc815\ud504\ub85c #\ud669\ubbfc\uc815 #\uace8\ud504\uc2a4\uc719 #golfswing #\uce69\uc0f7\uc790\uc138 #\uace8\ud504\uc790\uc138",
-                "thumbnails": "https://i.ytimg.com/vi/7dyOxe1goNg/mqdefault.jpg",
-                "profileUrl": "https://yt3.ggpht.com/sGRX5KBbgOV-J5zywaMsWBiuTt8kNfwky9oTuSmbrKuUjtnN426TWziRcLeet3JQxsUJM5oa2E4=s88-c-k-c0x00ffffff-no-rj",
-                "videoId": "7dyOxe1goNg",
-                "publish": "2026-09-29T01:09:33Z"
-            },
-            {
-                "channelId": "UCj7CowTnvxTQq1pSO9utIJA",
-                "channelTitle": "\ud55c\ub7c9\uace8\ud504",
-                "title": "\uc990\uae30\ub294 \uace8\ud37c #golf #\uace8\ud504 #\ube44\uac70\ub9ac #golfswing #\ubcfc\uc2a4\ud53c\ub4dc #\uace8\ud504\uc2a4\uc719 #\uc6b0\ub514\uc544\uc774\uc5b8 #\ub370\uc774\ube44\ub4dc\uace8\ud504",
-                "thumbnails": "https://i.ytimg.com/vi/DFcV6erOnZM/mqdefault.jpg",
-                "profileUrl": "https://yt3.ggpht.com/jch_vnw-C41ak57y1_9Vm-YYWmZksmVBuekY_cVchtRHs1QubHcapY7nMuxVx-UqkulA9YTP=s88-c-k-c0x00ffffff-no-rj",
-                "videoId": "DFcV6erOnZM",
-                "publish": "2026-09-29T00:19:02Z"
+                "channelId": "UCPPmJL751aACEp8efhB22RA",
+                "channelTitle": "\ubc84\ub514\ubc84\ub514\uace8\ud504",
+                "title": "\ubc31\uc2a4\uc719\uc758 \uc2dc\uc791\uc740 \ud134\uc774 \uc544\ub2d9\ub2c8\ub2e4\uff5c\ud134 vs \ud39c\ub4c8\ub7fc",
+                "thumbnails": "https://i.ytimg.com/vi/tIAb7xHD0BI/mqdefault.jpg",
+                "profileUrl": "https://yt3.ggpht.com/SPas6bjfbeLyMPPN-ZZB7jxxbjlRjJO_-nOqR0dIlVd-bwgrvcWvb_jrKXKSSB1yzYdkbKl5Mg=s88-c-k-c0x00ffffff-no-rj",
+                "videoId": "tIAb7xHD0BI",
+                "publish": "2026-09-30T00:00:12Z"
             },
             {
                 "channelId": "UCxqZjhtVwl6C3eTwOdJjbkg",
                 "channelTitle": "\uace8\ud504\ud558\uc790",
-                "title": "\u25a0\ubc15\ucc28\ubbfc\uace8\ud504\uc544\uce74\ub370\ubbf8 #\uace8\ud504 #\uace8\ud504\uc2a4\uc719 #\uace8\ud504\ub808\uc2a8  #\ubc15\ucc28\ubbfc\uace8\ud504\uc544\uce74\ub370\ubbf8 #\ubc00\ub9ac\ud1a0\ud53c\uc544\uace8\ud504\uc5f0\uc2b5\uc7a5 #\uc704\ub840\uace8\ud504\ub808\uc2a8 #\uac15\ub0a8\uace8\ud504\ub808\uc2a8 #\ub354\ub808\uc778\uc9c0\uace8\ud504\uc5f0\uc2b5\uc7a5 #\uc8fc\ub2c8\uc5b4\uace8\ud504\ub808\uc2a8",
-                "thumbnails": "https://i.ytimg.com/vi/49k6P3VNAR4/mqdefault.jpg",
+                "title": "\u25a0\ubc15\ucc28\ubbfc\uace8\ud504\uc544\uce74\ub370\ubbf8 #\uace8\ud504 #\uace8\ud504\uc2a4\uc719 #\uace8\ud504\ub808\uc2a8 #\ubc15\ucc28\ubbfc\uace8\ud504\uc544\uce74\ub370\ubbf8 #\ubc00\ub9ac\ud1a0\ud53c\uc544\uace8\ud504\uc5f0\uc2b5\uc7a5 #\uc704\ub840\uace8\ud504\ub808\uc2a8 #\uac15\ub0a8\uace8\ud504\ub808\uc2a8 #\ub354\ub808\uc778\uc9c0\uace8\ud504\uc5f0\uc2b5\uc7a5 #\uc8fc\ub2c8\uc5b4\uace8\ud504\ub808\uc2a8",
+                "thumbnails": "https://i.ytimg.com/vi/u95MeXuZkuc/mqdefault.jpg",
                 "profileUrl": "https://yt3.ggpht.com/n-8epZr6v_cEFSH26teRJxZQ9zGHhpriwvJ7Wwq1zt39728lZtfs38R--SMhe5Wrgawa-lWLew=s88-c-k-c0x00ffffff-no-rj",
-                "videoId": "49k6P3VNAR4",
-                "publish": "2026-09-28T23:28:27Z"
+                "videoId": "u95MeXuZkuc",
+                "publish": "2026-09-29T23:42:25Z"
             },
             {
-                "channelId": "UC8rlxJgQfZAm6fdj_cSrE5g",
-                "channelTitle": "\uace0\ubc94\uc774TV",
-                "title": "\uc18d\ub9ac\uc0b0cc\uc5d0\uc11c \uace8\ud504 \uc5f0\uc2b5\uc911 \uc785\ub2c8\ub2e4#\uace8\ud504 #\ub77c\uc6b4\ub529 #\uace8\ud504\uc2a4\uc719 #\uc8fc\ub2c8\uc5b4\uace8\ud504 #\uc18d\ub9ac\uc0b0cc #\uace8\ud504\uc7a5#\uc7a5\ud0c0\uc758\uc870\uac74",
-                "thumbnails": "https://i.ytimg.com/vi/Hwdx2b8JWF4/mqdefault.jpg",
-                "profileUrl": "https://yt3.ggpht.com/HngvNnilb0Z9DhHdPgCh0uG1lk3wequbBt7GI7_NX7yKWd16L90MwOuHdK97g1TGEeJYQDbgm60=s88-c-k-c0x00ffffff-no-rj",
-                "videoId": "Hwdx2b8JWF4",
-                "publish": "2026-09-28T23:20:00Z"
+                "channelId": "UC80O6bnyZjIcizl7tCSU3Sw",
+                "channelTitle": "\ud718\uacbd123\ub2f9\uadfc\uace8\ud504\ubaa8\uc784",
+                "title": "\ub4dc\ub77c\uc774\ubc84\uc2a4\uc719 \uc65c \ub611\ubc14\ub85c\uac00\uc9c0? #\ub77c\uc774\ube0c #golf #\ud37c\ud130 #\uace8\ud504 #\uace8\ud504\ub808\uc2a8 #nx #shorts #\ub4dc\ub77c\uc774\ubc84\uc2a4\uc719 #\ub4dc\ub77c\uc774\ubc84 #\uc6c3\uae34 #\uace8\ub9b0\uc774 #\uace8\ud504\uc2a4\uc719 #\uc6c3\uae34\uc601\uc0c1 #\uc6c3\uae34\uc9e4 #\uc54c\uace0\ub9ac\uc998",
+                "thumbnails": "https://i.ytimg.com/vi/EHzE1WB45BY/mqdefault.jpg",
+                "profileUrl": "https://yt3.ggpht.com/R0rHjpI-y8lOFH106eqzppHyNF06iM8VRhFLtqqIrfW73uCWJQUUS4Kqd-2j3PLjkuhTd78C3Bc=s88-c-k-c0x00ffffff-no-rj",
+                "videoId": "EHzE1WB45BY",
+                "publish": "2026-09-29T23:32:05Z"
             },
             {
-                "channelId": "UClv2tazo7xlrJK8cc32Tv8w",
-                "channelTitle": "\uc0dd\ud06c\ub300\uc7a5",
-                "title": "\ub0b4 \uc2a4\uc719\uc774 \ud504\ub85c\uc640 \ub2e4\ub978\uc9c0 \ud55c \uacf3 \ud655\uc778\ud574\ubcf4\uc138\uc694! #\uace8\ud504 #\uace8\ud504\uc2a4\uc719 #\uace8\ud504\uc5f0\uc2b5 #\uc784\ud329\ud2b8 #\uc5b4\ub4dc\ub808\uc2a4",
-                "thumbnails": "https://i.ytimg.com/vi/sUlQtdbkBbg/mqdefault.jpg",
-                "profileUrl": "https://yt3.ggpht.com/mcabWKuX-26U-sTN6xQjn45YqDafDvGLJz0UI7l69k2XIcTAQlXaBSZcIhl0ZqKQrjZsoUEZDA=s88-c-k-c0x00ffffff-no-rj",
-                "videoId": "sUlQtdbkBbg",
-                "publish": "2026-09-28T22:00:10Z"
+                "channelId": "UCcJA9tB3c7D9tw64zTzFbeg",
+                "channelTitle": "\uc720\uc815\ud658",
+                "title": "\uace8\ud504\uc2a4\uc719 golf @yuumagolf68 #golfswing \uace8\ud504 #\uace8\ud504\ub808\uc2a8\u00a0#j82golf #\uc81c\uc77482 \ube44\uac70\ub9ac \u30b4\u30eb\u30d5 #golflesson golftips",
+                "thumbnails": "https://i.ytimg.com/vi/SJtSlw6q1HA/mqdefault.jpg",
+                "profileUrl": "https://yt3.ggpht.com/ytc/AIdro_kLAR5qJgus986wbH2t2jW7TcqQVb1QlPYg0AY4hNKx24nX5Ac=s88-c-k-c0x00ffffff-no-rj",
+                "videoId": "SJtSlw6q1HA",
+                "publish": "2026-09-29T23:30:57Z"
             },
             {
-                "channelId": "UCZEi1OBBECkDG3HADOnZ38A",
-                "channelTitle": "\ud640\uc778\uc6d0\uc528",
-                "title": "\ub808\uc2a8\ubc1b\uc790!!!\ud83d\ude1c\ud83d\ude1c#\ud640\uc778\uc6d0\uc528#\uace8\ud504#golf#\ud0c0\uc774\uac70\uc6b0\uc988#\uc2a4\uc719#",
-                "thumbnails": "https://i.ytimg.com/vi/OAkGariygIs/mqdefault.jpg",
-                "profileUrl": "https://yt3.ggpht.com/v62hP1DmbK0sQJdnwnD0uEQF1Bryd70vnMBV6WuqE0p5Eqktf8ysByWEP9RAF9NaskWNLUiK0g=s88-c-k-c0x00ffffff-no-rj",
-                "videoId": "OAkGariygIs",
-                "publish": "2026-09-28T22:00:08Z"
+                "channelId": "UCwBbxyAiAow6pYhppTXj4Zw",
+                "channelTitle": "\ucfe0\ub2c8\uace8\ud504",
+                "title": "[2026KLPGA] \ud55c\uc9c4\uc120 \ub4dc\ub77c\uc774\ubc84\uc2a4\uc719 #golf #golfswing #\uace8\ud504 #\uace8\ud504\uc2a4\uc719 #\uc5ec\uc790\uace8\ud504 #\uc5ec\uc790\uace8\ud504\uc2a4\uc719 #\uc544\ub3c4\ub2c8\uc2a4",
+                "thumbnails": "https://i.ytimg.com/vi/3O8JX0TpVXg/mqdefault.jpg",
+                "profileUrl": "https://yt3.ggpht.com/GkwERtEu_n0BDu_xouJZJXVPSqeOpGD7YMaiRPQaQmxiKqfTE2Pg4rqI0GtvbhDbGlO77PFQ=s88-c-k-c0x00ffffff-no-rj",
+                "videoId": "3O8JX0TpVXg",
+                "publish": "2026-09-29T23:26:32Z"
             },
             {
-                "channelId": "UCkvr7zpPOpYX3ZpwgrsKHGQ",
-                "channelTitle": "\ud14c\ub514TV",
-                "title": "\uc544\uc9c1\ub3c4 \uc5ce\uc5b4\uce58\ub294 \uc544\uc6c3-\uc778 \uc2a4\uc719? #\uace8\ud504 #\uace8\ud504\uc2a4\uc719  #\u30b4\u30eb\u30d5 #\u30b4\u30eb\u30d5\u30b9\u30a4\u30f3\u30b0 #Golf #GolfSwing",
-                "thumbnails": "https://i.ytimg.com/vi/_TqvIrji77c/mqdefault.jpg",
-                "profileUrl": "https://yt3.ggpht.com/OLO3qAFC3YQsbwHF6PH43cgbPOHeRE565jBLv51SPO22P-QQ6qQ4NINJ55N9Zcs-9l1DGXnR=s88-c-k-c0x00ffffff-no-rj",
-                "videoId": "_TqvIrji77c",
-                "publish": "2026-09-28T21:26:11Z"
+                "channelId": "UCpGlUyP6UTifmPO-57Rx33g",
+                "channelTitle": "Sangsoo KIM",
+                "title": "The best teacher is the practice swing. #\uace8\ud504 \uc2a4\uc719",
+                "thumbnails": "https://i.ytimg.com/vi/X_bPmMe4IvY/mqdefault.jpg",
+                "profileUrl": "https://yt3.ggpht.com/mtc_JO5v1VcwdJs9X1WtKmhTg2K7FmhbuGcDoy80rWlM-Ki68V4yfG-FKxRV9dKEo2L3jctJ=s88-c-k-c0x00ffffff-no-rj",
+                "videoId": "X_bPmMe4IvY",
+                "publish": "2026-09-29T23:00:30Z"
             },
             {
-                "channelId": "UCPhi__6HkUnLbzFv2_pYjkg",
-                "channelTitle": "\uc5ed\uace1 \uae40\uc5f0\uc21c \ub304\uc2a4\uc2a4\ucfe8  \uc5ed\uace1\ub0a8\ubd80\ub304\uc2a4",
-                "title": "\uae40\uc5f0\uc21c\ub304\uc2a4\uc2a4\ucfe8#\uace8\ud504\ub098\uc6b4\ub529#\uace8\ud504#\uace8\ud504\uc2a4\uc719#\uace8\ud504\ub808\uc2a8#\uace8\ud504\uc5f0\uc2b5",
-                "thumbnails": "https://i.ytimg.com/vi/zFza6UuszUA/mqdefault.jpg",
-                "profileUrl": "https://yt3.ggpht.com/mF-CWwExlfJV7OYkXK_hoP_NPgfs91J25S-0tvc1Pynz_1i34P8k8BFDtizTPGerjITwhyrq=s88-c-k-c0x00ffffff-no-rj",
-                "videoId": "zFza6UuszUA",
-                "publish": "2026-09-28T20:16:08Z"
+                "channelId": "UCJQsgtx2VcPobCuW5hoGK6Q",
+                "channelTitle": "\ub77c\uc6b4\ub4dc\ud30c\ud06c\uace8\ud504 \uc544\uce74\ub370\ubbf8",
+                "title": "\ud30c\ud06c\uace8\ud504 \uce58\ub294 \ubc95! \ub0b4 \uc2a4\uc719 \uc774\ub300\ub85c \uad1c\ucc2e\ub098? \uc2a4\uc719 \uc810\uac80 \ud301 5\uac00\uc9c0! #\ud30c\ud06c\uace8\ud504 #\ud30c\ud06c\uace8\ud504\ub3d9\uc601\uc0c1 #\ud30c\ud06c\uace8\ud504\uc2a4\uc719 #\ud30c\ud06c\uace8\ud504\uc798\uce58\ub294\ubc95 #\ud30c\ud06c\uace8\ud504\uafc0\ud301",
+                "thumbnails": "https://i.ytimg.com/vi/i8qGx-7R8bA/mqdefault.jpg",
+                "profileUrl": "https://yt3.ggpht.com/lg06F-n_sfopdIFdKsnFvkogzmJPNo8Lf0RV2joq17Ype89KuElPo8sXL7MWCo1S27QPKTSMWA=s88-c-k-c0x00ffffff-no-rj",
+                "videoId": "i8qGx-7R8bA",
+                "publish": "2026-09-29T23:00:33Z"
             },
             {
-                "channelId": "UCkA4oDl1BrB1t_KUxf7tRCA",
-                "channelTitle": "\ud55c\ub2ec\ub450\ubc88\uace8\ud37c\ud0a4\ub9cc\uae38",
-                "title": "\uc804\uacf5\ubc30 \ub2e4\uc2dc\ud55c\ubc88\uac00\ubcf4\uc790 #golf #\uace8\ud504\uc2a4\uc719 #golfswing #\uace8\ud504\uc5f0\uc2b5 #\uace8\ud504\ub808\uc2a8",
-                "thumbnails": "https://i.ytimg.com/vi/Xal7veAdd_Q/mqdefault.jpg",
-                "profileUrl": "https://yt3.ggpht.com/njKYMalVtIG773nUZKqIzBy_cBA0VumzWlJiRn4nNFYeOM_aWaG7YHOUVON7h0A8-Be5Rp99LIU=s88-c-k-c0x00ffffff-no-rj",
-                "videoId": "Xal7veAdd_Q",
-                "publish": "2026-09-28T18:19:14Z"
-            },
-            {
-                "channelId": "UCDNjlghlbriuegwOVeWwa6w",
-                "channelTitle": "\ub118\ubc84\uc6d0\uc0f7 | \ud68c\uacc4\uc0ac\uc758 \uace8\ud504\ub178\ud2b8",
-                "title": "\uc624\ud638\ub9ac \uc720\uc9c0\ub85c \uc2a4\uc719, \uc790\uafb8 \ub3cc\ub824\ubcf4\uac8c \ub429\ub2c8\ub2e4 #\uace8\ud504 #\uc2a4\uc719 #\u5927\u5800\u88d5\u6b21\u90ce #\uc2e0\ud55c\ub3d9\ud574\uc624\ud508 #Shorts",
-                "thumbnails": "https://i.ytimg.com/vi/tYXOQROksFw/mqdefault.jpg",
-                "profileUrl": "https://yt3.ggpht.com/e6LteD9IuZSEjuyLCtaX2b0_-EYTv4fPnc7y8MnuZ4LxW-yWCQg5gcbE4Thr94os7k8xSyb1njE=s88-c-k-c0x00ffffff-no-rj",
-                "videoId": "tYXOQROksFw",
-                "publish": "2026-09-28T16:00:21Z"
+                "channelId": "UCbJePDmHWwQMcCIWP8lVhhg",
+                "channelTitle": "\uc624\ub298\ub3c4 \uad7f\uc0f7",
+                "title": "\ub4a4\ub545 \ud0d1\ubcfc \ub098\ub294 \ubd84 \ud0c0\uc774\uac70\uc6b0\uc988 \ucc99\ucd94\uac01 #\uace8\ud504\uc2a4\uc719 #\uace8\ud504\ub808\uc2a8",
+                "thumbnails": "https://i.ytimg.com/vi/kor4dad4NtQ/mqdefault.jpg",
+                "profileUrl": "https://yt3.ggpht.com/9UD0AR61FjlZ7J-FtSTmoLqDfIIElg-FNi7YMpJTASH8CiP-bbNlkC-u_iwhA18rtvpH_g1A=s88-c-k-c0x00ffffff-no-rj",
+                "videoId": "kor4dad4NtQ",
+                "publish": "2026-09-29T23:00:03Z"
             },
             {
                 "channelId": "UC1_12v7ZYkJfB-EtzXPSufA",
                 "channelTitle": "\ud669\uc601\uc9c4\ud504\ub85cTV",
-                "title": "\uace8\ud504 \uc2a4\uc719 \ub3d9\uc601\uc0c1 \uc815\ubc00 \ubd84\uc11d \uc6d0\ud3ec\uc778\ud2b8 \ub77c\uc774\ube0c \ub808\uc2a8 #\uace8\ud504 #\uace8\ud504\ub808\uc2a8 #golf #golfswing #\uace8\ud504\uc2a4\uc719 #\uace8\ud504\uc874 #admr",
-                "thumbnails": "https://i.ytimg.com/vi/OcNn7tff8j0/mqdefault.jpg",
+                "title": "\uadf8\ub9bc\uac19\uc740 \uad7f\ud398\uc774\ub4dc #\uace8\ud504 #\uace8\ud504\ub808\uc2a8 #\uc544\ub984\ub2e4\uc6b4\uace8\ud504\uc7a5 #\uace8\ud504\uc2a4\uc719 #golf #golfswing #\uace8\ud504\uc2a4\uc719 #\ud544\ub4dc #admr",
+                "thumbnails": "https://i.ytimg.com/vi/HKecDzHxQ0k/mqdefault.jpg",
                 "profileUrl": "https://yt3.ggpht.com/hgm9RLRHODPYcueiKxoAYoMmttGhZXkjeorqlhCdjaTzl_l3MpJ8KgeFVUwcDoP7QKj6Q2oH=s88-c-k-c0x00ffffff-no-rj",
-                "videoId": "OcNn7tff8j0",
-                "publish": "2026-09-28T15:56:03Z"
-            },
-            {
-                "channelId": "UCxvqj2udcGBtUpL-qvFe5Zw",
-                "channelTitle": "\ub3d9\ubc31\uc774tv",
-                "title": "\ub514\uacf5\ud0c0 \ub530\ub77c\ud574\ubd04 #\uace8\ud504 #\uace8\ud504\uc874 #\uace8\ud504\uc2a4\uc719 #\ub4dc\ub77c\uc774\ubc84\uc2a4\uc719 #golf #golfswing #driver",
-                "thumbnails": "https://i.ytimg.com/vi/KV2hhiVqa7Y/mqdefault.jpg",
-                "profileUrl": "https://yt3.ggpht.com/zfvMWbTrUR258e0Diq7XZqfBHWhwssNE15x9l9Ilb53hXWUP-QVbWmDQC_wKp7MOn460VcXDspY=s88-c-k-c0x00ffffff-no-rj",
-                "videoId": "KV2hhiVqa7Y",
-                "publish": "2026-09-28T15:40:15Z"
-            },
-            {
-                "channelId": "UC8hNUHYIr99Aeds2pWny5wQ",
-                "channelTitle": "\uc2a4\uc719\ub808\ucf54\ub529",
-                "title": "\ub9ac\ub4ec\uc73c\ub85c \uc9c0\uba74\ubc18\ub825 \ub290\ub07c\uc138\uc694 #\uc190\uc608\ube48",
-                "thumbnails": "https://i.ytimg.com/vi/9jLGi_lTq2I/mqdefault.jpg",
-                "profileUrl": "https://yt3.ggpht.com/-zagKN3S_eqLCJz6tWHfdZ71lStMXz5WhhcYzcW3VXNPlptcMbm0WpcxgqjsHq8wVXuz-RBO=s88-c-k-c0x00ffffff-no-rj",
-                "videoId": "9jLGi_lTq2I",
-                "publish": "2026-09-28T14:45:24Z"
+                "videoId": "HKecDzHxQ0k",
+                "publish": "2026-09-29T22:24:08Z"
             },
             {
                 "channelId": "UCvKKysCWGXnKWOnnx9D0QxA",
                 "channelTitle": "\ub098\uc57c\uc5b8\ub2c8\uace8\ud504",
-                "title": "\uc544\uc774\uc5b8\uc2a4\uc719#NX\ud50c\ub7ec\uc2a4#\uace8\ud504\uc874#\uc2a4\ud06c\ub9b0\uace8\ud504#\uace8\ud504\uc2a4\uc719#\uace8\ud504#golf#golfswing #putter#golfpractice#golflesson",
-                "thumbnails": "https://i.ytimg.com/vi/NgStnIGGoqY/mqdefault.jpg",
+                "title": "\ud0a4\uc2a4 \ubbf8\uccbc(Keith Mitchell)#NX\ud50c\ub7ec\uc2a4#\uace8\ud504\uc874#\uc2a4\ud06c\ub9b0\uace8\ud504#\uace8\ud504\uc2a4\uc719#\uace8\ud504#golf#golfswing #putter#golfpractice#golflesson",
+                "thumbnails": "https://i.ytimg.com/vi/FcF_nbQ_6a8/mqdefault.jpg",
                 "profileUrl": "https://yt3.ggpht.com/gdwTxrkgTOf-WFtFddfd61rImAInBh4Lgccr5y7uIVG4FC9CaNMaQdZ52ccJw5CDdfXfS_rQ=s88-c-k-c0x00ffffff-no-rj",
-                "videoId": "NgStnIGGoqY",
-                "publish": "2026-09-28T14:00:13Z"
+                "videoId": "FcF_nbQ_6a8",
+                "publish": "2026-09-29T22:00:14Z"
             },
             {
-                "channelId": "UCEY7klUoVEl7zyEOsnWFyCA",
-                "channelTitle": "\uae61\ud504\ub85c",
-                "title": "\uad7f\uc0f7 \ub4dc\ub77c\uc774\ubc84 \uce21\uba74 \uc2a4\uc719#\uace8\ud504 #\uace8\ud504\uc2a4\uc719 #golf #\ub4dc\ub77c\uc774\ubc84\uc2a4\uc719",
-                "thumbnails": "https://i.ytimg.com/vi/SrdZQTo_Q_8/mqdefault.jpg",
-                "profileUrl": "https://yt3.ggpht.com/Gl-V67aw3kMcHHH1s8aAaQ1i4xi79iwj6oaX5c3udLPs6iwGJSL__XY1nNPeXJuG4XeEfJzNKg=s88-c-k-c0x00ffffff-no-rj",
-                "videoId": "SrdZQTo_Q_8",
-                "publish": "2026-09-28T13:42:52Z"
+                "channelId": "UClv2tazo7xlrJK8cc32Tv8w",
+                "channelTitle": "\uc0dd\ud06c\ub300\uc7a5",
+                "title": "\uc67c\ucabd \uc5c9\ub369\uc774\ub85c \ubb38\uc744 \ub2eb\uc73c\uc138\uc694! #\uace8\ud504 #\uace8\ud504\uc2a4\uc719 #\uace8\ud504\ub808\uc2a8 #\uc5bc\ub9ac\uc775\uc2a4\ud150\uc158 #\ubc30\uce58\uae30",
+                "thumbnails": "https://i.ytimg.com/vi/dC6xW7o2ynU/mqdefault.jpg",
+                "profileUrl": "https://yt3.ggpht.com/mcabWKuX-26U-sTN6xQjn45YqDafDvGLJz0UI7l69k2XIcTAQlXaBSZcIhl0ZqKQrjZsoUEZDA=s88-c-k-c0x00ffffff-no-rj",
+                "videoId": "dC6xW7o2ynU",
+                "publish": "2026-09-29T22:00:28Z"
+            },
+            {
+                "channelId": "UCnWPKWZThYV9b5w2T9TPsqg",
+                "channelTitle": "\ubaa8\ub450\uc758 \uc804\ubb38\uac00",
+                "title": "\u1112\u1161\u11ab\u110c\u1175\u11ab\uc120 \ud504\ub85c\uc758 \uba4b\uc9c4 \ub4dc\ub77c\uc774\ubc84\uc0f7 #golf #\uace8\ud504 #\ub4dc\ub77c\uc774\ubc84\uc2a4\uc719 #\ub4dc\ub77c\uc774\ubc84\ub358\uc9c0\uae30  #\uace8\ud504\uc2a4\uc719 #\uace8\ud504\uc1fc\uce20",
+                "thumbnails": "https://i.ytimg.com/vi/EcVPHzLaT04/mqdefault.jpg",
+                "profileUrl": "https://yt3.ggpht.com/OJ2hpIK-fvoX5GT3BR2qSPQ2bIl0b2Vic0u9HvnFre9uRrrVeLGXsi3hWfYF6tMAuP-ndRI9W4w=s88-c-k-c0x00ffffff-no-rj",
+                "videoId": "EcVPHzLaT04",
+                "publish": "2026-09-29T22:00:07Z"
+            },
+            {
+                "channelId": "UCpujOXXHnJytkw2GriVQcjA",
+                "channelTitle": "GolfCatTV ",
+                "title": "#RoryMcilroy #driverswing   \ub4dc\ub77c\uc774\ubc84\uc2a4\uc719 \ubc30\uc6cc\ubd05\uc2dc\ub2e4",
+                "thumbnails": "https://i.ytimg.com/vi/ZXK0VuwmIiM/mqdefault.jpg",
+                "profileUrl": "https://yt3.ggpht.com/5x6T8MPEfsYStgkuuPV9IwLwnRjB2LyN0CJByPYCkvdeEHHq8_6xRh-MKlOkl2QuxWlSZP61PQ=s88-c-k-c0x00ffffff-no-rj",
+                "videoId": "ZXK0VuwmIiM",
+                "publish": "2026-09-29T21:00:38Z"
+            },
+            {
+                "channelId": "UCfjhoSazMHQernSfEWCdLHw",
+                "channelTitle": "\uace8\uc871\ub0a8TV",
+                "title": "\ubc31 \uc2a4\uc719\uc740 \uc624\ub978 \ub2e4\ub9ac\uac00 \ucd95! \ub2e4\uc6b4 \uc2a4\uc719\uc740 \uc67c \ub2e4\ub9ac\uac00 \ucd95! \ucd95\uc744 \uc798 \uc7a1\uc544\uc57c \uc815\ud655\ub3c4 \uc465\uc465!!",
+                "thumbnails": "https://i.ytimg.com/vi/UMJcl2sLl-o/mqdefault.jpg",
+                "profileUrl": "https://yt3.ggpht.com/ymH6QDHGmbSIdXDf0d5bxhhvTp0UXszEnlOJsXlLDUREVK5ufQSLdGR5Wek01Oil7rf-PR6C=s88-c-k-c0x00ffffff-no-rj",
+                "videoId": "UMJcl2sLl-o",
+                "publish": "2026-09-29T20:48:40Z"
+            },
+            {
+                "channelId": "UCiGuLIiTIQQADPXtWIvEuTw",
+                "channelTitle": "\uce5c\uc808\ud55c\ub3d9\uc774\uc528",
+                "title": "\uace8\ud504\uc2a4\uc719\ubd84\uc11d\uc880 \ud574\uc8fc\uc138\uc694 #\ud074\ub77d\uace8\ud504\uc5ec\ud589#\ub8e8\uc774\uc2dc\ud0c0#\uace8\ud504\uc2a4\uc719#\uace8\ud504\ub808\uc2a8",
+                "thumbnails": "https://i.ytimg.com/vi/_NWErcZw_cw/mqdefault.jpg",
+                "profileUrl": "https://yt3.ggpht.com/OPOp-W13nbxUsHRT95OWJ5FtVABrowX5laFt6hcyTL1ctTQwKuy8eRidbD7GctMAoXXmKERfJg=s88-c-k-c0x00ffffff-no-rj",
+                "videoId": "_NWErcZw_cw",
+                "publish": "2026-09-29T18:41:18Z"
             }
         ]
     },
@@ -1308,6 +1290,15 @@
             {
                 "channelId": "UCSl0dA5QIzNDI94ahnTQYWw",
                 "channelTitle": "\uacf5\ud0dc\ud604TV",
+                "title": "\uace8\ud504\uacc4\uc758 \ubc14\uc774\ub7ec\uc2a4",
+                "thumbnails": "https://i.ytimg.com/vi/r18Niz76iz4/mqdefault.jpg",
+                "profileUrl": "https://yt3.ggpht.com/dFLFT_-_XCzhTYRgHOcqLZigW8Oqut-ROHtDK5Jwde9BwLXjiL2WaJ-QHZX0aRWzE-_YEqRn9A=s88-c-k-c0x00ffffff-no-rj",
+                "videoId": "r18Niz76iz4",
+                "publish": "2026-09-29T09:00:16Z"
+            },
+            {
+                "channelId": "UCSl0dA5QIzNDI94ahnTQYWw",
+                "channelTitle": "\uacf5\ud0dc\ud604TV",
                 "title": "\ud504\ub85c\uac00 \ud2f0\uc0f7 33\ubc88 \uce58\uba74 \uba87\uac1c\ub098 \ube60\uc9c8\uae4c?",
                 "thumbnails": "https://i.ytimg.com/vi/ed30VMoWrCo/mqdefault.jpg",
                 "profileUrl": "https://yt3.ggpht.com/dFLFT_-_XCzhTYRgHOcqLZigW8Oqut-ROHtDK5Jwde9BwLXjiL2WaJ-QHZX0aRWzE-_YEqRn9A=s88-c-k-c0x00ffffff-no-rj",
@@ -1475,15 +1466,6 @@
                 "profileUrl": "https://yt3.ggpht.com/dFLFT_-_XCzhTYRgHOcqLZigW8Oqut-ROHtDK5Jwde9BwLXjiL2WaJ-QHZX0aRWzE-_YEqRn9A=s88-c-k-c0x00ffffff-no-rj",
                 "videoId": "Cdc32oAdnOI",
                 "publish": "2026-09-08T10:00:35Z"
-            },
-            {
-                "channelId": "UCSl0dA5QIzNDI94ahnTQYWw",
-                "channelTitle": "\uacf5\ud0dc\ud604TV",
-                "title": "\ub9d0 \ud55c\ubc88 \uc798\ubabb\ud588\ub2e4 \ud070\uc77c \ub0ac\uc2b5\ub2c8\ub2e4",
-                "thumbnails": "https://i.ytimg.com/vi/J8c8p3IEzh4/mqdefault.jpg",
-                "profileUrl": "https://yt3.ggpht.com/dFLFT_-_XCzhTYRgHOcqLZigW8Oqut-ROHtDK5Jwde9BwLXjiL2WaJ-QHZX0aRWzE-_YEqRn9A=s88-c-k-c0x00ffffff-no-rj",
-                "videoId": "J8c8p3IEzh4",
-                "publish": "2026-09-07T10:00:04Z"
             }
         ]
     },
@@ -1491,6 +1473,24 @@
         "title": "\uc2a4\ub0b5\uace8\ud504",
         "subTitle": "(20)",
         "videoList": [
+            {
+                "channelId": "UCRQPU1NBKUXhXuDTiERm9gQ",
+                "channelTitle": "SNACKGOLF [\uc2a4\ub0b5\uace8\ud504]",
+                "title": "\ud30c5 2\uc628\uc774 \uc774\ub807\uac8c \ubb34\uc12d\uc2b5\ub2c8\ub2e4... \uc774\uc131 \uc783\uace0 \ucda4\ucd94\ub294 \uc625\ud0dc\ud6c8 \u314b\u314b\u314b #\uace8\ud504",
+                "thumbnails": "https://i.ytimg.com/vi/pPD28JiS7Hg/mqdefault.jpg",
+                "profileUrl": "https://yt3.ggpht.com/FTpkdQ8PxnrcNwH1j_JDym2ysZr7RllaR_3CrVEvB2AUeWl77-L_EOsCpzTTNJUXnGnTvPV7=s88-c-k-c0x00ffffff-no-rj",
+                "videoId": "pPD28JiS7Hg",
+                "publish": "2026-09-29T22:22:04Z"
+            },
+            {
+                "channelId": "UCRQPU1NBKUXhXuDTiERm9gQ",
+                "channelTitle": "SNACKGOLF [\uc2a4\ub0b5\uace8\ud504]",
+                "title": "\uce74\uba54\ub77c \uc55e\uc5d0\uc11c\ub3c4 \ubd84\ub178\uc870\uc808 \uc2e4\ud328\ud55c 2025 KPGA \ub300\uc0c1 \uc625\ud0dc\ud6c8 \ucc10\ud150 \ud3ed\ubc1c \ud604\uc7a5 \u3137\u3137",
+                "thumbnails": "https://i.ytimg.com/vi/YoQZJuKC6eE/mqdefault.jpg",
+                "profileUrl": "https://yt3.ggpht.com/FTpkdQ8PxnrcNwH1j_JDym2ysZr7RllaR_3CrVEvB2AUeWl77-L_EOsCpzTTNJUXnGnTvPV7=s88-c-k-c0x00ffffff-no-rj",
+                "videoId": "YoQZJuKC6eE",
+                "publish": "2026-09-29T10:00:32Z"
+            },
             {
                 "channelId": "UCRQPU1NBKUXhXuDTiERm9gQ",
                 "channelTitle": "SNACKGOLF [\uc2a4\ub0b5\uace8\ud504]",
@@ -1652,24 +1652,6 @@
                 "profileUrl": "https://yt3.ggpht.com/FTpkdQ8PxnrcNwH1j_JDym2ysZr7RllaR_3CrVEvB2AUeWl77-L_EOsCpzTTNJUXnGnTvPV7=s88-c-k-c0x00ffffff-no-rj",
                 "videoId": "sYUFwy-nG6U",
                 "publish": "2026-09-03T05:10:52Z"
-            },
-            {
-                "channelId": "UCRQPU1NBKUXhXuDTiERm9gQ",
-                "channelTitle": "SNACKGOLF [\uc2a4\ub0b5\uace8\ud504]",
-                "title": "\uc0c1\ub300 \uc228\ud1b5 \ub04a\ub294 \uc815\ucc2c\ubbfc \ud504\ub85c\uc758 '\ub77c\uc778 \ubcf4\uc778\ub2e4' \ub871\ud37c\ud2b8 \uc0b4\uc778 #\ud37c\ud130",
-                "thumbnails": "https://i.ytimg.com/vi/SIISiVYuSeA/mqdefault.jpg",
-                "profileUrl": "https://yt3.ggpht.com/FTpkdQ8PxnrcNwH1j_JDym2ysZr7RllaR_3CrVEvB2AUeWl77-L_EOsCpzTTNJUXnGnTvPV7=s88-c-k-c0x00ffffff-no-rj",
-                "videoId": "SIISiVYuSeA",
-                "publish": "2026-09-02T22:22:02Z"
-            },
-            {
-                "channelId": "UCRQPU1NBKUXhXuDTiERm9gQ",
-                "channelTitle": "SNACKGOLF [\uc2a4\ub0b5\uace8\ud504]",
-                "title": "\ud504\ud504\ub2e4 \uad74\uc695 \uc53b\uace0 '\uc5ed\ub300\uae09 \uc2a4\ucf54\uc5b4' \ucc0d\uc740 \ubc30\uc138\uc900 VS KPGA \ud3c9\uade0 317\uc57c\ub4dc \uc815\ucc2c\ubbfc \ud504\ub85c! \uc774 \ub300\uacb0 \uc2e4\ud654?",
-                "thumbnails": "https://i.ytimg.com/vi/o4qtHDWaDlQ/mqdefault.jpg",
-                "profileUrl": "https://yt3.ggpht.com/FTpkdQ8PxnrcNwH1j_JDym2ysZr7RllaR_3CrVEvB2AUeWl77-L_EOsCpzTTNJUXnGnTvPV7=s88-c-k-c0x00ffffff-no-rj",
-                "videoId": "o4qtHDWaDlQ",
-                "publish": "2026-09-01T10:00:28Z"
             }
         ]
     },
@@ -2052,6 +2034,15 @@
             {
                 "channelId": "UCaZVzqDdG-IPb_zVEsezlJQ",
                 "channelTitle": "\ud504\ub85c\ud5c8\uc11d[Pro Golfer Heo]",
+                "title": "\ud5e4\ub4dc \ubb34\uac8c \ub290\ub07c\ub294 \ubc95 \uc774\uac83\ub9cc \uacc4\uc18d \uc5f0\uc2b5\ud558\uc138\uc694",
+                "thumbnails": "https://i.ytimg.com/vi/J6c4bA1Otd0/mqdefault.jpg",
+                "profileUrl": "https://yt3.ggpht.com/AVGF1VsCKf7-Zn1oYpOYQPp94mzsNypwgb_E0r6XhR8ZDXFaW8WrKdAg5h1Nts5SU-5xmBjZcA=s88-c-k-c0x00ffffff-no-rj",
+                "videoId": "J6c4bA1Otd0",
+                "publish": "2026-09-29T09:00:39Z"
+            },
+            {
+                "channelId": "UCaZVzqDdG-IPb_zVEsezlJQ",
+                "channelTitle": "\ud504\ub85c\ud5c8\uc11d[Pro Golfer Heo]",
                 "title": "\ub2e4\ub4e4 '\ud5e4\ub4dc \ubb34\uac8c'\ub97c \uc8fd\uc5b4\ub77c \uac15\uc870\ud558\ub294 \uc774\uc720\uc785\ub2c8\ub2e4",
                 "thumbnails": "https://i.ytimg.com/vi/BbXAtiFM8oo/mqdefault.jpg",
                 "profileUrl": "https://yt3.ggpht.com/AVGF1VsCKf7-Zn1oYpOYQPp94mzsNypwgb_E0r6XhR8ZDXFaW8WrKdAg5h1Nts5SU-5xmBjZcA=s88-c-k-c0x00ffffff-no-rj",
@@ -2219,15 +2210,6 @@
                 "profileUrl": "https://yt3.ggpht.com/AVGF1VsCKf7-Zn1oYpOYQPp94mzsNypwgb_E0r6XhR8ZDXFaW8WrKdAg5h1Nts5SU-5xmBjZcA=s88-c-k-c0x00ffffff-no-rj",
                 "videoId": "z3mYNDCSiPk",
                 "publish": "2026-09-15T02:30:14Z"
-            },
-            {
-                "channelId": "UCaZVzqDdG-IPb_zVEsezlJQ",
-                "channelTitle": "\ud504\ub85c\ud5c8\uc11d[Pro Golfer Heo]",
-                "title": "\uac11\uc791\uc2a4\ub7f0 \uc2ac\ub77c\uc774\uc2a4\uc5d4 \ub2f9\ud669\ud558\uc9c0 \ub9d0\uace0 \ub450 \uac00\uc9c0\ub9cc \uae30\uc5b5\ud558\uc138\uc694",
-                "thumbnails": "https://i.ytimg.com/vi/CMt5bcBMIVk/mqdefault.jpg",
-                "profileUrl": "https://yt3.ggpht.com/AVGF1VsCKf7-Zn1oYpOYQPp94mzsNypwgb_E0r6XhR8ZDXFaW8WrKdAg5h1Nts5SU-5xmBjZcA=s88-c-k-c0x00ffffff-no-rj",
-                "videoId": "CMt5bcBMIVk",
-                "publish": "2026-09-14T09:00:12Z"
             }
         ]
     },
@@ -2235,6 +2217,15 @@
         "title": "\uc6fb\ucc0c\ubc15",
         "subTitle": "(20)",
         "videoList": [
+            {
+                "channelId": "UCDw9BQqDFMbqQ9jKScaEPVQ",
+                "channelTitle": "\uc6fb\ucc0c\ubc15 l Wegde Park",
+                "title": "\uc5ec\uc8fc \uc2e0\ub77c \uc9c0\uae08 \uc0c1\ud0dc \uc88b\uc2b5\ub2c8\ub2e4. \uadfc\ub370 \uc800 \ub0a0\uc740 \ub418\uac8c \uc9e7\uac8c \ube7c\ub194\uc11c \ub4dc\ub77c\uc774\ubc84 \uce58\uba74 \uc6e8\uc9c0\ub9cc \uc7a1\uc74c.. #\uace8\ud504 #\uace8\ud504\uc2a4\uc719",
+                "thumbnails": "https://i.ytimg.com/vi/oiyyy5Rdpxk/mqdefault.jpg",
+                "profileUrl": "https://yt3.ggpht.com/ZhpzvOPtU3ObMkHw5fQNMNLdv28imZq8-2YF6_DMQ4rEnSQ5JDBJwZsCP8TpxVOFMIAyXfbe5Q=s88-c-k-c0x00ffffff-no-rj",
+                "videoId": "oiyyy5Rdpxk",
+                "publish": "2026-09-29T23:18:53Z"
+            },
             {
                 "channelId": "UCDw9BQqDFMbqQ9jKScaEPVQ",
                 "channelTitle": "\uc6fb\ucc0c\ubc15 l Wegde Park",
@@ -2405,15 +2396,6 @@
                 "profileUrl": "https://yt3.ggpht.com/ZhpzvOPtU3ObMkHw5fQNMNLdv28imZq8-2YF6_DMQ4rEnSQ5JDBJwZsCP8TpxVOFMIAyXfbe5Q=s88-c-k-c0x00ffffff-no-rj",
                 "videoId": "b2jb1tmRQlM",
                 "publish": "2026-06-29T10:11:17Z"
-            },
-            {
-                "channelId": "UCDw9BQqDFMbqQ9jKScaEPVQ",
-                "channelTitle": "\uc6fb\ucc0c\ubc15 l Wegde Park",
-                "title": "\uc774\ub7f0\ub370\uc11c \uc65c \uce58\ub0d0\uad6c\uc694? \uc9c0\uccd0\uc11c\uc694.",
-                "thumbnails": "https://i.ytimg.com/vi/8BS6e3T6vOw/mqdefault.jpg",
-                "profileUrl": "https://yt3.ggpht.com/ZhpzvOPtU3ObMkHw5fQNMNLdv28imZq8-2YF6_DMQ4rEnSQ5JDBJwZsCP8TpxVOFMIAyXfbe5Q=s88-c-k-c0x00ffffff-no-rj",
-                "videoId": "8BS6e3T6vOw",
-                "publish": "2026-06-25T09:21:24Z"
             }
         ]
     }
